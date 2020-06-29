@@ -35,3 +35,7 @@ The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal
 ### Testing
 
 - [motoko-bigtest](https://github.com/dfinity/motoko-bigmap/tree/master/src/BigTest) - A generic testing DSL (written in Motoko) for Internet Computer services; currently part of [BigMap](https://github.com/dfinity/motoko-bigmap).
+
+### Games
+
+- [ic-game-terminal](https://github.com/matthewhammeer/ic-game-terminal) - Native keyboard input and graphical output for Internet Computer services, with examples in Motoko.
