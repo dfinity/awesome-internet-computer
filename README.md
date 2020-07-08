@@ -23,13 +23,17 @@ The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal
 
 ## Motoko Libraries
 
+
 ### Data structures
+
+- [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A generic CRUD framework for Motoko.
 
 - [motoko-bigmap](https://github.com/dfinity/motoko-bigmap) - A map data structure that scales beyond the limits of single canisters and single networks.
 
 ### Algorithms
 
 - [motoko-adapton](https://github.com/matthewhammer/motoko-adapton) - Dynamic dependence graph and memoization techniques in Motoko.
+
 - [motoko-redraw](https://github.com/matthewhammer/motoko-redraw) - 2D graphics and layout algorithms for Motoko.
 
 ### Testing
