@@ -21,6 +21,12 @@ The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal
 [Hero](https://github.com/stanleygjones/hackathon) - A random "killer app" generator inspired by the Wu-Tang Name Generator.
 
 
+## Motoko Resources
+
+- [Vessel package manager](https://github.com/kritzcreek/vesse)
+
+- [VSCode plugin](https://github.com/dfinity/dfinity-lab/vscode-motoko)
+
 ## Motoko Libraries
 
 
