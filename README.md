@@ -42,4 +42,4 @@ The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal
 
 ### Games
 
-- [ic-game-terminal](https://github.com/matthewhammeer/ic-game-terminal) - Native keyboard input and graphical output for Internet Computer services, with examples in Motoko.
+- [ic-game-terminal](https://github.com/matthewhammer/ic-game-terminal) - Native keyboard input and graphical output for Internet Computer services, with examples in Motoko.
