@@ -34,8 +34,6 @@ The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal
 
 - [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A generic CRUD framework for Motoko.
 
-- [motoko-bigmap](https://github.com/dfinity/motoko-bigmap) - A map data structure that scales beyond the limits of single canisters and single networks.
-
 ### Algorithms
 
 - [motoko-adapton](https://github.com/matthewhammer/motoko-adapton) - Dynamic dependence graph and memoization techniques in Motoko.
@@ -44,8 +42,6 @@ The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal
 
 ### Testing
 
-- [motoko-bigtest](https://github.com/dfinity/motoko-bigmap/tree/master/src/BigTest) - A generic testing DSL (written in Motoko) for Internet Computer services; currently part of [BigMap](https://github.com/dfinity/motoko-bigmap).
+- [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
 
-### Games
-
-- [ic-game-terminal](https://github.com/matthewhammer/ic-game-terminal) - Native keyboard input and graphical output for Internet Computer services, with examples in Motoko.
+- [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) - Long-running tests as/for IC services, via a Motoko-based DSL.
