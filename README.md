@@ -25,10 +25,8 @@ The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal
 
 - [Vessel package manager](https://github.com/kritzcreek/vesse)
 
-- [VSCode plugin](https://github.com/dfinity/dfinity-lab/vscode-motoko)
 
 ## Motoko Libraries
-
 
 ### Data structures
 
