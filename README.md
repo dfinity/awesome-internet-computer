@@ -34,7 +34,7 @@ The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal
 
 ### Algorithms
 
-- [motok-parsec](https://github.com/crusso/mo-parsec/) - A [Parsec](https://hackage.haskell.org/package/parsec)-based parser combinator library for Motoko.
+- [mo-parsec](https://github.com/crusso/mo-parsec) - A [Parsec](https://hackage.haskell.org/package/parsec)-based parser combinator library for Motoko.
 
 - [motoko-adapton](https://github.com/matthewhammer/motoko-adapton) - Dynamic dependence graph and memoization techniques in Motoko.
 
