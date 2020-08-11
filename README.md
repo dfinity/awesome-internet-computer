@@ -23,7 +23,7 @@ The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal
 
 ## Motoko Resources
 
-- [Vessel package manager](https://github.com/kritzcreek/vesse)
+- [Vessel package manager](https://github.com/kritzcreek/vessel)
 
 
 ## Motoko Libraries
