@@ -6,9 +6,17 @@
 
 A curated list of awesome projects and resources relating to [DFINITY](https://dfinity.org) and the Internet Computer.
 
+
+If you want to contribute projects or tools, please first read our [Contributing](.github/CONTRIBUTING.md) guidelines and agree to abide by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
+
+## Developer community projects
+
+Submit a pull request to add a link to your repository here.
+
+
 ## Tungsten Hackathon
 
-The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 ahead of the Tungsten release.
+The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 ahead of the Tungsten release milestone.
 
 [Magnify](https://github.com/Dfinity-Bjoern/Magnify) - A secure video conferencing application using WebRTC.
 
