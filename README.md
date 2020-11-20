@@ -13,6 +13,18 @@ If you want to contribute projects or tools, please first read our [Contributing
 
 Submit a pull request to add a link to your repository here.
 
+### Tungsten demo day
+
+- [Bonus](https://github.com/seniorjoinu/Bonus) - Next-generation loyalty system built on the Internet Computer.
+
+- [Get Impact Now](https://github.com/getimpactnow/getimpactnow/) - Digital platform which enables responsible citizens to be a part of the decision-making process.
+
+- [Internet Computer Queue System (ICQS)](https://github.com/davidp94/icqs-demo) - A bridge to legacy systems, such as email.
+
+- [NNS Explorer](https://github.com/hashquark-io/nnsExplorer) - Mock explorer for the Internet Computer's Network Nervous System (NNS).
+
+- [Sailfish](https://github.com/sailfish-app) - The gateway to open financial services on the DFINITY Internet Computer.
+
 ## Hackathon projects
 
 The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
