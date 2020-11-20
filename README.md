@@ -13,7 +13,6 @@ If you want to contribute projects or tools, please first read our [Contributing
 
 Submit a pull request to add a link to your repository here.
 
-
 ## Hackathon projects
 
 The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
@@ -30,10 +29,19 @@ The following represent a few of the applications that teams developed over the 
 
 - [Hero](https://github.com/stanleygjones/hackathon) - A random "killer app" generator inspired by the Wu-Tang Name Generator.
 
+## Example apps from the DFINITY team
+
+- [IC Game Terminal](https://github.com/matthewhammer/ic-game-terminal) - Keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
+
+- [Journey](https://github.com/hansl/journey) - An open blog engine written for the Internet Computer.
+
+- [Reversi](https://github.com/ninegua/reversi) - A multiplayer Reversi Game on Internet Computer.
+
+- [Superheroes](https://github.com/enzoh/superheroes) - A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.
+
 ## Motoko resources
 
 - [Vessel package manager](https://github.com/kritzcreek/vessel)
-
 
 ## Motoko libraries
 
@@ -41,16 +49,24 @@ The following represent a few of the applications that teams developed over the 
 
 - [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A generic CRUD framework for Motoko.
 
+- [motoko-dht](https://github.com/enzoh/motoko-dht) - A Motoko Distributed Hash Table (DHT) canister.
+
+- [motoko-graph](https://github.com/matthewhammer/motoko-graph) - Graphical data models for Motoko.
+
+- [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
+
 ### Algorithms
 
 - [mo-parsec](https://github.com/crusso/mo-parsec) - A [Parsec](https://hackage.haskell.org/package/parsec)-based parser combinator library for Motoko.
 
 - [motoko-adapton](https://github.com/matthewhammer/motoko-adapton) - Dynamic dependence graph and memoization techniques in Motoko.
 
+- [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/master/service/BigSearch.mo) - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
+
 - [motoko-redraw](https://github.com/matthewhammer/motoko-redraw) - 2D graphics and layout algorithms for Motoko.
 
 ### Testing
 
-- [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
-
 - [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) - Long-running tests as/for IC services, via a Motoko-based DSL.
+
+- [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
