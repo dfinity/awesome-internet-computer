@@ -14,27 +14,28 @@ If you want to contribute projects or tools, please first read our [Contributing
 Submit a pull request to add a link to your repository here.
 
 
-## Tungsten Hackathon
+## Hackathon projects
 
-The Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 ahead of the Tungsten release milestone.
+The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
 
-[Magnify](https://github.com/Dfinity-Bjoern/Magnify) - A secure video conferencing application using WebRTC.
+The following represent a few of the applications that teams developed over the two-day period:
 
-[Dual](https://github.com/egeyar/wochonecha/) - A social app for creating, completing, and tracking various challenges.
+- [Magnify](https://github.com/Dfinity-Bjoern/Magnify) - A secure video conferencing application using WebRTC.
 
-[Bookworm](https://github.com/rstout/bookworm) - An open publishing application inspired by China Literature.
+- [Dual](https://github.com/egeyar/wochonecha/) - A social app for creating, completing, and tracking various challenges.
 
-[Shield](https://github.com/crusso/shield) - An app connecting at-risk people with nearby volunteers.
+- [Bookworm](https://github.com/rstout/bookworm) - An open publishing application inspired by China Literature.
 
-[Hero](https://github.com/stanleygjones/hackathon) - A random "killer app" generator inspired by the Wu-Tang Name Generator.
+- [Shield](https://github.com/crusso/shield) - An app connecting at-risk people with nearby volunteers.
 
+- [Hero](https://github.com/stanleygjones/hackathon) - A random "killer app" generator inspired by the Wu-Tang Name Generator.
 
-## Motoko Resources
+## Motoko resources
 
 - [Vessel package manager](https://github.com/kritzcreek/vessel)
 
 
-## Motoko Libraries
+## Motoko libraries
 
 ### Data structures
 
