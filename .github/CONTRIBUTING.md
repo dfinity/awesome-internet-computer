@@ -3,14 +3,14 @@
 Thank you for your interest in contributing to awesome projects and resources relating to DFINITY and the Internet Computer.
 By participating in this project, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-As a member of the community, you are invited and encouraged to contribute by submitting issues, offering suggestions for improvements, adding review comments to existing pull requests, or creating new pull requests to fix issues.
+As a member of the community, you are invited and encouraged to contribute by submitting issues, offering suggestions for improvements, adding review comments to existing pull requests, or creating new pull requests to fix issues or share your own projects.
 
 All contributions to DFINITY documentation and the developer community are respected and appreciated.
 Your participation is an important factor in the success of the Internet Computer.
 
 ## Contents of this repository
 
-This repository contains example apps built for the Internet Computer by the DFINITY team. The purpose of these example apps is to showcase useful features and use cases of both the Internet Computer and Motoko through sample code and accompanying documentation. It is our hope that these examples help and inspire you to build your own Internet Computer applications.
+This repository contains example apps, libraries, and developer tools built for the Internet Computer by the DFINITY team as well as the Internet Computer developer ecosystem. The purpose of this repository is to provide a curated list of projects and examples, along with sample code and accompanying documentation, to help and inspire you to build your own Internet Computer applications.
 
 ## Before you contribute
 
@@ -26,12 +26,13 @@ Before contributing, consider the following:
 - If you are reporting a bug, provide as much information about the problem
 as possible, including the name of the example app and SDK version.
 
-- If you want to contribute directly to this repository, typical fixes might include any of the following:
+- If you want to contribute directly to this repository, typical fixes and updates might include any of the following:
 
     - Bugs and errors when compiling the example apps
     - Bugs and errors associated with front-end assets
     - Code improvements
     - Feature requests
+    - Adding your own project to the list
 
     Note that any contribution to this repository must be submitted in the form of a **pull request**.
 
@@ -94,7 +95,7 @@ For example, if you are only interested in reporting an issue, there's no need t
 This section describes the most common workflow scenarios:
 
 - Reporting an issue
-- Submitting your own link
+- Submitting your own project
 
 ### Reporting an issue
 
@@ -112,6 +113,12 @@ To open a new issue:
 
     For any problem, describe it in detail, including details about the example app, the version of the code you are using, the results you expected, and how the actual results differed from your expectations.
 
-### Submitting your own link
+### Submitting your own project
 
-Please follow the instructions in the section above titled "How to make a contribution".
+The easiest way to include your project in our curated list is to go to https://github.com/dfinity/awesome-dfinity/blob/master/README.md and click on the "edit" icon in the top right-hand corner. Make any edits, adding your project to the appropriate category, and follow the instructions to create a new pull request.
+
+Before adding your project to the list, consider the following:
+
+1) Will my contribution be valuable to the Internet Computer developer ecosystem?
+2) Does my project contain both code and accompanying documentation?
+3) Please pay attention the appropriate categories and alphabetical ordering, whenever possible.
