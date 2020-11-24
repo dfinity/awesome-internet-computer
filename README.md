@@ -47,7 +47,7 @@ The following represent a few of the applications that teams developed over the 
 
 - [Journey](https://github.com/hansl/journey) - An open blog engine written for the Internet Computer.
 
-- [Reversi](https://github.com/ninegua/reversi) - A multiplayer Reversi Game on Internet Computer.
+- [Reversi](https://github.com/ninegua/reversi) - A multiplayer Reversi game on Internet Computer.
 
 - [Superheroes](https://github.com/enzoh/superheroes) - A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.
 
