@@ -23,7 +23,7 @@ Submit a pull request to add a link to your repository here.
 
 - [NNS Explorer](https://github.com/hashquark-io/nnsExplorer) - Mock explorer for the Internet Computer's Network Nervous System (NNS).
 
-- [Sailfish](https://github.com/sailfish-app) - The gateway to open financial services on the DFINITY Internet Computer.
+- [Sailfish](https://github.com/sailfish-app) - The gateway to open financial services on the Internet Computer.
 
 ## Hackathon projects
 
