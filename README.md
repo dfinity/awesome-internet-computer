@@ -17,7 +17,7 @@ Submit a pull request to add a link to your repository here.
 
 - [Bonus](https://github.com/seniorjoinu/Bonus) - Next-generation loyalty system built on the Internet Computer.
 
-- [Get Impact Now](https://github.com/getimpactnow/getimpactnow/) - Digital platform which enables responsible citizens to be a part of the decision-making process.
+- [Get Impact Now](https://github.com/getimpactnow/getimpactnow/) - Digital platform that enables responsible citizens to be a part of the decision-making process.
 
 - [Internet Computer Queue System (ICQS)](https://github.com/davidp94/icqs-demo) - A bridge to legacy systems, such as email.
 
