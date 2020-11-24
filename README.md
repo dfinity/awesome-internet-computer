@@ -53,7 +53,7 @@ The following represent a few of the applications that teams developed over the 
 
 ## Motoko resources
 
-- [Vessel package manager](https://github.com/kritzcreek/vessel)
+- [Vessel package manager](https://github.com/kritzcreek/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
 
 ## Motoko libraries
 
