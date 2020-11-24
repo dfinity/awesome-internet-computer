@@ -49,7 +49,7 @@ The following represent a few of the applications that teams developed over the 
 
 - [Reversi](https://github.com/ninegua/reversi) - A multiplayer Reversi game on Internet Computer.
 
-- [Superheroes](https://github.com/enzoh/superheroes) - A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.
+- [Superheroes](https://github.com/enzoh/superheroes) - A simple CRUD application that demonstrates using Motoko and React to create your own universe of superheroes that runs on the Internet Computer .
 
 ## Motoko resources
 
