@@ -13,7 +13,7 @@ If you want to contribute projects or tools, please first read our [Contributing
 
 Submit a pull request to add a link to your repository here.
 
-### Tungsten demo day
+### Demo day projects
 
 - [Bonus](https://github.com/seniorjoinu/Bonus) - Next-generation loyalty system built on the Internet Computer.
 
