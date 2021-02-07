@@ -25,6 +25,8 @@ Submit a pull request to add a link to your repository here.
 
 - [Sailfish](https://github.com/sailfish-app) - The gateway to open financial services on the Internet Computer.
 
+- [DFINITY-Vue](https://github.com/nop33/dfinity-vue) - Vue.js and Vuetify integration with DFINITY SDK bootstrap webpack project.
+
 ## Hackathon projects
 
 The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
