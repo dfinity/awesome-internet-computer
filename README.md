@@ -51,6 +51,8 @@ The following represent a few of the applications that teams developed over the 
 
 - [Superheroes](https://github.com/enzoh/superheroes) - A simple CRUD application that demonstrates using Motoko and React to create your own universe of superheroes that runs on the Internet Computer .
 
+- [Fullstack To-do](https://github.com/krpeacock/simple-to-do) - Extension of the to-do example app with a frontend, using a minimal webpack dev-server configuration, web components, and unit and integration testing
+
 ## Motoko resources
 
 - [Vessel package manager](https://github.com/kritzcreek/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
