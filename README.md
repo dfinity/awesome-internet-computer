@@ -82,3 +82,9 @@ The following represent a few of the applications that teams developed over the 
 - [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) - Long-running tests as/for IC services, via a Motoko-based DSL.
 
 - [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
+
+## Frontend
+
+### React
+
+- [cra-template-dfx](https://github.com/taylorham/cra-template-dfx) - A [Create React App](https://github.com/facebook/create-react-app) template configured for using and deploying to IC canisters
