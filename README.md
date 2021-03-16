@@ -90,3 +90,7 @@ The following represent a few of the applications that teams developed over the 
 ### React
 
 - [cra-template-dfx](https://github.com/taylorham/cra-template-dfx) - A [Create React App](https://github.com/facebook/create-react-app) template configured for using and deploying to IC canisters
+
+### Vue
+
+- [DFINITY-Vue](https://github.com/nop33/dfinity-vue) - Vue.js and Vuetify integration with DFINITY SDK bootstrap webpack project.
