@@ -27,7 +27,7 @@ Submit a pull request to add a link to your repository here.
 
 ### Example Apps
 
-- [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-consulting) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY’s LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
+- [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY’s LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
 
 ## Hackathon projects
 
