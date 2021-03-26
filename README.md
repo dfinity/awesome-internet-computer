@@ -25,6 +25,10 @@ Submit a pull request to add a link to your repository here.
 
 - [Sailfish](https://github.com/sailfish-app) - The gateway to open financial services on the Internet Computer.
 
+### Example Apps
+
+- [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY’s LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
+
 ## Hackathon projects
 
 The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
