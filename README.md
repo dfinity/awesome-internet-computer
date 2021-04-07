@@ -29,6 +29,11 @@ Submit a pull request to add a link to your repository here.
 
 - [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY’s LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
 
+- [Hypotenuse Oracles](https://hypotenuse.ca/) - Hypotenuse Dfinity Oracles is a framework for building blockchain oracles for the Internet Computer.
+  - [Framework Repository](https://github.com/hyplabs/dfinity-oracle-framework)
+  - [Weather Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-weather)
+  - [Crypto Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-crypto)
+
 ## Hackathon projects
 
 The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
