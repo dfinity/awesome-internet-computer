@@ -34,6 +34,12 @@ Submit a pull request to add a link to your repository here.
   - [Weather Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-weather)
   - [Crypto Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-crypto)
 
+- [DFinance](https://dfinance.ai/) - DFinance is building basic DeFi components for the Internet Computer, including: token standard, DEX, stablecoin and lending platform.
+  - [motoko-token](https://github.com/dfinance-tech/motoko-token): ERC20 style token template
+  - [DToken](https://github.com/dfinance-tech/dtoken): Token issuance app
+  - [DFinance](https://github.com/dfinance-tech/dfinance): User interface
+
+
 ## Hackathon projects
 
 The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
