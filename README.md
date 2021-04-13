@@ -9,11 +9,27 @@ A curated list of awesome projects and resources relating to [DFINITY](https://d
 
 If you want to contribute projects or tools, please first read our [Contributing](.github/CONTRIBUTING.md) guidelines and agree to abide by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
-## Developer community projects
+---
+
+## 🌐 Community projects
 
 Submit a pull request to add a link to your repository here.
 
-### Demo day projects
+### 🆕 Latest Community Projects
+- [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters
+
+- [IC Deploy Action from Fleek](https://github.com/FleekHQ/IC-Deploy-Action) - The Github Action will trigger a new deployment to the Internet Computer when commits are pushed.
+
+- [Hypotenuse Oracles](https://hypotenuse.ca/) - Hypotenuse Dfinity Oracles is a framework for building blockchain oracles for the Internet Computer.
+  - [Framework Repository](https://github.com/hyplabs/dfinity-oracle-framework)
+  - [Weather Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-weather)
+  - [Crypto Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-crypto)
+
+- [Dfinity Explorer](https://github.com/dfinityexplorer/dfinityexplorer-dashboard) - DFINITY Explorer is an open-source network dashboard built by the DFINITY community.
+
+- [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY’s LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
+
+### ✳️ Demo Day 2020 projects
 
 - [Bonus](https://github.com/seniorjoinu/Bonus) - Next-generation loyalty system built on the Internet Computer.
 
@@ -25,17 +41,59 @@ Submit a pull request to add a link to your repository here.
 
 - [Sailfish](https://github.com/sailfish-app) - The gateway to open financial services on the Internet Computer.
 
-### Example Apps
+---
 
-- [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY’s LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
 
-- [Hypotenuse Oracles](https://hypotenuse.ca/) - Hypotenuse Dfinity Oracles is a framework for building blockchain oracles for the Internet Computer.
-  - [Framework Repository](https://github.com/hyplabs/dfinity-oracle-framework)
-  - [Weather Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-weather)
-  - [Crypto Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-crypto)
+## ![motoko](assets/motoko-logo.png) Motoko Resources
 
-## Hackathon projects
+### 📦 Motoko Package Managers
+- [Vessel package manager](https://github.com/kritzcreek/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
 
+### 📁 Motoko libraries
+
+#### 🏗️ Data structures
+
+- [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/master/service/BigSearch.mo) - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
+
+- [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A generic CRUD framework for Motoko.
+
+- [motoko-dht](https://github.com/enzoh/motoko-dht) - A Motoko Distributed Hash Table (DHT) canister.
+
+- [motoko-graph](https://github.com/matthewhammer/motoko-graph) - Graphical data models for Motoko.
+
+- [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
+
+#### 🧩 Algorithms
+
+- [mo-parsec](https://github.com/crusso/mo-parsec) - A [Parsec](https://hackage.haskell.org/package/parsec)-based parser combinator library for Motoko.
+
+- [motoko-adapton](https://github.com/matthewhammer/motoko-adapton) - Dynamic dependence graph and memoization techniques in Motoko.
+
+- [motoko-redraw](https://github.com/matthewhammer/motoko-redraw) - 2D graphics and layout algorithms for Motoko.
+
+#### 🧪 Testing
+
+- [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) - Long-running tests as/for IC services, via a Motoko-based DSL.
+
+- [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
+
+---
+
+## 🖥️ Frontend Development
+
+### ⚛️ React
+
+- [cra-template-dfx](https://github.com/taylorham/cra-template-dfx) - A [Create React App](https://github.com/facebook/create-react-app) template configured for using and deploying to IC canisters
+
+### Vue
+
+- [DFINITY-Vue](https://github.com/nop33/dfinity-vue) - Vue.js and Vuetify integration with DFINITY SDK bootstrap webpack project.
+
+---
+
+## ![dfinity](assets/dfinity-logo-small.png) Dfinity Team Projects
+
+### 💡 Tungsten Hackathon
 The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
 
 The following represent a few of the applications that teams developed over the two-day period:
@@ -50,7 +108,7 @@ The following represent a few of the applications that teams developed over the 
 
 - [Hero](https://github.com/stanleygjones/hackathon) - A random "killer app" generator inspired by the Wu-Tang Name Generator.
 
-## Example apps from the DFINITY team
+### 🌱 Other Example Apps from the DFINITY team
 
 - [IC Game Terminal](https://github.com/matthewhammer/ic-game-terminal) - Keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
 
@@ -62,44 +120,3 @@ The following represent a few of the applications that teams developed over the 
 
 - [Fullstack To-do](https://github.com/krpeacock/simple-to-do) - Extension of the to-do example app with a frontend, using a minimal webpack dev-server configuration, web components, and unit and integration testing
 
-## Motoko resources
-
-- [Vessel package manager](https://github.com/kritzcreek/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
-
-## Motoko libraries
-
-### Data structures
-
-- [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/master/service/BigSearch.mo) - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
-
-- [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A generic CRUD framework for Motoko.
-
-- [motoko-dht](https://github.com/enzoh/motoko-dht) - A Motoko Distributed Hash Table (DHT) canister.
-
-- [motoko-graph](https://github.com/matthewhammer/motoko-graph) - Graphical data models for Motoko.
-
-- [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
-
-### Algorithms
-
-- [mo-parsec](https://github.com/crusso/mo-parsec) - A [Parsec](https://hackage.haskell.org/package/parsec)-based parser combinator library for Motoko.
-
-- [motoko-adapton](https://github.com/matthewhammer/motoko-adapton) - Dynamic dependence graph and memoization techniques in Motoko.
-
-- [motoko-redraw](https://github.com/matthewhammer/motoko-redraw) - 2D graphics and layout algorithms for Motoko.
-
-### Testing
-
-- [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) - Long-running tests as/for IC services, via a Motoko-based DSL.
-
-- [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
-
-## Frontend
-
-### React
-
-- [cra-template-dfx](https://github.com/taylorham/cra-template-dfx) - A [Create React App](https://github.com/facebook/create-react-app) template configured for using and deploying to IC canisters
-
-### Vue
-
-- [DFINITY-Vue](https://github.com/nop33/dfinity-vue) - Vue.js and Vuetify integration with DFINITY SDK bootstrap webpack project.
