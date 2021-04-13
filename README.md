@@ -20,12 +20,12 @@ Submit a pull request to add a link to your repository here.
 
 - [IC Deploy Action from Fleek](https://github.com/FleekHQ/IC-Deploy-Action) - The Github Action will trigger a new deployment to the Internet Computer when commits are pushed.
 
-- [Hypotenuse Oracles](https://hypotenuse.ca/) - Hypotenuse Dfinity Oracles is a framework for building blockchain oracles for the Internet Computer.
+- [Hypotenuse Oracles](https://hypotenuse.ca/) - Hypotenuse DFINITY Oracles is a framework for building blockchain oracles for the Internet Computer.
   - [Framework Repository](https://github.com/hyplabs/dfinity-oracle-framework)
   - [Weather Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-weather)
   - [Crypto Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-crypto)
 
-- [Dfinity Explorer](https://github.com/dfinityexplorer/dfinityexplorer-dashboard) - DFINITY Explorer is an open-source network dashboard built by the DFINITY community.
+- [DFINITY Explorer](https://github.com/dfinityexplorer/dfinityexplorer-dashboard) - DFINITY Explorer is an open-source network dashboard built by the DFINITY community.
 
 - [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY’s LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
 
@@ -91,7 +91,7 @@ Submit a pull request to add a link to your repository here.
 
 ---
 
-## ![dfinity](assets/dfinity-logo-small.png) Dfinity Team Projects
+## ![dfinity](assets/dfinity-logo-small.png) DFINITY Team Projects
 
 ### 💡 Tungsten Hackathon
 The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
