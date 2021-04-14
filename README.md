@@ -25,6 +25,24 @@ Submit a pull request to add a link to your repository here.
   - [Weather Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-weather)
   - [Crypto Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-crypto)
 
+- [DFinance](https://dfinance.ai/) - DFinance is building basic DeFi components for the Internet Computer, including: token standard, DEX, stablecoin and lending platform.
+  - [motoko-token](https://github.com/dfinance-tech/motoko-token): ERC20 style token template, reference:
+    - [Motoko Token](https://github.com/flyq/motoko_token) Motoko Token by Flyq
+    - [Motoko Token](https://github.com/enzoh/motoko-token) Motoko Token by Enzoh
+  - [DToken](https://github.com/dfinance-tech/dtoken): Token issuance app
+  - [DFinance](https://github.com/dfinance-tech/dfinance): User interface
+
+
+## Hackathon projects
+
+The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
+
+The following represent a few of the applications that teams developed over the two-day period:
+
+- [Magnify](https://github.com/Dfinity-Bjoern/Magnify) - A secure video conferencing application using WebRTC.
+
+- [Dual](https://github.com/egeyar/wochonecha/) - A social app for creating, completing, and tracking various challenges.
+
 - [DFINITY Explorer](https://github.com/dfinityexplorer/dfinityexplorer-dashboard) - DFINITY Explorer is an open-source network dashboard built by the DFINITY community.
 
 - [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY’s LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
