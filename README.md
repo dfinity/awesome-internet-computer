@@ -9,33 +9,26 @@ A curated list of awesome projects and resources relating to [DFINITY](https://d
 
 If you want to contribute projects or tools, please first read our [Contributing](.github/CONTRIBUTING.md) guidelines and agree to abide by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
-## Developer community projects
+---
+
+## 🌐 Community projects
 
 Submit a pull request to add a link to your repository here.
 
-### Demo day projects
+### 🆕 Latest Community Projects
+- [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters
 
-- [Bonus](https://github.com/seniorjoinu/Bonus) - Next-generation loyalty system built on the Internet Computer.
+- [IC Deploy Action from Fleek](https://github.com/FleekHQ/IC-Deploy-Action) - The Github Action will trigger a new deployment to the Internet Computer when commits are pushed.
 
-- [Get Impact Now](https://github.com/getimpactnow/getimpactnow/) - Digital platform that enables responsible citizens to be a part of the decision-making process.
-
-- [Internet Computer Queue System (ICQS)](https://github.com/davidp94/icqs-demo) - A bridge to legacy systems, such as email.
-
-- [NNS Explorer](https://github.com/hashquark-io/nnsExplorer) - Mock explorer for the Internet Computer's Network Nervous System (NNS).
-
-- [Sailfish](https://github.com/sailfish-app) - The gateway to open financial services on the Internet Computer.
-
-### Example Apps
-
-- [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY’s LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
-
-- [Hypotenuse Oracles](https://hypotenuse.ca/) - Hypotenuse Dfinity Oracles is a framework for building blockchain oracles for the Internet Computer.
+- [Hypotenuse Oracles](https://hypotenuse.ca/) - Hypotenuse DFINITY Oracles is a framework for building blockchain oracles for the Internet Computer.
   - [Framework Repository](https://github.com/hyplabs/dfinity-oracle-framework)
   - [Weather Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-weather)
   - [Crypto Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-crypto)
 
 - [DFinance](https://dfinance.ai/) - DFinance is building basic DeFi components for the Internet Computer, including: token standard, DEX, stablecoin and lending platform.
-  - [motoko-token](https://github.com/dfinance-tech/motoko-token): ERC20 style token template
+  - [motoko-token](https://github.com/dfinance-tech/motoko-token): ERC20 style token template, reference:
+    - [Motoko Token](https://github.com/flyq/motoko_token) Motoko Token by Flyq
+    - [Motoko Token](https://github.com/enzoh/motoko-token) Motoko Token by Enzoh
   - [DToken](https://github.com/dfinance-tech/dtoken): Token issuance app
   - [DFinance](https://github.com/dfinance-tech/dfinance): User interface
 
@@ -50,31 +43,33 @@ The following represent a few of the applications that teams developed over the 
 
 - [Dual](https://github.com/egeyar/wochonecha/) - A social app for creating, completing, and tracking various challenges.
 
-- [Bookworm](https://github.com/rstout/bookworm) - An open publishing application inspired by China Literature.
+- [DFINITY Explorer](https://github.com/dfinityexplorer/dfinityexplorer-dashboard) - DFINITY Explorer is an open-source network dashboard built by the DFINITY community.
 
-- [Shield](https://github.com/crusso/shield) - An app connecting at-risk people with nearby volunteers.
+- [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY’s LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
 
-- [Hero](https://github.com/stanleygjones/hackathon) - A random "killer app" generator inspired by the Wu-Tang Name Generator.
+### ✳️ Demo Day 2020 projects
 
-## Example apps from the DFINITY team
+- [Bonus](https://github.com/seniorjoinu/Bonus) - Next-generation loyalty system built on the Internet Computer.
 
-- [IC Game Terminal](https://github.com/matthewhammer/ic-game-terminal) - Keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
+- [Get Impact Now](https://github.com/getimpactnow/getimpactnow/) - Digital platform that enables responsible citizens to be a part of the decision-making process.
 
-- [Journey](https://github.com/hansl/journey) - An open blog engine written for the Internet Computer.
+- [Internet Computer Queue System (ICQS)](https://github.com/davidp94/icqs-demo) - A bridge to legacy systems, such as email.
 
-- [Reversi](https://github.com/ninegua/reversi) - A multiplayer Reversi game on Internet Computer.
+- [NNS Explorer](https://github.com/hashquark-io/nnsExplorer) - Mock explorer for the Internet Computer's Network Nervous System (NNS).
 
-- [Superheroes](https://github.com/enzoh/superheroes) - A simple CRUD application that demonstrates using Motoko and React to create your own universe of superheroes that runs on the Internet Computer .
+- [Sailfish](https://github.com/sailfish-app) - The gateway to open financial services on the Internet Computer.
 
-- [Fullstack To-do](https://github.com/krpeacock/simple-to-do) - Extension of the to-do example app with a frontend, using a minimal webpack dev-server configuration, web components, and unit and integration testing
+---
 
-## Motoko resources
 
+## ![motoko](assets/motoko-logo.png) Motoko Resources
+
+### 📦 Motoko Package Managers
 - [Vessel package manager](https://github.com/kritzcreek/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
 
-## Motoko libraries
+### 📁 Motoko libraries
 
-### Data structures
+#### 🏗️ Data structures
 
 - [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/master/service/BigSearch.mo) - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
 
@@ -86,7 +81,7 @@ The following represent a few of the applications that teams developed over the 
 
 - [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
 
-### Algorithms
+#### 🧩 Algorithms
 
 - [mo-parsec](https://github.com/crusso/mo-parsec) - A [Parsec](https://hackage.haskell.org/package/parsec)-based parser combinator library for Motoko.
 
@@ -94,18 +89,52 @@ The following represent a few of the applications that teams developed over the 
 
 - [motoko-redraw](https://github.com/matthewhammer/motoko-redraw) - 2D graphics and layout algorithms for Motoko.
 
-### Testing
+#### 🧪 Testing
 
 - [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) - Long-running tests as/for IC services, via a Motoko-based DSL.
 
 - [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
 
-## Frontend
+---
 
-### React
+## 🖥️ Frontend Development
+
+### ⚛️ React
 
 - [cra-template-dfx](https://github.com/taylorham/cra-template-dfx) - A [Create React App](https://github.com/facebook/create-react-app) template configured for using and deploying to IC canisters
 
 ### Vue
 
 - [DFINITY-Vue](https://github.com/nop33/dfinity-vue) - Vue.js and Vuetify integration with DFINITY SDK bootstrap webpack project.
+
+---
+
+## ![dfinity](assets/dfinity-logo-small.png) DFINITY Team Projects
+
+### 💡 Tungsten Hackathon
+The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
+
+The following represent a few of the applications that teams developed over the two-day period:
+
+- [Magnify](https://github.com/Dfinity-Bjoern/Magnify) - A secure video conferencing application using WebRTC.
+
+- [Dual](https://github.com/egeyar/wochonecha/) - A social app for creating, completing, and tracking various challenges.
+
+- [Bookworm](https://github.com/rstout/bookworm) - An open publishing application inspired by China Literature.
+
+- [Shield](https://github.com/crusso/shield) - An app connecting at-risk people with nearby volunteers.
+
+- [Hero](https://github.com/stanleygjones/hackathon) - A random "killer app" generator inspired by the Wu-Tang Name Generator.
+
+### 🌱 Other Example Apps from the DFINITY team
+
+- [IC Game Terminal](https://github.com/matthewhammer/ic-game-terminal) - Keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
+
+- [Journey](https://github.com/hansl/journey) - An open blog engine written for the Internet Computer.
+
+- [Reversi](https://github.com/ninegua/reversi) - A multiplayer Reversi game on Internet Computer.
+
+- [Superheroes](https://github.com/enzoh/superheroes) - A simple CRUD application that demonstrates using Motoko and React to create your own universe of superheroes that runs on the Internet Computer .
+
+- [Fullstack To-do](https://github.com/krpeacock/simple-to-do) - Extension of the to-do example app with a frontend, using a minimal webpack dev-server configuration, web components, and unit and integration testing
+
