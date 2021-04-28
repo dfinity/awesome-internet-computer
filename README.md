@@ -99,6 +99,8 @@ The following represent a few of the applications that teams developed over the 
 
 ## 🖥️ Frontend Development
 
+- [ic-starter-templates](https://github.com/MioQuispe/ic-starter-templates) - Modern, unopinionated templates for React, Vue & Svelte powered by [ViteJS](https://vitejs.dev/)
+
 ### ⚛️ React
 
 - [cra-template-dfx](https://github.com/taylorham/cra-template-dfx) - A [Create React App](https://github.com/facebook/create-react-app) template configured for using and deploying to IC canisters
