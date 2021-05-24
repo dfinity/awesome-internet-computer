@@ -6,16 +6,30 @@
 
 A curated list of awesome projects and resources relating to [DFINITY](https://dfinity.org) and the Internet Computer.
 
+Projects denoted with a ✓ are *deployed to main net*!
+
 
 If you want to contribute projects or tools, please first read our [Contributing](.github/CONTRIBUTING.md) guidelines and agree to abide by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
 ---
+
+## ♾️ Foundation Dapps
+
+- ✓ [NNS Governance](https://nns.ic0.app/) - A Governance Dapp for voting on Internet Computer governance proposals
+
+- ✓ [Internet Identity](https://identity.ic0.app/) - Internet Identity service enables you to authenticate securely and anonymously when accessing applications on the Internet Computer
 
 ## 🌐 Community projects
 
 Submit a pull request to add a link to your repository here.
 
 ### 🆕 Latest Community Projects
+- ✓ [DSCVR](http://dscvr.one/)
+
+- ✓ [OpenChat](https://7e6iv-biaaa-aaaaf-aaada-cai.ic0.app/)
+
+- ✓ [Internet Computer Tools](https://nns.ic0.app/)
+
 - [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters
 
 - [IC Deploy Action from Fleek](https://github.com/FleekHQ/IC-Deploy-Action) - The Github Action will trigger a new deployment to the Internet Computer when commits are pushed.
