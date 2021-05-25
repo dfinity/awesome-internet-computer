@@ -28,7 +28,7 @@ Submit a pull request to add a link to your repository here.
 
 - ✓ [OpenChat](https://7e6iv-biaaa-aaaaf-aaada-cai.ic0.app/)
 
-- ✓ [Internet Computer Tools](https://nns.ic0.app/)
+- ✓ [Internet Computer Tools](https://bmht6-iiaaa-aaaad-qabeq-cai.raw.ic0.app/)
 
 - [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters
 
