@@ -6,7 +6,7 @@
 
 A curated list of awesome projects and resources relating to [DFINITY](https://dfinity.org) and the Internet Computer.
 
-Projects denoted with a ✓ are *deployed to main net*!
+Projects denoted with a ✓ are *deployed to the Internet Computer*!
 
 
 If you want to contribute projects or tools, please first read our [Contributing](.github/CONTRIBUTING.md) guidelines and agree to abide by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
