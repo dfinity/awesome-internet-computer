@@ -30,6 +30,8 @@ Submit a pull request to add a link to your repository here.
 
 - ✓ [Internet Computer Tools](https://bmht6-iiaaa-aaaad-qabeq-cai.raw.ic0.app/)
 
+- ✓ [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/)
+
 - [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters
 
 - [IC Deploy Action from Fleek](https://github.com/FleekHQ/IC-Deploy-Action) - The Github Action will trigger a new deployment to the Internet Computer when commits are pushed.
