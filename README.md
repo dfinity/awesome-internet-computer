@@ -24,6 +24,9 @@ If you want to contribute projects or tools, please first read our [Contributing
 Submit a pull request to add a link to your repository here.
 
 ### 🆕 Latest Community Projects
+
+- ✓ [The Wall](https://rivyl-6aaaa-aaaaf-qaapq-cai.raw.ic0.app/) - The Wall is a crossover Ethereum/Internet Computer demo app. Create an IC Identity simply by signing a Metamask message. Then, write the wall! 
+
 - ✓ [DSCVR](http://dscvr.one/)
 
 - ✓ [OpenChat](https://7e6iv-biaaa-aaaaf-aaada-cai.ic0.app/)
