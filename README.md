@@ -53,6 +53,7 @@ Submit a pull request to add a link to your repository here.
   - [DToken](https://github.com/dfinance-tech/dtoken): Token issuance app
   - [DFinance](https://github.com/dfinance-tech/dfinance): User interface
 
+- [ICP123](https://icp123.xyz/) - Find awesome Dfinity projects.
 
 ## Hackathon projects
 
