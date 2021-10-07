@@ -36,6 +36,7 @@ Submit a pull request to add a link to your repository here.
 - ✓ [Internet Computer Tools](https://bmht6-iiaaa-aaaad-qabeq-cai.raw.ic0.app/)
 
 - ✓ [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/)
+- [ICEvent] (https://znisf-eqaaa-aaaaj-aabta-cai.raw.ic0.app/) An open event service - publish, subscribe, collaborate, communicate...
 
 - [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters
 
