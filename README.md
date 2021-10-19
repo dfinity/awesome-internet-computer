@@ -125,6 +125,7 @@ The following represent a few of the applications that teams developed over the 
 ### ⚛️ React
 
 - [cra-template-dfx](https://github.com/taylorham/cra-template-dfx) - A [Create React App](https://github.com/facebook/create-react-app) template configured for using and deploying to IC canisters
+- [react-ic-ii-auth](https://github.com/InternetIdentityLabs/react-ic-ii-auth) - React components to make internet identity integration as easy as possible.
 
 ### Vue
 
