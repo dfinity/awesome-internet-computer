@@ -53,6 +53,8 @@ Submit a pull request to add a link to your repository here.
   - [DToken](https://github.com/dfinance-tech/dtoken): Token issuance app
   - [DFinance](https://github.com/dfinance-tech/dfinance): User interface
 
+- [Blocks](https://github.com/Blocks-Editor/blocks) - A visual drag-and-drop editor for building IC smart contracts.
+
 
 ## Hackathon projects
 
@@ -125,6 +127,8 @@ The following represent a few of the applications that teams developed over the 
 ### ⚛️ React
 
 - [cra-template-dfx](https://github.com/taylorham/cra-template-dfx) - A [Create React App](https://github.com/facebook/create-react-app) template configured for using and deploying to IC canisters
+
+- [react-blocks-editor](https://github.com/Blocks-Editor/react-blocks-editor) - Embed and customize [Blocks](https://github.com/Blocks-Editor/blocks) (a drag-and-drop IC smart contract builder) for your React application.
 
 ### Vue
 
