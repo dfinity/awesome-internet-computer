@@ -128,7 +128,7 @@ The following represent a few of the applications that teams developed over the 
 
 - [cra-template-dfx](https://github.com/taylorham/cra-template-dfx) - A [Create React App](https://github.com/facebook/create-react-app) template configured for using and deploying to IC canisters
 
-- [react-blocks-editor](https://github.com/Blocks-Editor/react-blocks-editor) - Embed and customize [Blocks](https://github.com/Blocks-Editor/blocks) (a drag-and-drop IC smart contract builder) for your React application
+- [react-blocks-editor](https://github.com/Blocks-Editor/react-blocks-editor) - Embed and customize [Blocks](https://github.com/Blocks-Editor/blocks) (a drag-and-drop IC smart contract builder) for your React application.
 
 ### Vue
 
