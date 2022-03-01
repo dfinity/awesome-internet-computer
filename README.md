@@ -87,6 +87,8 @@ The following represent a few of the applications that teams developed over the 
 
 ## ![motoko](assets/motoko-logo.png) Motoko Resources
 
+- [Awesome Motoko](https://github.com/motoko-unofficial/awesome-motoko) - An awesome list of Motoko code and resources curated by the community.
+
 ### 📦 Motoko Package Managers
 - [Vessel package manager](https://github.com/kritzcreek/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
 
