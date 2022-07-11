@@ -25,6 +25,8 @@ Submit a pull request to add a link to your repository here.
 
 ### 🆕 Latest Community Projects
 
+- ✓ [distrikt](https://distrikt.app/) - A professional social media network built 100% on blockchain
+
 - ✓ [Motoko School](https://anyuk-uiaaa-aaaah-aaduq-cai.raw.ic0.app/) - A collaborative online school
 
 - ✓ [The Wall](https://rivyl-6aaaa-aaaaf-qaapq-cai.raw.ic0.app/) - The Wall is a crossover Ethereum/Internet Computer demo app. Create an IC Identity simply by signing a Metamask message. Then, write the wall! 
