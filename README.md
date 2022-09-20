@@ -1,25 +1,37 @@
-# Awesome DFINITY [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ICP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align="center">
+<a align="center" href="https://internetcomputer.org/">
   <img src="assets/dfinity-logo.png">
-</p>
+</a>
 
-A curated list of awesome projects and resources relating to [DFINITY](https://dfinity.org) and the Internet Computer.
+> A curated list of awesome projects and resources relating to [DFINITY](https://dfinity.org) and the Internet Computer.
+
+The [Internet Computer](https://internetcomputer.org/) is a public blockchain that hosts smart contracts that run at web speed, can serve web from cyberspace, run efficiently, and can scale within an environment that has unbounded capacity. Smart contracts are a profoundly new and superior form of tamperproof and unstoppable software. They can imbue systems and services with new properties, enabling the reimagination of websites, systems, internet services and finance.
 
 Projects denoted with a ✓ are *deployed to the Internet Computer*!
 
+## Contributing
 
 If you want to contribute projects or tools, please first read our [Contributing](.github/CONTRIBUTING.md) guidelines and agree to abide by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
 ---
 
-## ♾️ Foundation Dapps
+## Contents
+
+- [Foundation Dapps](#foundation-dapps)
+- [Community projects](#community-projects)
+- [Hackathons](#hackathons)
+- [Motoko Resources](#motoko-resources)
+- [Frontend Development](#frontend-development)
+- [DFINITY Team Projects](#dfinity-team-projects)
+
+## Foundation Dapps
 
 - ✓ [NNS Governance](https://nns.ic0.app/) - A Governance Dapp for voting on Internet Computer governance proposals
 
 - ✓ [Internet Identity](https://identity.ic0.app/) - Internet Identity service enables you to authenticate securely and anonymously when accessing applications on the Internet Computer
 
-## 🌐 Community projects
+## Community projects
 
 Submit a pull request to add a link to your repository here.
 
@@ -37,9 +49,9 @@ Submit a pull request to add a link to your repository here.
 
 - ✓ [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/)
 
-- [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters
+- [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters.
 
-- [IC Deploy Action from Fleek](https://github.com/FleekHQ/IC-Deploy-Action) - The Github Action will trigger a new deployment to the Internet Computer when commits are pushed.
+- [IC Deploy Action from Fleek](https://github.com/FleekHQ/IC-Deploy-Action) - The GitHub Action will trigger a new deployment to the Internet Computer when commits are pushed.
 
 - ✓ [Blocks](https://blocks-editor.github.io/blocks/) - A visual drag-and-drop editor for building IC smart contracts.
 
@@ -136,7 +148,13 @@ The following represent a few of the applications that teams developed over the 
 
 - [DFINITY Explorer](https://github.com/dfinityexplorer/dfinityexplorer-dashboard) - DFINITY Explorer is an open-source network dashboard built by the DFINITY community.
 
-- [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY’s LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
+- [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY's LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
+
+- [Bookworm](https://github.com/rstout/bookworm) - An open publishing application inspired by China Literature.
+
+- [Shield](https://github.com/crusso/shield) - An app connecting at-risk people with nearby volunteers.
+
+- [Hero](https://github.com/stanleygjones/hackathon) - A random "killer app" generator inspired by the Wu-Tang Name Generator.
 
 ### ✳️ Demo Day 2020 projects
 
@@ -153,7 +171,7 @@ The following represent a few of the applications that teams developed over the 
 ---
 
 
-## ![motoko](assets/motoko-logo.png) Motoko Resources
+## Motoko Resources
 
 - [Awesome Motoko](https://github.com/motoko-unofficial/awesome-motoko) - An awesome list of Motoko code and resources curated by the community.
 
@@ -190,28 +208,13 @@ The following represent a few of the applications that teams developed over the 
 
 ---
 
-## 🖥️ Frontend Development
+## Frontend Development
 
 - [create-ic-apps](https://github.com/MioQuispe/ic-starter-templates) - Modern, unopinionated templates for React, Vue & Svelte powered by [ViteJS](https://vitejs.dev/)
 
-## ![dfinity](assets/dfinity-logo-small.png) DFINITY Team Projects
+## DFINITY Team Projects
 
-### 💡 Tungsten Hackathon
-The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
-
-The following represent a few of the applications that teams developed over the two-day period:
-
-- [Magnify](https://github.com/Dfinity-Bjoern/Magnify) - A secure video conferencing application using WebRTC.
-
-- [Dual](https://github.com/egeyar/wochonecha/) - A social app for creating, completing, and tracking various challenges.
-
-- [Bookworm](https://github.com/rstout/bookworm) - An open publishing application inspired by China Literature.
-
-- [Shield](https://github.com/crusso/shield) - An app connecting at-risk people with nearby volunteers.
-
-- [Hero](https://github.com/stanleygjones/hackathon) - A random "killer app" generator inspired by the Wu-Tang Name Generator.
-
-### 🌱 Other Example Apps from the DFINITY team
+### 🌱 Example Apps from the DFINITY team
 
 - [IC Game Terminal](https://github.com/matthewhammer/ic-game-terminal) - Keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
 
@@ -219,7 +222,7 @@ The following represent a few of the applications that teams developed over the 
 
 - [Reversi](https://github.com/ninegua/reversi) - A multiplayer Reversi game on Internet Computer.
 
-- [Superheroes](https://github.com/enzoh/superheroes) - A simple CRUD application that demonstrates using Motoko and React to create your own universe of superheroes that runs on the Internet Computer .
+- [Superheroes](https://github.com/enzoh/superheroes) - A simple CRUD application that demonstrates using Motoko and React to create your own universe of superheroes that runs on the Internet Computer.
 
-- [Fullstack To-do](https://github.com/krpeacock/simple-to-do) - Extension of the to-do example app with a frontend, using a minimal webpack dev-server configuration, web components, and unit and integration testing
+- [Fullstack To-do](https://github.com/krpeacock/simple-to-do) - Extension of the to-do example app with a frontend, using a minimal webpack dev-server configuration, web components, and unit and integration testing.
 
