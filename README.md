@@ -35,30 +35,96 @@ Submit a pull request to add a link to your repository here.
 
 - ✓ [OpenChat](https://7e6iv-biaaa-aaaaf-aaada-cai.ic0.app/)
 
-- ✓ [Internet Computer Tools](https://bmht6-iiaaa-aaaad-qabeq-cai.raw.ic0.app/)
-
 - ✓ [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/)
 
 - [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters
 
 - [IC Deploy Action from Fleek](https://github.com/FleekHQ/IC-Deploy-Action) - The Github Action will trigger a new deployment to the Internet Computer when commits are pushed.
 
-- [Hypotenuse Oracles](https://hypotenuse.ca/) - Hypotenuse DFINITY Oracles is a framework for building blockchain oracles for the Internet Computer.
-  - [Framework Repository](https://github.com/hyplabs/dfinity-oracle-framework)
-  - [Weather Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-weather)
-  - [Crypto Oracle Plugin](https://github.com/hyplabs/dfinity-oracle-crypto)
-
-- [DFinance](https://dfinance.ai/) - DFinance is building basic DeFi components for the Internet Computer, including: token standard, DEX, stablecoin and lending platform.
-  - [motoko-token](https://github.com/dfinance-tech/motoko-token): ERC20 style token template, reference:
-    - [Motoko Token](https://github.com/flyq/motoko_token) Motoko Token by Flyq
-    - [Motoko Token](https://github.com/enzoh/motoko-token) Motoko Token by Enzoh
-  - [DToken](https://github.com/dfinance-tech/dtoken): Token issuance app
-  - [DFinance](https://github.com/dfinance-tech/dfinance): User interface
-
-- [Blocks](https://github.com/Blocks-Editor/blocks) - A visual drag-and-drop editor for building IC smart contracts.
+- ✓ [Blocks](https://blocks-editor.github.io/blocks/) - A visual drag-and-drop editor for building IC smart contracts.
 
 
-## Hackathon projects
+## Hackathons
+
+### Supernova 
+
+Supernova was a global hackathon over mutiple weeks with 6 tracks, more than 3600 participants, and more than 250 project submissions.
+You can see all eglible projects in the [gallery on DevPost](https://supernova.devpost.com/project-gallery) and the highlights from the tracks below:
+
+#### SocialFi
+
+- ✓ [Kontribute](https://3ezq7-iqaaa-aaaal-aaacq-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/kontribute), [Code](https://github.com/teambonsai/bonsai_dapp)) - Kontribute allows readers, writers, and web 3 enthusiasts, to write and read stories, or sell and trade NFTs from their stories all within our dapp.
+
+- ✓ [Conshax](https://o3m37-5yaaa-aaaag-aal5a-cai.ice0.app/) ([DevPost](https://devpost.com/software/conshax)) - Web3 platform for a new era of podcasting.
+
+- ✓ [Signals](https://2fydv-iqaaa-aaaak-qap6q-cai.ic0.app/) ([DevPost](https://devpost.com/software/signals), [Code](https://github.com/bertiespell/Signals)) - A unique SocialFi space for making local connections, creating decentralized communities and discovering events.
+
+- ✓ [STKRS](https://priqv-iqaaa-aaaak-ab4rq-cai.ic0.app//#/) ([DevPost](https://devpost.com/software/stkrs), [Code](https://github.com/arjunpat/stkrs.me)) - Stkrs is the social identity app for Web 3.0. Users can express themselves, trust others online, and revolutionize our governance, all while being anon and maintaining privacy.
+  
+- crowdEats ([DevPost](https://devpost.com/software/crowdeats)) - crowdEats is a web3 reimagining of how we find, curate, moderate, evaluate, and more generally interact with local businesses on the internet.
+
+#### GameFi
+
+- ✓ :trophy: [Cubetopia](https://mqkdm-zqaaa-aaaah-ablsa-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/cubetopia)) - Minecraft meets World of Warcraft, on the blockchain. Build, chat and adventure with friends, right in your browser.
+  
+- ✓ [Eimolad](https://eimolad.com/) ([DevPost](https://devpost.com/software/eimolad)) - 100% on-chain MMORPG with NFT game wallet and staking.
+  
+- ✓ [FaeFolk](https://ge5fs-qyaaa-aaaap-qam6a-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/faefolk), [Code](https://github.com/ICCards/faefolk)) - FaeFolk is an NFT-based role-playing game where you use your NFTs to craft tools & equipment, train your skills and ultimately fight your way through dungeons and find treasure.
+
+- ✓ [Paws Arena](https://knbkj-fiaaa-aaaan-qaadq-cai.ic0.app/) ([DevPost](https://devpost.com/software/paws-arena-multiplayer-pvp-play-to-earn), [Code](https://github.com/icla692/paws_arena_ickitties)) - This is the cutest, most fun and competitive turn-based play to earn multiplayer game on the ICP. Players will fight in the arena and earn $PAW Tokens which will be used to buy in-game items.
+
+- ✓ [GalacticWar](https://rlx5r-ziaaa-aaaal-qa7qq-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/galacticwar), [Code](https://github.com/harshu4/GalacticWar)) - GalacticWar is a novel protocol that mixes NFT, Gaming and DeFi.
+  
+#### Metaverse and NFTs
+
+- ✓ [dSquad](https://x3ul6-2aaaa-aaaah-abjda-cai.ic0.app/) ([DevPost](https://devpost.com/software/icp-squad-nft), [Code](https://github.com/ICPSquad/Squad)) - A new chapter of the Internet is opening. Start by minting your avatar, then take part in the adventure and get rewarded as your explore a new wave of decentralized applications.
+
+- ✓ [deBunker](https://hltkz-zyaaa-aaaai-qnf4a-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/metawarehouse)) - A decentralized VR-ready metaverse, connecting people in immersive, interactive spaces.
+
+- ✓ [Saga Tarot](https://bazaar.saga.cards/) ([DevPost](https://devpost.com/software/saga-tarot), [Code](https://github.com/sagacards)) - Open source tarot ecosystem on the IC. Nobody owns Tarot. Everybody owns Web3.
+
+- IC Avatar Creator ([DevPost](https://devpost.com/software/open-character-creator-minter), [Code](https://github.com/AtlasFoundation/AvatarCreator-IC-Project)) - The IC Avatar Creator allows users to create and manage avatars for the open metaverse.
+
+- ✓ [Apocalypse NFO Prototype](https://6nx2y-qiaaa-aaaal-qa6wq-cai.ic0.app/) ([DevPost](https://devpost.com/software/apocalypse-nfo-prototype-beyond-nfts)) - Going beyond the concept of NFTs, we propose the concept of Non-Fungible Objects (NFOs), which have all intrinsic value of purchases for the user giving true secure ownership of their items.
+  
+#### Asynchronous DeFi
+
+- ✓ :trophy: [Spinner Cash](https://spinner.cash/) ([DevPost](https://devpost.com/software/spinner-cash), [Code](https://github.com/spinner-cash/spinner)) - Safe guard your financial privacy with zero-knowledge proofs.
+
+- ✓ [ICTC](https://cmqwp-uiaaa-aaaaj-aihzq-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/ictc), [Code](https://github.com/iclighthouse/ICTC)) - A distributed transaction framework for Defi applications on IC network.
+
+- ✓ [Interesting NFT Protocol](https://4orvc-saaaa-aaaak-qapjq-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/toniq-earn-and-the-nft-interest-rate-protocol)) - Interesting NFT Protocol is a decentralized interest rate protocol. Lock-up NFTs for short term liquidity, earn interest on your ICP, or acquire valuable NFTs at a discount.
+
+- ✓ [Enoki DEX](https://enoki.ooo/) ([DevPost](https://devpost.com/software/enoki-exchange), [Code](https://github.com/enoki-dex)) - Completely Async and Scalable DEX: Swap, Earn, and be a Market Maker.
+
+- ✓ [Creator Marketplace](https://q5yht-biaaa-aaaag-aaonq-cai.ic0.app/gy4xn-zyaaa-aaaag-aanwq-cai) ([DevPost](https://devpost.com/software/creator-marketplace)) - A creator marketplace running 100% on the blockchain. 
+  
+
+#### Public Good / Social Impact
+
+- ✓ [CrowdFund NFT](https://kn5ky-6iaaa-aaaai-qbikq-cai.ic0.app/) ([DevPost](https://devpost.com/software/crowdfund-nft)) - Using smart contract technology to build a safer, cheaper and global crowdfunding service - with a new NFT model.
+
+- ✓ [Proof of Personhood](http://thehuman.id/) ([DevPost](https://devpost.com/software/web3-mkdgh6), [Code](https://github.com/AstroxNetwork/Proof-of-Personhood)) - A Sybil-proof identity system powered by decentralized AI human detection.
+
+- ✓ [ICMaps](https://icmaps.org/) ([DevPost](https://devpost.com/software/ic-map-collector), [Code](https://github.com/stumpigit/icmaps)) - ICMaps brings maps to the internet computer.
+
+- ✓ [Internet Computer Footprint](https://e4ex6-aqaaa-aaaal-aarca-cai.ic0.app/) ([DevPost](https://devpost.com/software/internet-computer-footprint)) - Internet Computer Footprint tracks the cycle burn rate of IC projects, and uses VERRA carbon credits to offset project emissions.
+
+- ✓ [metamob](https://wbpm2-ciaaa-aaaan-qajta-cai.ic0.app/) ([DevPost](https://devpost.com/software/d-changes)) - Create, donate, vote, sign and fund extraordinary mobilizations.
+
+#### BlueSky
+
+- ✓ [Kinic](https://kinic.io/) ([DevPost](https://devpost.com/software/kinic), [Code](https://github.com/wyattbenno777/kinic)) - A search engine for web3.
+
+- ✓ [CanDB](https://pliqr-fqaaa-aaaan-qalpq-cai.ic0.app/) ([DevPost](https://devpost.com/software/candb), [Code](https://github.com/canscale/supernova-candb-demo)) - Meet CanDB, the first flexible and truly horizontally scalable NoSQL database built for the Internet Computer.
+
+- ✓ [FoxIC](https://ip5qp-gaaaa-aaaah-ablla-cai.ic0.app/) ([DevPost](https://devpost.com/software/foxic), [Code](https://github.com/AstroxNetwork/FoxIC)) - A tool allowing MetaMask users to enter IC ecosystem
+
+- ✓ [DeTi](https://fl5mh-daaaa-aaaap-qalja-cai.ic0.app/) ([DevPost](https://devpost.com/software/decentralized-time), [Code](https://github.com/akshay-rakheja/supernova2022)) - Run code on your canister in the future.
+
+- ✓ [Internet Computer Services](https://internetcomputerservices.com/) ([DevPost](https://devpost.com/software/internet-computer-services)) - Build, ship and manage dApps faster on the IC.
+
+### Tungsten
 
 The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
 
@@ -126,19 +192,7 @@ The following represent a few of the applications that teams developed over the 
 
 ## 🖥️ Frontend Development
 
-- [ic-starter-templates](https://github.com/MioQuispe/ic-starter-templates) - Modern, unopinionated templates for React, Vue & Svelte powered by [ViteJS](https://vitejs.dev/)
-
-### ⚛️ React
-
-- [cra-template-dfx](https://github.com/taylorham/cra-template-dfx) - A [Create React App](https://github.com/facebook/create-react-app) template configured for using and deploying to IC canisters
-
-- [react-blocks-editor](https://github.com/Blocks-Editor/react-blocks-editor) - Embed and customize [Blocks](https://github.com/Blocks-Editor/blocks) (a drag-and-drop IC smart contract builder) for your React application.
-
-### Vue
-
-- [DFINITY-Vue](https://github.com/nop33/dfinity-vue) - Vue.js and Vuetify integration with DFINITY SDK bootstrap webpack project.
-
----
+- [create-ic-apps](https://github.com/MioQuispe/ic-starter-templates) - Modern, unopinionated templates for React, Vue & Svelte powered by [ViteJS](https://vitejs.dev/)
 
 ## ![dfinity](assets/dfinity-logo-small.png) DFINITY Team Projects
 
