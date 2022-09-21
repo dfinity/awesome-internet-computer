@@ -10,10 +10,6 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 Projects denoted with a ✓ are *deployed to the Internet Computer*!
 
-## Contributing
-
-If you want to contribute projects or tools, please first read our [Contributing](.github/CONTRIBUTING.md) guidelines and agree to abide by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
-
 ---
 
 ## Contents
@@ -226,3 +222,6 @@ The following represent a few of the applications that teams developed over the 
 
 - [Fullstack To-do](https://github.com/krpeacock/simple-to-do) - Extension of the to-do example app with a frontend, using a minimal webpack dev-server configuration, web components, and unit and integration testing.
 
+## Contributing
+
+If you want to contribute projects or tools, please first read our [Contributing](.github/CONTRIBUTING.md) guidelines and agree to abide by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
