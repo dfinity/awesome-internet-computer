@@ -173,6 +173,7 @@ The following represent a few of the applications that teams developed over the 
 
 ### 📦 Motoko Package Managers
 - [Vessel package manager](https://github.com/kritzcreek/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
+- [mops](https://mops.one/) - A package manager for Motoko with on-chain package registry.
 
 ### 📁 Motoko libraries
 
