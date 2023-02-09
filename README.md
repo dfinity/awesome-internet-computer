@@ -170,7 +170,8 @@ The following represent a few of the applications that teams developed over the 
 - [Awesome Motoko](https://github.com/motoko-unofficial/awesome-motoko) - An awesome list of Motoko code and resources curated by the community.
 
 ### 📦 Motoko Package Managers
-- [Vessel package manager](https://github.com/kritzcreek/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
+- [Vessel](https://github.com/dfinity/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
+- [MOPS](https://github.com/ZenVoich/mops) - A community-built package manager with fully on-chain package registry.
 
 ### 📁 Motoko libraries
 
