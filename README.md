@@ -1,12 +1,12 @@
-# Awesome ICP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <a align="center" href="https://internetcomputer.org/">
   <img src="assets/dfinity-logo.png">
 </a>
 
-> A curated list of awesome projects and resources relating to [DFINITY](https://dfinity.org) and the Internet Computer.
+> #### A curated list of awesome projects and resources relating to the Internet Computer.
 
-The [Internet Computer](https://internetcomputer.org/) is a public blockchain that hosts smart contracts that run at web speed, can serve web from cyberspace, run efficiently, and can scale within an environment that has unbounded capacity. Smart contracts are a profoundly new and superior form of tamperproof and unstoppable software. They can imbue systems and services with new properties, enabling the reimagination of websites, systems, internet services and finance.
+The [Internet Computer](https://internetcomputer.org/) (IC) is a public blockchain that hosts smart contracts that run at web speed, can serve web from cyberspace, run efficiently, and can scale within an environment that has unbounded capacity. Smart contracts are a profoundly new and superior form of tamperproof and unstoppable software. They can imbue systems and services with new properties, enabling the reimagination of websites, systems, internet services and finance.
 
 Projects denoted with a ✓ are *deployed to the Internet Computer*!
 
@@ -31,25 +31,25 @@ Projects denoted with a ✓ are *deployed to the Internet Computer*!
 
 Submit a pull request to add a link to your repository here.
 
-### 🆕 Latest Community Projects
+### 🆕 Recent Community Projects
 
 - ✓ [distrikt](https://distrikt.app/) - A professional social media network built 100% on blockchain.
 
-- ✓ [Motoko School](https://anyuk-uiaaa-aaaah-aaduq-cai.raw.ic0.app/) - A collaborative online school for Motoko.
+- ✓ [Motoko School](https://anyuk-uiaaa-aaaah-aaduq-cai.raw.ic0.app/) - A collaborative online school.
 
 - ✓ [The Wall](https://rivyl-6aaaa-aaaaf-qaapq-cai.raw.ic0.app/) - The Wall is a crossover Ethereum/Internet Computer demo app. Create an IC Identity simply by signing a Metamask message. Then, write the wall! 
 
-- ✓ [DSCVR](http://dscvr.one/) - A decentralized social content aggregation platform where users not only control the content, but also the platform itself.
+- ✓ [DSCVR](http://dscvr.one/) - A decentralized social content platform running on the Internet Computer.
 
-- ✓ [OpenChat](https://oc.app/) - A decentralized chat app governed by the people for the people.
+- ✓ [OpenChat](https://oc.app/) - A truly decentralized alternative to WhatsApp.
 
-- ✓ [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/) - The Internet Computer community canister registry - `Find( ), publish<T> and extend { applications } and *services built on the <Internet Computer/>`.
+- ✓ [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/) - A canister search engine for the Internet Computer.
+
+- [Blocks](https://blocks-editor.github.io/blocks/) - A visual drag-and-drop editor for building IC smart contracts.
 
 - [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters.
 
 - [IC Deploy Action from Fleek](https://github.com/FleekHQ/IC-Deploy-Action) - The GitHub Action will trigger a new deployment to the Internet Computer when commits are pushed.
-
-- ✓ [Blocks](https://blocks-editor.github.io/blocks/) - A visual drag-and-drop editor for building IC smart contracts.
 
 
 ## Hackathons
@@ -203,7 +203,7 @@ The following represent a few of the applications that teams developed over the 
 
 ## Frontend Development
 
-- [create-ic-apps](https://github.com/MioQuispe/ic-starter-templates) - Modern, unopinionated templates for React, Vue & Svelte powered by [Vite](https://vitejs.dev/)
+- [create-ic-apps](https://github.com/MioQuispe/ic-starter-templates) - Modern, unopinionated templates for React, Vue & Svelte powered by [Vite](https://vitejs.dev/).
 
 ## DFINITY Team Projects
 
