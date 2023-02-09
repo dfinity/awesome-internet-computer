@@ -23,9 +23,9 @@ Projects denoted with a ✓ are *deployed to the Internet Computer*!
 
 ## Foundation Dapps
 
-- ✓ [NNS Governance](https://nns.ic0.app/) - A Governance Dapp for voting on Internet Computer governance proposals
+- ✓ [NNS Governance](https://nns.ic0.app/) - A Governance Dapp for voting on Internet Computer governance proposals.
 
-- ✓ [Internet Identity](https://identity.ic0.app/) - Internet Identity service enables you to authenticate securely and anonymously when accessing applications on the Internet Computer
+- ✓ [Internet Identity](https://identity.ic0.app/) - Internet Identity service enables you to authenticate securely and anonymously when accessing applications on the Internet Computer.
 
 ## Community projects
 
@@ -33,17 +33,17 @@ Submit a pull request to add a link to your repository here.
 
 ### 🆕 Latest Community Projects
 
-- ✓ [distrikt](https://distrikt.app/) - A professional social media network built 100% on blockchain
+- ✓ [distrikt](https://distrikt.app/) - A professional social media network built 100% on blockchain.
 
-- ✓ [Motoko School](https://anyuk-uiaaa-aaaah-aaduq-cai.raw.ic0.app/) - A collaborative online school
+- ✓ [Motoko School](https://anyuk-uiaaa-aaaah-aaduq-cai.raw.ic0.app/) - A collaborative online school for Motoko.
 
 - ✓ [The Wall](https://rivyl-6aaaa-aaaaf-qaapq-cai.raw.ic0.app/) - The Wall is a crossover Ethereum/Internet Computer demo app. Create an IC Identity simply by signing a Metamask message. Then, write the wall! 
 
-- ✓ [DSCVR](http://dscvr.one/)
+- ✓ [DSCVR](http://dscvr.one/) - A decentralized social content aggregation platform where users not only control the content, but also the platform itself.
 
-- ✓ [OpenChat](https://7e6iv-biaaa-aaaaf-aaada-cai.ic0.app/)
+- ✓ [OpenChat](https://oc.app/) - A decentralized chat app governed by the people for the people.
 
-- ✓ [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/)
+- ✓ [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/) - The Internet Computer community canister registry - `Find( ), publish<T> and extend { applications } and *services built on the <Internet Computer/>`.
 
 - [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters.
 
@@ -63,7 +63,7 @@ You can see all eglible projects in the [gallery on DevPost](https://supernova.d
 
 - ✓ [Kontribute](https://3ezq7-iqaaa-aaaal-aaacq-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/kontribute), [Code](https://github.com/teambonsai/bonsai_dapp)) - Kontribute allows readers, writers, and web 3 enthusiasts, to write and read stories, or sell and trade NFTs from their stories all within our dapp.
 
-- ✓ [Conshax](https://o3m37-5yaaa-aaaag-aal5a-cai.ice0.app/) ([DevPost](https://devpost.com/software/conshax)) - Web3 platform for a new era of podcasting.
+- Conshax ([DevPost](https://devpost.com/software/conshax)) - Web3 platform for a new era of podcasting.
 
 - ✓ [Signals](https://2fydv-iqaaa-aaaak-qap6q-cai.ic0.app/) ([DevPost](https://devpost.com/software/signals), [Code](https://github.com/bertiespell/Signals)) - A unique SocialFi space for making local connections, creating decentralized communities and discovering events.
 
@@ -105,7 +105,7 @@ You can see all eglible projects in the [gallery on DevPost](https://supernova.d
 
 - ✓ [Enoki DEX](https://enoki.ooo/) ([DevPost](https://devpost.com/software/enoki-exchange), [Code](https://github.com/enoki-dex)) - Completely Async and Scalable DEX: Swap, Earn, and be a Market Maker.
 
-- ✓ [Creator Marketplace](https://q5yht-biaaa-aaaag-aaonq-cai.ic0.app/gy4xn-zyaaa-aaaag-aanwq-cai) ([DevPost](https://devpost.com/software/creator-marketplace)) - A creator marketplace running 100% on the blockchain. 
+- ✓ [Portal](https://portal.one/) ([DevPost](https://devpost.com/software/creator-marketplace)) - On-Chain Video Streaming Infrastructure. 
   
 
 #### Public Good / Social Impact
@@ -126,7 +126,7 @@ You can see all eglible projects in the [gallery on DevPost](https://supernova.d
 
 - ✓ [CanDB](https://pliqr-fqaaa-aaaan-qalpq-cai.ic0.app/) ([DevPost](https://devpost.com/software/candb), [Code](https://github.com/canscale/supernova-candb-demo)) - Meet CanDB, the first flexible and truly horizontally scalable NoSQL database built for the Internet Computer.
 
-- ✓ [FoxIC](https://ip5qp-gaaaa-aaaah-ablla-cai.ic0.app/) ([DevPost](https://devpost.com/software/foxic), [Code](https://github.com/AstroxNetwork/FoxIC)) - A tool allowing MetaMask users to enter IC ecosystem
+- ✓ [FoxIC](https://ip5qp-gaaaa-aaaah-ablla-cai.ic0.app/) ([DevPost](https://devpost.com/software/foxic), [Code](https://github.com/AstroxNetwork/FoxIC)) - A tool allowing MetaMask users to enter IC ecosystem.
 
 - ✓ [DeTi](https://fl5mh-daaaa-aaaap-qalja-cai.ic0.app/) ([DevPost](https://devpost.com/software/decentralized-time), [Code](https://github.com/akshay-rakheja/supernova2022)) - Run code on your canister in the future.
 
@@ -149,8 +149,6 @@ The following represent a few of the applications that teams developed over the 
 - [Bookworm](https://github.com/rstout/bookworm) - An open publishing application inspired by China Literature.
 
 - [Shield](https://github.com/crusso/shield) - An app connecting at-risk people with nearby volunteers.
-
-- [Hero](https://github.com/stanleygjones/hackathon) - A random "killer app" generator inspired by the Wu-Tang Name Generator.
 
 ### ✳️ Demo Day 2020 projects
 
@@ -179,8 +177,6 @@ The following represent a few of the applications that teams developed over the 
 
 #### 🏗️ Data structures
 
-- [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/master/service/BigSearch.mo) - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
-
 - [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A generic CRUD framework for Motoko.
 
 - [motoko-dht](https://github.com/enzoh/motoko-dht) - A Motoko Distributed Hash Table (DHT) canister.
@@ -207,7 +203,7 @@ The following represent a few of the applications that teams developed over the 
 
 ## Frontend Development
 
-- [create-ic-apps](https://github.com/MioQuispe/ic-starter-templates) - Modern, unopinionated templates for React, Vue & Svelte powered by [ViteJS](https://vitejs.dev/)
+- [create-ic-apps](https://github.com/MioQuispe/ic-starter-templates) - Modern, unopinionated templates for React, Vue & Svelte powered by [Vite](https://vitejs.dev/)
 
 ## DFINITY Team Projects
 
