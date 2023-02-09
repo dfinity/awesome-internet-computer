@@ -23,9 +23,9 @@ Projects denoted with a ✓ are *deployed to the Internet Computer*!
 
 ## Foundation Dapps
 
-- ✓ [NNS Governance](https://nns.ic0.app/) - A Governance Dapp for voting on Internet Computer governance proposals
+- ✓ [NNS Governance](https://nns.ic0.app/) - A Governance Dapp for voting on Internet Computer governance proposals.
 
-- ✓ [Internet Identity](https://identity.ic0.app/) - Internet Identity service enables you to authenticate securely and anonymously when accessing applications on the Internet Computer
+- ✓ [Internet Identity](https://identity.ic0.app/) - Internet Identity service enables you to authenticate securely and anonymously when accessing applications on the Internet Computer.
 
 ## Community projects
 
@@ -41,7 +41,7 @@ Submit a pull request to add a link to your repository here.
 
 - ✓ [DSCVR](http://dscvr.one/) - A decentralized social content platform running on the Internet Computer.
 
-- ✓ [OpenChat](https://7e6iv-biaaa-aaaaf-aaada-cai.ic0.app/) - A truly decentralized alternative to WhatsApp.
+- ✓ [OpenChat](https://oc.app/) - A truly decentralized alternative to WhatsApp.
 
 - ✓ [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/) - A canister search engine for the Internet Computer.
 
@@ -63,7 +63,7 @@ You can see all eglible projects in the [gallery on DevPost](https://supernova.d
 
 - ✓ [Kontribute](https://3ezq7-iqaaa-aaaal-aaacq-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/kontribute), [Code](https://github.com/teambonsai/bonsai_dapp)) - Kontribute allows readers, writers, and web 3 enthusiasts, to write and read stories, or sell and trade NFTs from their stories all within our dapp.
 
-- ✓ [Conshax](https://o3m37-5yaaa-aaaag-aal5a-cai.ice0.app/) ([DevPost](https://devpost.com/software/conshax)) - Web3 platform for a new era of podcasting.
+- Conshax ([DevPost](https://devpost.com/software/conshax)) - Web3 platform for a new era of podcasting.
 
 - ✓ [Signals](https://2fydv-iqaaa-aaaak-qap6q-cai.ic0.app/) ([DevPost](https://devpost.com/software/signals), [Code](https://github.com/bertiespell/Signals)) - A unique SocialFi space for making local connections, creating decentralized communities and discovering events.
 
@@ -105,7 +105,7 @@ You can see all eglible projects in the [gallery on DevPost](https://supernova.d
 
 - ✓ [Enoki DEX](https://enoki.ooo/) ([DevPost](https://devpost.com/software/enoki-exchange), [Code](https://github.com/enoki-dex)) - Completely Async and Scalable DEX: Swap, Earn, and be a Market Maker.
 
-- ✓ [Creator Marketplace](https://q5yht-biaaa-aaaag-aaonq-cai.ic0.app/gy4xn-zyaaa-aaaag-aanwq-cai) ([DevPost](https://devpost.com/software/creator-marketplace)) - A creator marketplace running 100% on the blockchain. 
+- ✓ [Portal](https://portal.one/) ([DevPost](https://devpost.com/software/creator-marketplace)) - On-Chain Video Streaming Infrastructure. 
   
 
 #### Public Good / Social Impact
@@ -126,7 +126,7 @@ You can see all eglible projects in the [gallery on DevPost](https://supernova.d
 
 - ✓ [CanDB](https://pliqr-fqaaa-aaaan-qalpq-cai.ic0.app/) ([DevPost](https://devpost.com/software/candb), [Code](https://github.com/canscale/supernova-candb-demo)) - Meet CanDB, the first flexible and truly horizontally scalable NoSQL database built for the Internet Computer.
 
-- ✓ [FoxIC](https://ip5qp-gaaaa-aaaah-ablla-cai.ic0.app/) ([DevPost](https://devpost.com/software/foxic), [Code](https://github.com/AstroxNetwork/FoxIC)) - A tool allowing MetaMask users to enter IC ecosystem
+- ✓ [FoxIC](https://ip5qp-gaaaa-aaaah-ablla-cai.ic0.app/) ([DevPost](https://devpost.com/software/foxic), [Code](https://github.com/AstroxNetwork/FoxIC)) - A tool allowing MetaMask users to enter IC ecosystem.
 
 - ✓ [DeTi](https://fl5mh-daaaa-aaaap-qalja-cai.ic0.app/) ([DevPost](https://devpost.com/software/decentralized-time), [Code](https://github.com/akshay-rakheja/supernova2022)) - Run code on your canister in the future.
 
@@ -150,8 +150,6 @@ The following represent a few of the applications that teams developed over the 
 
 - [Shield](https://github.com/crusso/shield) - An app connecting at-risk people with nearby volunteers.
 
-- [Hero](https://github.com/stanleygjones/hackathon) - A random "killer app" generator inspired by the Wu-Tang Name Generator.
-
 ### ✳️ Demo Day 2020 projects
 
 - [Bonus](https://github.com/seniorjoinu/Bonus) - Next-generation loyalty system built on the Internet Computer.
@@ -172,13 +170,12 @@ The following represent a few of the applications that teams developed over the 
 - [Awesome Motoko](https://github.com/motoko-unofficial/awesome-motoko) - An awesome list of Motoko code and resources curated by the community.
 
 ### 📦 Motoko Package Managers
-- [Vessel package manager](https://github.com/kritzcreek/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
+- [Vessel](https://github.com/dfinity/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
+- [MOPS](https://github.com/ZenVoich/mops) - A community-built package manager with fully on-chain package registry.
 
 ### 📁 Motoko libraries
 
 #### 🏗️ Data structures
-
-- [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/master/service/BigSearch.mo) - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
 
 - [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A generic CRUD framework for Motoko.
 
