@@ -2,10 +2,9 @@
 
 # Process
 
-- [Fork](http://guides.github.com/activities/forking/) this repository and then [clone](https://help.github.com/articles/cloning-a-repository/) it on your local machine.
-- Edit `README.md` to include the name, URL, and brief description of your project.
-- [Commit](https://github.com/git-guides/git-commit) and then [push](https://github.com/git-guides/git-push) the changes to your forked repository.
-- [Open a Pull Request](https://github.com/dfinity/awesome-internet-computer/pulls) with some background information about the project if necessary.
+- [Edit the `README.md` file](https://github.com/dfinity/awesome-internet-computer/edit/main/README.md) in your browser to include the name, URL, and brief description of your project.
+- Press the "Propose Changes" button at the bottom of the page to open a [Pull Request](https://github.com/dfinity/awesome-internet-computer/pulls). 
+- (Optional) Consider adding some background information about the project in the PR description.
 
 # Guidelines
 
