@@ -4,7 +4,7 @@
   <img src="assets/dfinity-logo.png">
 </a>
 
-> #### A curated list of awesome projects and resources relating to the Internet Computer.
+> **A curated list of awesome projects and resources relating to the Internet Computer.**
 
 The [Internet Computer](https://internetcomputer.org/) (IC) is a public blockchain that hosts smart contracts that run at web speed, can serve web from cyberspace, run efficiently, and can scale within an environment that has unbounded capacity. Smart contracts are a profoundly new and superior form of tamperproof and unstoppable software. They can imbue systems and services with new properties, enabling the reimagination of websites, systems, internet services and finance.
 
