@@ -21,4 +21,4 @@ Thanks for Looking to contribute to this repo. We are happy to see your interest
 - Please make sure you [squash](https://dev.to/pb/git-squash-simplified-3ba1) all commits into a single commit before opening a pull request. If your pull request requires changes upon review, please be sure to squash all additional commits as well.
 <!-- markdown-link-check-enable -->
 
-> Thanks you so much for reading the contributing guide. Looking forward to review a great PR from you.
+> Thank you so much for reading the contributing guide. Looking forward to review a great PR from you.
