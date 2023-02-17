@@ -11,7 +11,6 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 ---
 
 ## Contents
-
 - [Awesome ICP ](#awesome-icp-)
   - [Contents](#contents)
   - [Client Libraries (Agents)](#client-libraries-agents)
@@ -29,6 +28,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
     - [Python](#python-1)
     - [C/C++](#cc)
     - [AssemblyScript](#assemblyscript)
+  - [Dapp Development Platforms and Frameworks](#dapp-development-platforms-and-frameworks)
   - [Developer Tooling](#developer-tooling)
     - [Testing](#testing)
     - [CI/CD](#cicd)
@@ -136,6 +136,10 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [cdk-as](https://github.com/rckprtr/cdk-as) - AssemblyScript CDK.
 
 
+## Dapp Development Platforms and Frameworks
+
+- [Juno](https://juno.build/) - Build Web3 apps like it's Web2.
+
 ## Developer Tooling
 
 - [Developer Tooling Landing page](https://internetcomputer.org/tooling) - Overview of tooling in the Internet Computer ecosystem.
@@ -180,7 +184,7 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 
 Candid is an interface description language (IDL) for interacting with canisters (also known as services or actors) running on the Internet Computer. It provides a language-independent description of canister interfaces and the data they exchange, with type safety and extensibility.
 
-- [Candid GitHub Repo](https://github.com/dfinity/candid) - The home of Candid
+- [Candid GitHub Repo](https://github.com/dfinity/candid) - The home of Candid.
 - [Candid UI](https://github.com/dfinity/candid/blob/master/tools/ui) - Canister generates a front-end UI for any canister.
 - [didc](https://github.com/dfinity/candid/tree/master/tools/didc) - A multi-purpose tool for Candid.
 - [idl2json](https://github.com/dfinity/idl2json) - Command line tool for converting Candid to JSON.
@@ -194,12 +198,12 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 #### C#
 
-- [ICP.NET candid](https://github.com/edjCase/ICP.NET/tree/main/src/Candid) - C# library of Candid. 
+- [ICP.NET candid](https://github.com/edjCase/ICP.NET/tree/main/src/Candid) - C# library of Candid.
 
 #### Dart
 
-- [candid_dart](https://github.com/AstroxNetwork/candid_dart) - Dart library of Candid. 
-- [ic_tools_dart](https://github.com/levifeldman/ic_tools_dart) - Dart library of Candid. 
+- [candid_dart](https://github.com/AstroxNetwork/candid_dart) - Dart library of Candid.
+- [ic_tools_dart](https://github.com/levifeldman/ic_tools_dart) - Dart library of Candid.
 
 #### Elm
 
@@ -239,7 +243,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 #### ICRC
 
-- [ICRC-1](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-1/README.md) - Base fungible token standard. 
+- [ICRC-1](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-1/README.md) - Base fungible token standard.
 - [ICRC-2](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-2/README.md) - Extension to support `approve` and `transfer_from`.
 
 #### Other Interface Standards
@@ -251,19 +255,19 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 ## DAO Frameworks
 
-- [Axon](https://github.com/icdevs/axon) - A multi-user, multi-neuron management canister. 
+- [Axon](https://github.com/icdevs/axon) - A multi-user, multi-neuron management canister.
 - [Service Nervous System](https://internetcomputer.org/sns) - Framework inspired by the Network Nervous System.
 
 ## Game Development
 
 For Unity-compatible client libraries, see [C# agents](#C#).
 
-- [WebGL Sample](https://internetcomputer.org/docs/current/samples/host-a-webgame) - Example of how to host a WebGL game on the IC. 
+- [WebGL Sample](https://internetcomputer.org/docs/current/samples/host-a-webgame) - Example of how to host a WebGL game on the IC.
 
 ## Wallets and Authentication
 
 - [AstroX Me](https://astrox.me/#/) - Canister-based mobile/web multi-chain wallet.
-- [Bitfinity](https://wallet.infinityswap.one/) - Chrome extension. 
+- [Bitfinity](https://wallet.infinityswap.one/) - Chrome extension.
 - [Internet Identity](https://github.com/dfinity/internet-identity) - Pseudoymous authentication system for the Internet Computer.
 - [NFID](https://nfid.one/) - Digital identity for signing in to applications privately and securely.
 - [NNS Dapp](https://nns.ic0.app/) - Stake ICP in neurons, participate in governance and decentralization sales.
@@ -272,7 +276,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 
 ### Libraries
 
-- [connect2ic](https://connect2ic.github.io/docs/) - A frontend auth library & toolkit for the Internet Computer. 
+- [connect2ic](https://connect2ic.github.io/docs/) - A frontend auth library & toolkit for the Internet Computer.
 
 ## Dashboards, Explorers and Registries
 
@@ -296,7 +300,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 ## Starters
 
 - [create-ic](https://github.com/peterpeterparker/create-ic) - A simple command line tool to quickly create projects for the IC.
-- [create-ic-app](https://github.com/MioQuispe/create-ic-app) -  Modern, unopinionated templates for React, Vue & Svelte powered by [Vite](https://vitejs.dev/).
+- [create-ic-app](https://github.com/MioQuispe/create-ic-app) - Modern, unopinionated templates for React, Vue & Svelte powered by [Vite](https://vitejs.dev/).
 - [ic-rust-starter](https://github.com/ocluf/ic-rust-starter) - Starter for a Rust backend-only canister project.
 - [vite-react-motoko](https://github.com/rvanasa/vite-react-motoko) - Full-Stack React/Motoko starter with live reload.
 
@@ -332,9 +336,9 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [Rust + React (Typescript) + Internet Identity on the Internet Computer](https://medium.com/@ilbert/rust-react-typescript-internet-identity-on-the-internet-computer-35331ae2a4be).
 - [Video: Code Native Bitcoin](https://www.youtube.com/watch?v=LGegOFqP5x0) [(2nd part)](https://www.youtube.com/watch?v=H6Wu9n9Qwa8) - Video tutorial on how to use the native Bitcoin integration.
 - [Video: Coding with Kyle | Make Oracles Obsolete in under 5 Minutes](https://www.youtube.com/watch?v=3e12N9mcWhw).
-- [Video: Deploy Your First dApp on the IC in 10 Minutes!](https://www.youtube.com/watch?v=r5s7nD_XO0M). 
+- [Video: Deploy Your First dApp on the IC in 10 Minutes!](https://www.youtube.com/watch?v=r5s7nD_XO0M).
 - [Video: Frontends on the Internet Computer](https://www.youtube.com/watch?v=rjSDvTaEj3s).
-- [Video: Intro to Building on the Internet Computer](https://www.youtube.com/watch?v=fSO___x3e3I). 
+- [Video: Intro to Building on the Internet Computer](https://www.youtube.com/watch?v=fSO___x3e3I).
 - [Video: Uploading and Serving Images on the IC](https://www.youtube.com/watch?v=0O4M0W47KKA).
 - [Which Language Should You Choose To Build on the Internet Computer?](https://medium.com/code-state/which-language-should-you-choose-to-build-on-the-internet-computer-%EF%B8%8F-851c31e9c28).
 - [Working with Environments on the Internet Computer](https://medium.com/@Catalyze.One/working-with-environments-on-the-internet-computer-59ed3d2a5763).
