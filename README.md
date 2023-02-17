@@ -349,7 +349,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 
 - [DFINITY Developer Forum](https://forum.dfinity.org/) - Main forum about the Internet Computer.
 - [IC Developer Community Discord](https://discord.gg/jnjVVQaE2C) - Developer-oriented community Discord.
-- [ICP [Discord](https://discord.gg/FygMb5VyCQ) - Multi-language server for the broader community.
+- [ICP Discord](https://discord.gg/FygMb5VyCQ) - Multi-language server for the broader community.
 - [ICP League](https://qbw7d-giaaa-aaaaj-aalta-cai.ic0.app/) - Fostering world-class community for Internet Computer Ecosystem.
 - [Internet Computer Academy](https://internetcomputer.academy/) - Open-source and community-driven knowledge base about the IC.
 
