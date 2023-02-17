@@ -1,17 +1,17 @@
-# Awesome ICP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <a align="center" href="https://internetcomputer.org/">
-  <img src="assets/dfinity-logo.png">
+  <img src="assets/awesome-cover.png">
 </a>
 
-> A curated list of awesome projects and resources relating to [DFINITY](https://dfinity.org) and the Internet Computer.
 
 The [Internet Computer](https://internetcomputer.org/) is a public blockchain that hosts smart contracts that run at web speed, can serve web from cyberspace, run efficiently, and can scale within an environment that has unbounded capacity. Smart contracts are a profoundly new and superior form of tamperproof and unstoppable software. They can imbue systems and services with new properties, enabling the reimagination of websites, systems, internet services and finance.
 
 ---
 
 ## Contents
-- [Awesome ICP ](#awesome-icp-)
+
+- [Awesome Internet Computer ](#awesome-internet-computer-)
   - [Contents](#contents)
   - [Client Libraries (Agents)](#client-libraries-agents)
     - [JavaScript/TypeScript](#javascripttypescript)
@@ -51,6 +51,8 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
     - [Interface Standards](#interface-standards)
       - [ICRC](#icrc)
       - [Other Interface Standards](#other-interface-standards)
+  - [Messaging](#messaging)
+  - [Payments](#payments)
   - [DAO Frameworks](#dao-frameworks)
   - [Game Development](#game-development)
   - [Wallets and Authentication](#wallets-and-authentication)
@@ -150,7 +152,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### Testing
 
 - [canister-profiling](https://github.com/dfinity/canister-profiling) - Code & scripts for collecting performance data for canisters.
-- [ic-repl](https://github.com/chenyan2002/ic-repl) - A REPL environment to communicate with canisters. Allows to write E2E integration tests
+- [ic-repl](https://github.com/chenyan2002/ic-repl) - A REPL environment to communicate with canisters. Allows to write E2E integration tests.
 
 ### CI/CD
 
@@ -253,6 +255,15 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [DIP721](https://github.com/Psychedelic/DIP721) - NFT standard inspired the ERC721 standard.
 - [EXT](https://github.com/Toniq-Labs/extendable-token) - The extendable token standard inspired by ERC1155.
 - [Origyn NFT](https://github.com/origyn-sa/origyn_nft) - Origyn NFT standard.
+
+
+## Messaging
+
+
+
+## Payments
+
+- [Beam]()
 
 ## DAO Frameworks
 
