@@ -1,4 +1,5 @@
-# Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Discord Shield](https://discordapp.com/api/guilds/748416164832608337/widget.png?style=shield)
+
 
 <a align="center" href="https://internetcomputer.org/">
   <img src="assets/awesome-cover.png">
@@ -11,8 +12,11 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 ## Contents
 
-- [Awesome Internet Computer ](#awesome-internet-computer-)
+- [Awesome Internet Computer  ](#awesome-internet-computer--)
   - [Contents](#contents)
+  - [Courses, Tutorials and Samples](#courses-tutorials-and-samples)
+    - [Courses](#courses)
+    - [Tutorials and Samples](#tutorials-and-samples)
   - [Client Libraries (Agents)](#client-libraries-agents)
     - [JavaScript/TypeScript](#javascripttypescript)
     - [Rust](#rust)
@@ -52,7 +56,6 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
       - [ICRC](#icrc)
       - [Other Interface Standards](#other-interface-standards)
   - [Messaging](#messaging)
-  - [Payments](#payments)
   - [DAO Frameworks](#dao-frameworks)
   - [Game Development](#game-development)
   - [Wallets and Authentication](#wallets-and-authentication)
@@ -61,12 +64,39 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
   - [Crosschain Interoperability](#crosschain-interoperability)
   - [Starters](#starters)
   - [Blogs](#blogs)
-  - [Courses, Tutorials and Samples](#courses-tutorials-and-samples)
-    - [Courses](#courses)
-    - [Tutorials and Samples](#tutorials-and-samples)
   - [How it works / Deep dives](#how-it-works--deep-dives)
   - [Communities and Communication](#communities-and-communication)
   - [Bounties and Grants](#bounties-and-grants)
+
+## Courses, Tutorials and Samples
+
+### Courses
+
+- [Motoko Bootcamp #1](https://github.com/motoko-bootcamp/bootcamp-2022) - Lectures and materials for the first Motoko Bootcamp in 2022.
+- [Motoko Bootcamp #2](https://github.com/motoko-bootcamp/motokobootcamp-2023) - Lectures and materials for the second Motoko Bootcamp in 2023.
+- [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Udemy course with a complete section on web3 development using the Internet Computer.
+- [Web3, Blockchain and the Internet Computer](https://www.youtube.com/playlist?list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c) - Youtube series (excerpt from The Complete Web Development Bootcamp).
+
+### Tutorials and Samples
+
+- [Access control](https://github.com/domwoe/access_control) - Demonstrator for access control patterns on the IC.
+- [Backup and Restore](https://github.com/Factland/ic-factland/blob/main/backup/backup_restore.md) - Tutorial with code on backup and restore of canister state.
+- [Canister guard in Rust](https://medium.com/@daviddalbusco/canister-guard-in-rust-on-the-internet-computer-c896f75e0cef) - Tutorial on the guard pattern for access control.
+- [Considerations for NFT Developers](https://internetcomputer.org/docs/current/developer-docs/best-practices/considerations-for-nft-devs) - Discussion of best practices for NFT developers.
+- [Hosting ERC 721 metadata](https://github.com/domwoe/erc-721-ic-assets) - Tutorial on hosting metadata and assets for ERC-721 NFTs on the IC.
+- [Social Platform Previews and SEO](https://medium.com/dfinity/how-to-configure-dapps-for-social-platform-previews-and-seo-62a55ee63d33).
+- [How to Migrate Canister Smart Contracts from Motoko to Rust](https://medium.com/dfinity/how-to-migrate-canister-smart-contracts-from-motoko-to-rust-3446a4b0c2ff).
+- [How to programmatically convert ICP into Cycles in NodeJS](https://medium.com/dfinity/converting-icp-into-cycles-javascript-9b0dba8d8e00).
+- [Internet Computer Sample Dapps](https://internetcomputer.org/samples) - DFINITY-maintained and community-contributed samples and tutorials.
+- [Rust + React (Typescript) + Internet Identity on the Internet Computer](https://medium.com/@ilbert/rust-react-typescript-internet-identity-on-the-internet-computer-35331ae2a4be).
+- [Video: Code Native Bitcoin](https://www.youtube.com/watch?v=LGegOFqP5x0) [(2nd part)](https://www.youtube.com/watch?v=H6Wu9n9Qwa8) - Video tutorial on how to use the native Bitcoin integration.
+- [Video: Coding with Kyle | Make Oracles Obsolete in under 5 Minutes](https://www.youtube.com/watch?v=3e12N9mcWhw).
+- [Video: Deploy Your First dApp on the IC in 10 Minutes!](https://www.youtube.com/watch?v=r5s7nD_XO0M).
+- [Video: Frontends on the Internet Computer](https://www.youtube.com/watch?v=rjSDvTaEj3s).
+- [Video: Intro to Building on the Internet Computer](https://www.youtube.com/watch?v=fSO___x3e3I).
+- [Video: Uploading and Serving Images on the IC](https://www.youtube.com/watch?v=0O4M0W47KKA).
+- [Which Language Should You Choose To Build on the Internet Computer?](https://medium.com/code-state/which-language-should-you-choose-to-build-on-the-internet-computer-%EF%B8%8F-851c31e9c28).
+- [Working with Environments on the Internet Computer](https://medium.com/@Catalyze.One/working-with-environments-on-the-internet-computer-59ed3d2a5763).
 
 ## Client Libraries (Agents)
 
@@ -157,6 +187,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### CI/CD
 
 - [ICPipeline](https://www.icpipeline.com/) - CI/CD framework to simply IC release management.
+- [Launchtrail](https://github.com/spinner-cash/launchtrail) - Simple and Secure Release Management for Internet Computer Projects.
 
 ### Monitoring
 
@@ -259,11 +290,9 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 ## Messaging
 
-
-
-## Payments
-
-- [Beam]()
+- [Messity](https://www.messity.com/) - An open and nonproprietary decentralized messaging protocol.
+- [OpenChat](https://github.com/open-ic/open-chat) - An open chat app.
+- [W3NS](https://github.com/ArgonStudiosXYZ/w3ns) - An Interner Computer service for notifications.
 
 ## DAO Frameworks
 
@@ -326,36 +355,6 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [Kyle Peacocks's blog](https://kyle-peacock.com/blog/) - Notes on IC development and more.
 - [mmapped](https://mmapped.blog/) - Roman Kashitsyn's blog about IC internals and development.
 
-## Courses, Tutorials and Samples
-
-### Courses
-
-- [Motoko Bootcamp #1](https://github.com/motoko-bootcamp/bootcamp-2022) - Lectures and materials for the first Motoko Bootcamp in 2022.
-- [Motoko Bootcamp #2](https://github.com/motoko-bootcamp/motokobootcamp-2023) - Lectures and materials for the second Motoko Bootcamp in 2023.
-- [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Udemy course with a complete section on web3 development using the Internet Computer.
-- [Web3, Blockchain and the Internet Computer](https://www.youtube.com/playlist?list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c) - Youtube series (excerpt from The Complete Web Development Bootcamp).
-
-### Tutorials and Samples
-
-- [Access control on the Internet Computer](https://github.com/domwoe/access_control).
-- [Backup and Restore of Data on the Internet Computer](https://github.com/Factland/ic-factland/blob/main/backup/backup_restore.md).
-- [Canister guard in Rust on the Internet Computer](https://medium.com/@daviddalbusco/canister-guard-in-rust-on-the-internet-computer-c896f75e0cef).
-- [Considerations for NFT Developers](https://internetcomputer.org/docs/current/developer-docs/best-practices/considerations-for-nft-devs).
-- [Hosting ERC 721 metadata on the IC](https://github.com/domwoe/erc-721-ic-assets).
-- [How to Configure Dapps for Social Platform Previews and SEO](https://medium.com/dfinity/how-to-configure-dapps-for-social-platform-previews-and-seo-62a55ee63d33).
-- [How to Migrate Canister Smart Contracts from Motoko to Rust](https://medium.com/dfinity/how-to-migrate-canister-smart-contracts-from-motoko-to-rust-3446a4b0c2ff).
-- [How to programmatically convert ICP into Cycles in NodeJS](https://medium.com/dfinity/converting-icp-into-cycles-javascript-9b0dba8d8e00).
-- [Internet Computer Sample Dapps](https://internetcomputer.org/samples) - DFINITY-maintained and community-contributed samples and tutorials.
-- [Rust + React (Typescript) + Internet Identity on the Internet Computer](https://medium.com/@ilbert/rust-react-typescript-internet-identity-on-the-internet-computer-35331ae2a4be).
-- [Video: Code Native Bitcoin](https://www.youtube.com/watch?v=LGegOFqP5x0) [(2nd part)](https://www.youtube.com/watch?v=H6Wu9n9Qwa8) - Video tutorial on how to use the native Bitcoin integration.
-- [Video: Coding with Kyle | Make Oracles Obsolete in under 5 Minutes](https://www.youtube.com/watch?v=3e12N9mcWhw).
-- [Video: Deploy Your First dApp on the IC in 10 Minutes!](https://www.youtube.com/watch?v=r5s7nD_XO0M).
-- [Video: Frontends on the Internet Computer](https://www.youtube.com/watch?v=rjSDvTaEj3s).
-- [Video: Intro to Building on the Internet Computer](https://www.youtube.com/watch?v=fSO___x3e3I).
-- [Video: Uploading and Serving Images on the IC](https://www.youtube.com/watch?v=0O4M0W47KKA).
-- [Which Language Should You Choose To Build on the Internet Computer?](https://medium.com/code-state/which-language-should-you-choose-to-build-on-the-internet-computer-%EF%B8%8F-851c31e9c28).
-- [Working with Environments on the Internet Computer](https://medium.com/@Catalyze.One/working-with-environments-on-the-internet-computer-59ed3d2a5763).
-
 ## How it works / Deep dives
 
 - [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
@@ -372,6 +371,6 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 
 ## Bounties and Grants
 
-- [DFINITY Developer Grants and Bounties](http://dfinity.org/grants) / [Requests and Discussions](https://github.com/dfinity/grant-rfps/discussions).
-- [ICDevs Bounties](https://icdevs.org/bounties.html).
-- [Video: Overview of the Developer Grants Program](https://www.youtube.com/watch?v=hoYo-c9SMfQ).
+- [DFINITY Developer Grants and Bounties](http://dfinity.org/grants) / [Requests and Discussions](https://github.com/dfinity/grant-rfps/discussions) - Developer Grant and Bounty program provided by the DFINITY foundation.
+- [ICDevs Bounties](https://icdevs.org/bounties.html) - Code bounties by the ICDevs organization.
+- [Video: Overview of the Developer Grants Program](https://www.youtube.com/watch?v=hoYo-c9SMfQ) - A video that explains the objective and the process of the DFINITY Develoepr Grants program.
