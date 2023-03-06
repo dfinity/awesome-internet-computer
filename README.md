@@ -1,5 +1,4 @@
-# Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Discord Shield](https://discordapp.com/api/guilds/748416164832608337/widget.png?style=shield)
-
+# Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <a align="center" href="https://internetcomputer.org/">
   <img src="assets/awesome-cover.png">
@@ -12,11 +11,13 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 ## Contents
 
-- [Awesome Internet Computer  ](#awesome-internet-computer--)
+- [Awesome Internet Computer ](#awesome-internet-computer-)
   - [Contents](#contents)
   - [Courses, Tutorials and Samples](#courses-tutorials-and-samples)
     - [Courses](#courses)
     - [Tutorials and Samples](#tutorials-and-samples)
+      - [Simple / Getting started](#simple--getting-started)
+      - [Advanced](#advanced)
   - [Client Libraries (Agents)](#client-libraries-agents)
     - [JavaScript/TypeScript](#javascripttypescript)
     - [Rust](#rust)
@@ -79,23 +80,29 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 ### Tutorials and Samples
 
+- [Internet Computer Developer Hub](https://internetcomputer.org/docs/current/home) - The main entry point to documentation, guides and references.
+- [Internet Computer Sample Dapps](https://internetcomputer.org/samples) - DFINITY-maintained and community-contributed samples and tutorials.
+  
+#### Simple / Getting started
+
+- [Considerations for NFT Developers](https://internetcomputer.org/docs/current/developer-docs/best-practices/considerations-for-nft-devs) - Discussion of best practices for NFT developers.
+- [Deploy Your First dApp on the IC in 10 Minutes!](https://www.youtube.com/watch?v=r5s7nD_XO0M) - Getting started video tutorial.
+- [Frontends on the Internet Computer](https://www.youtube.com/watch?v=rjSDvTaEj3s) - Video tutorial on hosting frontends using the asset canister.
+- [Intro to Building on the Internet Computer](https://www.youtube.com/watch?v=fSO___x3e3I) - Video introduction to building on the IC with Motoko and Rust.
+- [Languages on the IC](https://medium.com/code-state/which-language-should-you-choose-to-build-on-the-internet-computer-%EF%B8%8F-851c31e9c28) - Guide on how to select the programming language for the IC.
+- [Make Oracles Obsolete in under 5 Minutes](https://www.youtube.com/watch?v=3e12N9mcWhw) - Short video tutorial on HTTPS Outcalls in Motoko.
+- [Rust + React (Typescript) + Internet Identity on the Internet Computer](https://medium.com/@ilbert/rust-react-typescript-internet-identity-on-the-internet-computer-35331ae2a4be).
+  
+#### Advanced
+
 - [Access control](https://github.com/domwoe/access_control) - Demonstrator for access control patterns on the IC.
 - [Backup and Restore](https://github.com/Factland/ic-factland/blob/main/backup/backup_restore.md) - Tutorial with code on backup and restore of canister state.
 - [Canister guard in Rust](https://medium.com/@daviddalbusco/canister-guard-in-rust-on-the-internet-computer-c896f75e0cef) - Tutorial on the guard pattern for access control.
-- [Considerations for NFT Developers](https://internetcomputer.org/docs/current/developer-docs/best-practices/considerations-for-nft-devs) - Discussion of best practices for NFT developers.
+- [Code native Bitcoin](https://www.youtube.com/watch?v=LGegOFqP5x0) [(2nd part)](https://www.youtube.com/watch?v=H6Wu9n9Qwa8) - Video tutorials on how to use the native Bitcoin integration.
 - [Hosting ERC 721 metadata](https://github.com/domwoe/erc-721-ic-assets) - Tutorial on hosting metadata and assets for ERC-721 NFTs on the IC.
-- [Social Platform Previews and SEO](https://medium.com/dfinity/how-to-configure-dapps-for-social-platform-previews-and-seo-62a55ee63d33).
-- [How to Migrate Canister Smart Contracts from Motoko to Rust](https://medium.com/dfinity/how-to-migrate-canister-smart-contracts-from-motoko-to-rust-3446a4b0c2ff).
-- [How to programmatically convert ICP into Cycles in NodeJS](https://medium.com/dfinity/converting-icp-into-cycles-javascript-9b0dba8d8e00).
-- [Internet Computer Sample Dapps](https://internetcomputer.org/samples) - DFINITY-maintained and community-contributed samples and tutorials.
-- [Rust + React (Typescript) + Internet Identity on the Internet Computer](https://medium.com/@ilbert/rust-react-typescript-internet-identity-on-the-internet-computer-35331ae2a4be).
-- [Video: Code Native Bitcoin](https://www.youtube.com/watch?v=LGegOFqP5x0) [(2nd part)](https://www.youtube.com/watch?v=H6Wu9n9Qwa8) - Video tutorial on how to use the native Bitcoin integration.
-- [Video: Coding with Kyle | Make Oracles Obsolete in under 5 Minutes](https://www.youtube.com/watch?v=3e12N9mcWhw).
-- [Video: Deploy Your First dApp on the IC in 10 Minutes!](https://www.youtube.com/watch?v=r5s7nD_XO0M).
-- [Video: Frontends on the Internet Computer](https://www.youtube.com/watch?v=rjSDvTaEj3s).
-- [Video: Intro to Building on the Internet Computer](https://www.youtube.com/watch?v=fSO___x3e3I).
-- [Video: Uploading and Serving Images on the IC](https://www.youtube.com/watch?v=0O4M0W47KKA).
-- [Which Language Should You Choose To Build on the Internet Computer?](https://medium.com/code-state/which-language-should-you-choose-to-build-on-the-internet-computer-%EF%B8%8F-851c31e9c28).
+- [Migration from Motoko to Rust](https://medium.com/dfinity/how-to-migrate-canister-smart-contracts-from-motoko-to-rust-3446a4b0c2ff) - How to Migrate Canister Smart Contracts from Motoko to Rust.
+- [Converting ICP into Cycles](https://medium.com/dfinity/converting-icp-into-cycles-javascript-9b0dba8d8e00) - How to programmatically convert ICP into Cycles in NodeJS.
+- [Social Platform Previews and SEO](https://medium.com/dfinity/how-to-configure-dapps-for-social-platform-previews-and-seo-62a55ee63d33) - Tutorial on how to configure dapps for social platform previews and SEO.
 - [Working with Environments on the Internet Computer](https://medium.com/@Catalyze.One/working-with-environments-on-the-internet-computer-59ed3d2a5763).
 
 ## Client Libraries (Agents)
@@ -333,6 +340,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 
 - [Bitcoin Integration](https://internetcomputer.org/bitcoin-integration) - Landing page of the direct integration with the Bitcoin network.
 - [Chain-key ECDSA](https://internetcomputer.org/how-it-works/threshold-ecdsa-signing/) - Tech that allows creating transactions targeting various chains from canisters on the Internet Computer.
+- [EVM Utility Canister](https://github.com/icopen/evm_utils_ic) - Utility canister to create and parse EVM-compliant transactions.
 - [ic-web3](https://github.com/rocklabs-io/ic-web3) - RPC client for canisters on the Internet Computer to access EVM networks.
 - [No key wallet](https://github.com/nikolas-con/ic-evm-sign-starter) - Example project of a canister-based Ethereum wallet.
 - [Omnic](https://github.com/rocklabs-io/omnic) - Cross-chain messaging protocol to connect EVM-compatible chains via the Internet Computer.
