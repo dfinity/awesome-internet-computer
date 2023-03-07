@@ -57,6 +57,10 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
       - [ICRC](#icrc)
       - [Other Interface Standards](#other-interface-standards)
   - [Messaging](#messaging)
+  - [Decentralized Finance](#decentralized-finance)
+    - [Exchanges](#exchanges)
+    - [Frameworks and Tools](#frameworks-and-tools)
+    - [Oracles](#oracles)
   - [DAO Frameworks](#dao-frameworks)
   - [Game Development](#game-development)
   - [Wallets and Authentication](#wallets-and-authentication)
@@ -300,6 +304,22 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [Messity](https://www.messity.com/) - An open and nonproprietary decentralized messaging protocol.
 - [OpenChat](https://github.com/open-ic/open-chat) - An open chat app.
 - [W3NS](https://github.com/ArgonStudiosXYZ/w3ns) - An Interner Computer service for notifications.
+
+
+## Decentralized Finance
+
+### Exchanges
+
+- [DeSwap Orderbook](https://github.com/iclighthouse/DeSwap-Orderbook) - An Order Matching Engine Module for Dex in Motoko.
+- [Spinner](https://github.com/spinner-cash/spinner) - Private transactions using zkSNARKs.
+
+### Frameworks and Tools
+
+- [ICTC](https://github.com/iclighthouse/ICTC) - Distributed transaction framework for DeFi applications.
+
+### Oracles 
+
+- [Exchange Rate Canister](https://github.com/dfinity/exchange-rate-canister) - Oracle service for cryptocurrency and fiat currency exchange rates.
 
 ## DAO Frameworks
 
