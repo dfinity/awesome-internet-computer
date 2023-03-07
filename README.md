@@ -1,224 +1,404 @@
-# Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <a align="center" href="https://internetcomputer.org/">
-  <img src="assets/dfinity-logo.png">
+  <img src="assets/awesome-cover.png">
 </a>
 
-> **A curated list of awesome projects and resources relating to the Internet Computer.**
 
-The [Internet Computer](https://internetcomputer.org/) (IC) is a public blockchain that hosts smart contracts that run at web speed, can serve web from cyberspace, run efficiently, and can scale within an environment that has unbounded capacity. Smart contracts are a profoundly new and superior form of tamperproof and unstoppable software. They can imbue systems and services with new properties, enabling the reimagination of websites, systems, internet services and finance.
-
-Projects denoted with a ✓ are *deployed to the Internet Computer*!
+The [Internet Computer](https://internetcomputer.org/) is a public blockchain that hosts smart contracts that run at web speed, can serve web from cyberspace, run efficiently, and can scale within an environment that has unbounded capacity. Smart contracts are a profoundly new and superior form of tamperproof and unstoppable software. They can imbue systems and services with new properties, enabling the reimagination of websites, systems, internet services and finance.
 
 ---
 
 ## Contents
 
-- [Foundation Dapps](#foundation-dapps)
-- [Community projects](#community-projects)
-- [Hackathons](#hackathons)
-- [Motoko Resources](#motoko-resources)
-- [Frontend Development](#frontend-development)
-- [DFINITY Team Projects](#dfinity-team-projects)
+- [Awesome Internet Computer ](#awesome-internet-computer-)
+  - [Contents](#contents)
+  - [Courses, Tutorials and Samples](#courses-tutorials-and-samples)
+    - [Courses](#courses)
+    - [Tutorials and Samples](#tutorials-and-samples)
+      - [Simple / Getting started](#simple--getting-started)
+      - [Advanced](#advanced)
+  - [Client Libraries (Agents)](#client-libraries-agents)
+    - [JavaScript/TypeScript](#javascripttypescript)
+    - [Rust](#rust)
+    - [Python](#python)
+    - [Dart/Flutter](#dartflutter)
+    - [Go](#go)
+    - [C#](#c)
+    - [Java](#java)
+  - [Canister Development Kits (CDKs)](#canister-development-kits-cdks)
+    - [Motoko](#motoko)
+    - [Rust](#rust-1)
+    - [JavaScript/TypeScript](#javascripttypescript-1)
+    - [Python](#python-1)
+    - [C/C++](#cc)
+    - [AssemblyScript](#assemblyscript)
+  - [Dapp Development Platforms and Frameworks](#dapp-development-platforms-and-frameworks)
+  - [Developer Tooling](#developer-tooling)
+    - [Testing](#testing)
+    - [CI/CD](#cicd)
+    - [Monitoring](#monitoring)
+  - [Motoko](#motoko-1)
+    - [Package Managers](#package-managers)
+  - [Candid](#candid)
+    - [Candid implementations](#candid-implementations)
+      - [AssemblyScript](#assemblyscript-1)
+      - [C#](#c-1)
+      - [Dart](#dart)
+      - [Elm](#elm)
+      - [Haskell](#haskell)
+      - [Java](#java-1)
+      - [JavaScript/TypeScript](#javascripttypescript-2)
+      - [Kotlin](#kotlin)
+      - [Motoko](#motoko-2)
+  - [Storage and Databases](#storage-and-databases)
+  - [Fungible and Non-fungible Tokens (NFTs)](#fungible-and-non-fungible-tokens-nfts)
+    - [Interface Standards](#interface-standards)
+      - [ICRC](#icrc)
+      - [Other Interface Standards](#other-interface-standards)
+  - [Messaging](#messaging)
+  - [Decentralized Finance](#decentralized-finance)
+    - [Exchanges](#exchanges)
+    - [Frameworks and Tools](#frameworks-and-tools)
+    - [Oracles](#oracles)
+  - [DAO Frameworks](#dao-frameworks)
+  - [Game Development](#game-development)
+  - [Wallets and Authentication](#wallets-and-authentication)
+    - [Libraries](#libraries)
+  - [Dashboards, Explorers and Registries](#dashboards-explorers-and-registries)
+  - [Crosschain Interoperability](#crosschain-interoperability)
+  - [Starters](#starters)
+  - [Blogs](#blogs)
+  - [How it works / Deep dives](#how-it-works--deep-dives)
+  - [Communities and Communication](#communities-and-communication)
+  - [Bounties and Grants](#bounties-and-grants)
 
-## Foundation Dapps
+## Courses, Tutorials and Samples
 
-- ✓ [NNS Governance](https://nns.ic0.app/) - A Governance Dapp for voting on Internet Computer governance proposals.
+### Courses
 
-- ✓ [Internet Identity](https://identity.ic0.app/) - Internet Identity service enables you to authenticate securely and anonymously when accessing applications on the Internet Computer.
+- [Motoko Bootcamp #1](https://github.com/motoko-bootcamp/bootcamp-2022) - Lectures and materials for the first Motoko Bootcamp in 2022.
+- [Motoko Bootcamp #2](https://github.com/motoko-bootcamp/motokobootcamp-2023) - Lectures and materials for the second Motoko Bootcamp in 2023.
+- [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Udemy course with a complete section on web3 development using the Internet Computer.
+- [Web3, Blockchain and the Internet Computer](https://www.youtube.com/playlist?list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c) - Youtube series (excerpt from The Complete Web Development Bootcamp).
 
-## Community projects
+### Tutorials and Samples
 
-Submit a pull request to add a link to your repository here.
-
-### 🆕 Recent Community Projects
-
-- ✓ [distrikt](https://distrikt.app/) - A professional social media network built 100% on blockchain.
-
-- ✓ [Motoko School](https://anyuk-uiaaa-aaaah-aaduq-cai.raw.ic0.app/) - A collaborative online school.
-
-- ✓ [The Wall](https://rivyl-6aaaa-aaaaf-qaapq-cai.raw.ic0.app/) - The Wall is a crossover Ethereum/Internet Computer demo app. Create an IC Identity simply by signing a Metamask message. Then, write the wall! 
-
-- ✓ [DSCVR](http://dscvr.one/) - A decentralized social content platform running on the Internet Computer.
-
-- ✓ [OpenChat](https://oc.app/) - A truly decentralized alternative to WhatsApp.
-
-- ✓ [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/) - A canister search engine for the Internet Computer.
-
-- [Blocks](https://blocks-editor.github.io/blocks/) - A visual drag-and-drop editor for building IC smart contracts.
-
-- [Motoko Top Up Canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) - A Motoko service for topping up canisters.
-
-- [IC Deploy Action from Fleek](https://github.com/FleekHQ/IC-Deploy-Action) - The GitHub Action will trigger a new deployment to the Internet Computer when commits are pushed.
-
-
-## Hackathons
-
-### Supernova 
-
-Supernova was a global hackathon over mutiple weeks with 6 tracks, more than 3600 participants, and more than 250 project submissions.
-You can see all eglible projects in the [gallery on DevPost](https://supernova.devpost.com/project-gallery) and the highlights from the tracks below:
-
-#### SocialFi
-
-- ✓ [Kontribute](https://3ezq7-iqaaa-aaaal-aaacq-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/kontribute), [Code](https://github.com/teambonsai/bonsai_dapp)) - Kontribute allows readers, writers, and web 3 enthusiasts, to write and read stories, or sell and trade NFTs from their stories all within our dapp.
-
-- Conshax ([DevPost](https://devpost.com/software/conshax)) - Web3 platform for a new era of podcasting.
-
-- ✓ [Signals](https://2fydv-iqaaa-aaaak-qap6q-cai.ic0.app/) ([DevPost](https://devpost.com/software/signals), [Code](https://github.com/bertiespell/Signals)) - A unique SocialFi space for making local connections, creating decentralized communities and discovering events.
-
-- ✓ [STKRS](https://priqv-iqaaa-aaaak-ab4rq-cai.ic0.app//#/) ([DevPost](https://devpost.com/software/stkrs), [Code](https://github.com/arjunpat/stkrs.me)) - Stkrs is the social identity app for Web 3.0. Users can express themselves, trust others online, and revolutionize our governance, all while being anon and maintaining privacy.
+- [Internet Computer Developer Hub](https://internetcomputer.org/docs/current/home) - The main entry point to documentation, guides and references.
+- [Internet Computer Sample Dapps](https://internetcomputer.org/samples) - DFINITY-maintained and community-contributed samples and tutorials.
   
-- crowdEats ([DevPost](https://devpost.com/software/crowdeats)) - crowdEats is a web3 reimagining of how we find, curate, moderate, evaluate, and more generally interact with local businesses on the internet.
+#### Simple / Getting started
 
-#### GameFi
-
-- ✓ :trophy: [Cubetopia](https://mqkdm-zqaaa-aaaah-ablsa-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/cubetopia)) - Minecraft meets World of Warcraft, on the blockchain. Build, chat and adventure with friends, right in your browser.
+- [Considerations for NFT Developers](https://internetcomputer.org/docs/current/developer-docs/best-practices/considerations-for-nft-devs) - Discussion of best practices for NFT developers.
+- [Deploy Your First dApp on the IC in 10 Minutes!](https://www.youtube.com/watch?v=r5s7nD_XO0M) - Getting started video tutorial.
+- [Frontends on the Internet Computer](https://www.youtube.com/watch?v=rjSDvTaEj3s) - Video tutorial on hosting frontends using the asset canister.
+- [Intro to Building on the Internet Computer](https://www.youtube.com/watch?v=fSO___x3e3I) - Video introduction to building on the IC with Motoko and Rust.
+- [Languages on the IC](https://medium.com/code-state/which-language-should-you-choose-to-build-on-the-internet-computer-%EF%B8%8F-851c31e9c28) - Guide on how to select the programming language for the IC.
+- [Make Oracles Obsolete in under 5 Minutes](https://www.youtube.com/watch?v=3e12N9mcWhw) - Short video tutorial on HTTPS Outcalls in Motoko.
+- [Rust + React (Typescript) + Internet Identity](https://medium.com/@ilbert/rust-react-typescript-internet-identity-on-the-internet-computer-35331ae2a4be) - Tutorial on setting up a project with Rust, React and Internet Identity.
   
-- ✓ [Eimolad](https://eimolad.com/) ([DevPost](https://devpost.com/software/eimolad)) - 100% on-chain MMORPG with NFT game wallet and staking.
-  
-- ✓ [FaeFolk](https://ge5fs-qyaaa-aaaap-qam6a-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/faefolk), [Code](https://github.com/ICCards/faefolk)) - FaeFolk is an NFT-based role-playing game where you use your NFTs to craft tools & equipment, train your skills and ultimately fight your way through dungeons and find treasure.
+#### Advanced
 
-- ✓ [Paws Arena](https://knbkj-fiaaa-aaaan-qaadq-cai.ic0.app/) ([DevPost](https://devpost.com/software/paws-arena-multiplayer-pvp-play-to-earn), [Code](https://github.com/icla692/paws_arena_ickitties)) - This is the cutest, most fun and competitive turn-based play to earn multiplayer game on the ICP. Players will fight in the arena and earn $PAW Tokens which will be used to buy in-game items.
+- [Access control](https://github.com/domwoe/access_control) - Demonstrator for access control patterns on the IC.
+- [Backup and Restore](https://github.com/Factland/ic-factland/blob/main/backup/backup_restore.md) - Tutorial with code on backup and restore of canister state.
+- [Canister guard in Rust](https://medium.com/@daviddalbusco/canister-guard-in-rust-on-the-internet-computer-c896f75e0cef) - Tutorial on the guard pattern for access control.
+- [Code native Bitcoin](https://www.youtube.com/watch?v=LGegOFqP5x0) [(2nd part)](https://www.youtube.com/watch?v=H6Wu9n9Qwa8) - Video tutorials on how to use the native Bitcoin integration.
+- [Environments](https://medium.com/@Catalyze.One/working-with-environments-on-the-internet-computer-59ed3d2a5763) - How to work with different environments (dev/staging/prod).
+- [Hosting ERC 721 metadata](https://github.com/domwoe/erc-721-ic-assets) - Tutorial on hosting metadata and assets for ERC-721 NFTs on the IC.
+- [Migration from Motoko to Rust](https://medium.com/dfinity/how-to-migrate-canister-smart-contracts-from-motoko-to-rust-3446a4b0c2ff) - How to Migrate Canister Smart Contracts from Motoko to Rust.
+- [Converting ICP into Cycles](https://medium.com/dfinity/converting-icp-into-cycles-javascript-9b0dba8d8e00) - How to programmatically convert ICP into Cycles in NodeJS.
+- [Social Platform Previews and SEO](https://medium.com/dfinity/how-to-configure-dapps-for-social-platform-previews-and-seo-62a55ee63d33) - Tutorial on how to configure dapps for social platform previews and SEO.
 
-- ✓ [GalacticWar](https://rlx5r-ziaaa-aaaal-qa7qq-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/galacticwar), [Code](https://github.com/harshu4/GalacticWar)) - GalacticWar is a novel protocol that mixes NFT, Gaming and DeFi.
-  
-#### Metaverse and NFTs
+## Client Libraries (Agents)
 
-- ✓ [dSquad](https://x3ul6-2aaaa-aaaah-abjda-cai.ic0.app/) ([DevPost](https://devpost.com/software/icp-squad-nft), [Code](https://github.com/ICPSquad/Squad)) - A new chapter of the Internet is opening. Start by minting your avatar, then take part in the adventure and get rewarded as your explore a new wave of decentralized applications.
+Agents facilitate the interaction from clients with canisters on the Internet Computer. If you want to contribute an agent implementation checkout out this [Grant RFP](https://github.com/dfinity/grant-rfps/issues/4).
 
-- ✓ [deBunker](https://hltkz-zyaaa-aaaai-qnf4a-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/metawarehouse)) - A decentralized VR-ready metaverse, connecting people in immersive, interactive spaces.
+### JavaScript/TypeScript
 
-- ✓ [Saga Tarot](https://bazaar.saga.cards/) ([DevPost](https://devpost.com/software/saga-tarot), [Code](https://github.com/sagacards)) - Open source tarot ecosystem on the IC. Nobody owns Tarot. Everybody owns Web3.
+- [agent-js](https://github.com/dfinity/agent-js) - Collection of libraries to interact with the IC using JavaScript.
+- [ic-js](https://github.com/dfinity/ic-js) - Collection of libraries for interfacing with core canisters on the Network Nervous System (NNS).
+- [icblast](https://github.com/infu/icblast) - Communicate with IC directly using NodeJS. Automatic service discovery.
+- [node-ic0](https://github.com/dfinity/node-ic0) - The ic0 package is a simple, straightforward way to interact with canisters running on the IC.
 
-- IC Avatar Creator ([DevPost](https://devpost.com/software/open-character-creator-minter), [Code](https://github.com/AtlasFoundation/AvatarCreator-IC-Project)) - The IC Avatar Creator allows users to create and manage avatars for the open metaverse.
+### Rust
 
-- ✓ [Apocalypse NFO Prototype](https://6nx2y-qiaaa-aaaal-qa6wq-cai.ic0.app/) ([DevPost](https://devpost.com/software/apocalypse-nfo-prototype-beyond-nfts)) - Going beyond the concept of NFTs, we propose the concept of Non-Fungible Objects (NFOs), which have all intrinsic value of purchases for the user giving true secure ownership of their items.
-  
-#### Asynchronous DeFi
+- [agent-rs](https://github.com/dfinity/agent-rs) - Collection of libraries and tools for interfacing with the IC using Rust.
+- [dfx](https://github.com/dfinity/sdk) - Commandline tool to interact with the IC written in Rust.
 
-- ✓ :trophy: [Spinner Cash](https://spinner.cash/) ([DevPost](https://devpost.com/software/spinner-cash), [Code](https://github.com/spinner-cash/spinner)) - Safe guard your financial privacy with zero-knowledge proofs.
+### Python
 
-- ✓ [ICTC](https://cmqwp-uiaaa-aaaaj-aihzq-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/ictc), [Code](https://github.com/iclighthouse/ICTC)) - A distributed transaction framework for Defi applications on IC network.
+- [ic-py](https://github.com/rocklabs-io/ic-py) - Library for interfacing with the IC using Python.
 
-- ✓ [Interesting NFT Protocol](https://4orvc-saaaa-aaaak-qapjq-cai.raw.ic0.app/) ([DevPost](https://devpost.com/software/toniq-earn-and-the-nft-interest-rate-protocol)) - Interesting NFT Protocol is a decentralized interest rate protocol. Lock-up NFTs for short term liquidity, earn interest on your ICP, or acquire valuable NFTs at a discount.
+### Dart/Flutter
 
-- ✓ [Enoki DEX](https://enoki.ooo/) ([DevPost](https://devpost.com/software/enoki-exchange), [Code](https://github.com/enoki-dex)) - Completely Async and Scalable DEX: Swap, Earn, and be a Market Maker.
+- [agent_dart](https://github.com/AstroxNetwork/agent_dart) - Framework to build mobile applications.
+- [ic_dart_tools](https://github.com/levifeldman/ic_tools_dart) - Tools supporting Flutter on the web.
 
-- ✓ [Portal](https://portal.one/) ([DevPost](https://devpost.com/software/creator-marketplace)) - On-Chain Video Streaming Infrastructure. 
-  
+### Go
 
-#### Public Good / Social Impact
+- [agent-go](https://github.com/aviate-labs/agent-go) - Libraries for interfacing with the IC using Go.
+- [ic-go](https://github.com/mix-labs/IC-Go) - Libraries for interfacing with the IC using Go.
 
-- ✓ [CrowdFund NFT](https://kn5ky-6iaaa-aaaai-qbikq-cai.ic0.app/) ([DevPost](https://devpost.com/software/crowdfund-nft)) - Using smart contract technology to build a safer, cheaper and global crowdfunding service - with a new NFT model.
+### C#
 
-- ✓ [Proof of Personhood](http://thehuman.id/) ([DevPost](https://devpost.com/software/web3-mkdgh6), [Code](https://github.com/AstroxNetwork/Proof-of-Personhood)) - A Sybil-proof identity system powered by decentralized AI human detection.
+- [agent-unity](https://github.com/ShikuLabs/agent-unity) - Wrapper of agent-rs to be used in unity projects.
+- [ICP.NET](https://github.com/edjCase/ICP.NET) - Native Implementation in C# (Unity compatible).
 
-- ✓ [ICMaps](https://icmaps.org/) ([DevPost](https://devpost.com/software/ic-map-collector), [Code](https://github.com/stumpigit/icmaps)) - ICMaps brings maps to the internet computer.
+### Java
 
-- ✓ [Internet Computer Footprint](https://e4ex6-aqaaa-aaaal-aarca-cai.ic0.app/) ([DevPost](https://devpost.com/software/internet-computer-footprint)) - Internet Computer Footprint tracks the cycle burn rate of IC projects, and uses VERRA carbon credits to offset project emissions.
+- [ic4j-agent](https://github.com/ic4j/ic4j-agent) - Libraries for interfacing with the IC using Java (Android compatible).
 
-- ✓ [metamob](https://wbpm2-ciaaa-aaaan-qajta-cai.ic0.app/) ([DevPost](https://devpost.com/software/d-changes)) - Create, donate, vote, sign and fund extraordinary mobilizations.
+## Canister Development Kits (CDKs)
 
-#### BlueSky
+- [CDK Framework](https://github.com/demergent-labs/cdk_framework) - Framework to build CDKs which has been used for Azle and Kybra.
 
-- ✓ [Kinic](https://kinic.io/) ([DevPost](https://devpost.com/software/kinic), [Code](https://github.com/wyattbenno777/kinic)) - A search engine for web3.
+### Motoko
 
-- ✓ [CanDB](https://pliqr-fqaaa-aaaan-qalpq-cai.ic0.app/) ([DevPost](https://devpost.com/software/candb), [Code](https://github.com/canscale/supernova-candb-demo)) - Meet CanDB, the first flexible and truly horizontally scalable NoSQL database built for the Internet Computer.
+- [Motoko](#Motoko) - Simple high-level language for writing canisters.
 
-- ✓ [FoxIC](https://ip5qp-gaaaa-aaaah-ablla-cai.ic0.app/) ([DevPost](https://devpost.com/software/foxic), [Code](https://github.com/AstroxNetwork/FoxIC)) - A tool allowing MetaMask users to enter IC ecosystem.
+### Rust
 
-- ✓ [DeTi](https://fl5mh-daaaa-aaaap-qalja-cai.ic0.app/) ([DevPost](https://devpost.com/software/decentralized-time), [Code](https://github.com/akshay-rakheja/supernova2022)) - Run code on your canister in the future.
+- [canister-sdk](https://github.com/infinity-swap/canister-sdk) - SDK for writing and testing canisters for the Internet Computer in Rust.
+- [ic-cdk](https://crates.io/crates/ic-cdk) - Rust CDK maintained by DFINITY
 
-- ✓ [Internet Computer Services](https://internetcomputerservices.com/) ([DevPost](https://devpost.com/software/internet-computer-services)) - Build, ship and manage dApps faster on the IC.
+### JavaScript/TypeScript
 
-### Tungsten
+- [Azle](https://github.com/demergent-labs/azle) - TypeScript CDK.
 
-The DFINITY Tungsten Hackathon channeled the energy and excitement of DFINITY's internal engineers over two days in June 2020 to build applications for the Internet Computer.
+### Python
 
-The following represent a few of the applications that teams developed over the two-day period:
+- [Kybra](https://github.com/demergent-labs/kybra) - Python CDK.
 
-- [Magnify](https://github.com/Dfinity-Bjoern/Magnify) - A secure video conferencing application using WebRTC.
+### C/C++
 
-- [Dual](https://github.com/egeyar/wochonecha/) - A social app for creating, completing, and tracking various challenges.
+- [Chico](https://github.com/ICPorts-labs/chico) - C/C++ CDK.
+- [icpp](https://github.com/icppWorld/icpp) - Modern C++ for the IC.
 
-- [DFINITY Explorer](https://github.com/dfinityexplorer/dfinityexplorer-dashboard) - DFINITY Explorer is an open-source network dashboard built by the DFINITY community.
+### AssemblyScript
 
-- [Babmeo](https://github.com/BerkeleyBlockchain/dfinity-research) - Babmeo is an image & video sharing site with transparent recommendations that integrates with DFINITY's LinkedUp, BigMap, and BigSearch projects to recommend, store, and search videos.
+- [cdk-as](https://github.com/rckprtr/cdk-as) - AssemblyScript CDK.
 
-- [Bookworm](https://github.com/rstout/bookworm) - An open publishing application inspired by China Literature.
 
-- [Shield](https://github.com/crusso/shield) - An app connecting at-risk people with nearby volunteers.
+## Dapp Development Platforms and Frameworks
 
-### ✳️ Demo Day 2020 projects
+- [Ego](https://github.com/EgoDevs/ego) - Framework to build wallet apps, i.e. user-controlled canisters.
+- [Juno](https://juno.build/) - Build Web3 apps like it's Web2.
 
-- [Bonus](https://github.com/seniorjoinu/Bonus) - Next-generation loyalty system built on the Internet Computer.
+## Developer Tooling
 
-- [Get Impact Now](https://github.com/getimpactnow/getimpactnow/) - Digital platform that enables responsible citizens to be a part of the decision-making process.
+- [Developer Tooling Landing page](https://internetcomputer.org/tooling) - Overview of tooling in the Internet Computer ecosystem.
+- [IC Inspector](https://chrome.google.com/webstore/detail/ic-inspector/meaadkenfkhjakkkdapaallimhbdofck) - Chrome extension to decode IC requests and responses.
+- [ic-nix](https://github.com/ninegua/ic-nix) - Build IC projects with Nix.
 
-- [Internet Computer Queue System (ICQS)](https://github.com/davidp94/icqs-demo) - A bridge to legacy systems, such as email.
+### Testing
 
-- [NNS Explorer](https://github.com/hashquark-io/nnsExplorer) - Mock explorer for the Internet Computer's Network Nervous System (NNS).
+- [canister-profiling](https://github.com/dfinity/canister-profiling) - Code & scripts for collecting performance data for canisters.
+- [ic-repl](https://github.com/chenyan2002/ic-repl) - A REPL environment to communicate with canisters. Allows to write E2E integration tests.
 
-- [Sailfish](https://github.com/sailfish-app) - The gateway to open financial services on the Internet Computer.
+### CI/CD
 
----
+- [ICPipeline](https://www.icpipeline.com/) - CI/CD framework to simply IC release management.
+- [Launchtrail](https://github.com/spinner-cash/launchtrail) - Simple and Secure Release Management for Internet Computer Projects.
 
+### Monitoring
 
-## Motoko Resources
+- [Canistergeek](https://cusyh-iyaaa-aaaah-qcpba-cai.raw.ic0.app/) - Open-source tool to track your project canisters cycles and memory status.
+- [Canister monitoring](https://github.com/domwoe/canister-monitoring) - Example of using Prometheus to collect metrics from a canister.
+- [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Canister to publicly expose canister status information.
+- [Metrics encoder](https://lib.rs/crates/ic-metrics-encoder) - Library to encode metrics in Prometheus text exposition format.
 
-- [Awesome Motoko](https://github.com/motoko-unofficial/awesome-motoko) - An awesome list of Motoko code and resources curated by the community.
+## Motoko
 
-### 📦 Motoko Package Managers
-- [Vessel](https://github.com/dfinity/vessel) - Add and manage packages, libraries, and dependencies for your Motoko programs.
-- [MOPS](https://github.com/ZenVoich/mops) - A community-built package manager with fully on-chain package registry.
+Motoko is a safe, simple, actor-based programming language for authoring Internet Computer (IC) canister smart contracts.
 
-### 📁 Motoko libraries
+- [Awesome Motoko](https://github.com/motoko-unofficial/awesome-motoko) - Awesome list focused on Motoko.
+- [Blocks](https://github.com/Blocks-Editor/blocks) - Online low-code editor for Motoko.
+- [Embed Motoko](https://embed.smartcontracts.org/) - Embed an interactive Motoko code snippet on your website.
+- [Motoko Formatter](https://github.com/dfinity/prettier-plugin-motoko) - A configurable Prettier plugin for Motoko.
+- [Motoko GitHub Repository](https://github.com/dfinity/motoko) - The home of the Motoko language.
+- [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/) - An online playground environment for Motoko.
+- [Motoko VS code](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) - Motoko language support for Visual Studio Code.
+- [Motoko.js](https://www.npmjs.com/package/motoko) - Compile and run Motoko in Node.js and the browser.
 
-#### 🏗️ Data structures
+### Package Managers
 
-- [motoko-crud](https://github.com/matthewhammer/motoko-crud) - A generic CRUD framework for Motoko.
+- [MOPS](https://mops.one/) - Package manager for Motoko with fully on-chain package registry.
+- [Vessel](https://github.com/dfinity/vessel) - Package manager for the Motoko programming language.
 
-- [motoko-dht](https://github.com/enzoh/motoko-dht) - A Motoko Distributed Hash Table (DHT) canister.
+## Candid
 
-- [motoko-graph](https://github.com/matthewhammer/motoko-graph) - Graphical data models for Motoko.
+Candid is an interface description language (IDL) for interacting with canisters (also known as services or actors) running on the Internet Computer. It provides a language-independent description of canister interfaces and the data they exchange, with type safety and extensibility.
 
-- [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) - Cache-friendly, persistent sequential data for Motoko.
+- [Candid GitHub Repo](https://github.com/dfinity/candid) - The home of Candid.
+- [Candid UI](https://github.com/dfinity/candid/blob/master/tools/ui) - Canister generates a front-end UI for any canister.
+- [didc](https://github.com/dfinity/candid/tree/master/tools/didc) - A multi-purpose tool for Candid.
+- [idl2json](https://github.com/dfinity/idl2json) - Command line tool for converting Candid to JSON.
+- [Intellij Candid Plugin](https://github.com/Alaanor/candid-intellij-plugin) - A Candid language plugin for editing .did files.
 
-#### 🧩 Algorithms
+### Candid implementations
 
-- [mo-parsec](https://github.com/crusso/mo-parsec) - A [Parsec](https://hackage.haskell.org/package/parsec)-based parser combinator library for Motoko.
+#### AssemblyScript
 
-- [motoko-adapton](https://github.com/matthewhammer/motoko-adapton) - Dynamic dependence graph and memoization techniques in Motoko.
+- [cdk-as candid](https://github.com/rckprtr/cdk-as/tree/master/packages/cdk/assembly/candid) - AssemblyScript library of Candid.
 
-- [motoko-redraw](https://github.com/matthewhammer/motoko-redraw) - 2D graphics and layout algorithms for Motoko.
+#### C#
 
-#### 🧪 Testing
+- [ICP.NET candid](https://github.com/edjCase/ICP.NET/tree/main/src/Candid) - C# library of Candid.
 
-- [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) - Long-running tests as/for IC services, via a Motoko-based DSL.
+#### Dart
 
-- [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) - Composable assertions for unit testing.
+- [candid_dart](https://github.com/AstroxNetwork/candid_dart) - Dart library of Candid.
+- [ic_tools_dart](https://github.com/levifeldman/ic_tools_dart) - Dart library of Candid.
 
----
+#### Elm
 
-## Frontend Development
+- [ic-elm](https://github.com/chenyan2002/ic-elm/) - A template for using Elm to develop frontend user interface for the Internet Computer.
 
-- [create-ic-apps](https://github.com/MioQuispe/ic-starter-templates) - Modern, unopinionated templates for React, Vue & Svelte powered by [Vite](https://vitejs.dev/).
+#### Haskell
 
-## DFINITY Team Projects
+- [haskell-candid](https://github.com/nomeata/haskell-candid) - Haskell library for Candid to Haskell.
 
-### 🌱 Example Apps from the DFINITY team
+#### Java
 
-- [IC Game Terminal](https://github.com/matthewhammer/ic-game-terminal) - Keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
+- [ic4j-candid](https://github.com/ic4j/ic4j-candid) - Java library for Candid.
 
-- [Journey](https://github.com/hansl/journey) - An open blog engine written for the Internet Computer.
+#### JavaScript/TypeScript
 
-- [Reversi](https://github.com/ninegua/reversi) - A multiplayer Reversi game on Internet Computer.
+- [@dfinity/candid](https://github.com/dfinity/agent-js/tree/main/packages/candid) - JavaScript and TypeScript library for Candid.
 
-- [Superheroes](https://github.com/enzoh/superheroes) - A simple CRUD application that demonstrates using Motoko and React to create your own universe of superheroes that runs on the Internet Computer.
+#### Kotlin
 
-- [Fullstack To-do](https://github.com/krpeacock/simple-to-do) - Extension of the to-do example app with a frontend, using a minimal webpack dev-server configuration, web components, and unit and integration testing.
+- [candid-kt](https://github.com/seniorjoinu/candid-kt) - Kotlin library for Candid.
 
-## Contributing
+#### Motoko
 
-If you want to contribute projects or tools, please first read our [Contributing](.github/CONTRIBUTING.md) guidelines and agree to abide by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
+- [motoko_candid](https://github.com/edjcase/motoko_candid) - Library that enables encoding/decoding of bytes to candid values.
+
+## Storage and Databases
+
+- [CanDB](https://www.canscale.dev/) - Flexible, performant, and horizontally scalable non-relational multi-canister database built in Motoko.
+- [ic-sqlite](https://github.com/froghub-io/ic-sqlite) - SQLite on the IC.
+- [ic-stable-memory](https://github.com/seniorjoinu/ic-stable-memory) - Stable memory collections for Rust.
+- [stable-structures](https://github.com/dfinity/stable-structures) - A collection of scalable and upgrade-safe data structures for Rust maintained by DFINITY.
+- [Sudograph](https://github.com/sudograph/sudograph) - A GraphQL database for the IC.
+
+## Fungible and Non-fungible Tokens (NFTs)
+
+### Interface Standards
+
+#### ICRC
+
+- [ICRC-1](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-1/README.md) - Base fungible token standard.
+- [ICRC-2](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-2/README.md) - Extension to support `approve` and `transfer_from`.
+
+#### Other Interface Standards
+
+- [DIP20](https://github.com/Psychedelic/DIP20) - Fungible token standard inspired by the ERC20 standard.
+- [DIP721](https://github.com/Psychedelic/DIP721) - NFT standard inspired the ERC721 standard.
+- [EXT](https://github.com/Toniq-Labs/extendable-token) - The extendable token standard inspired by ERC1155.
+- [Origyn NFT](https://github.com/origyn-sa/origyn_nft) - Origyn NFT standard.
+
+
+## Messaging
+
+- [Messity](https://www.messity.com/) - An open and nonproprietary decentralized messaging protocol.
+- [OpenChat](https://github.com/open-ic/open-chat) - An open chat app.
+- [W3NS](https://github.com/ArgonStudiosXYZ/w3ns) - An Interner Computer service for notifications.
+
+
+## Decentralized Finance
+
+### Exchanges
+
+- [DeSwap Orderbook](https://github.com/iclighthouse/DeSwap-Orderbook) - An Order Matching Engine Module for Dex in Motoko.
+- [Spinner](https://github.com/spinner-cash/spinner) - Private transactions using zkSNARKs.
+
+### Frameworks and Tools
+
+- [ICTC](https://github.com/iclighthouse/ICTC) - Distributed transaction framework for DeFi applications.
+
+### Oracles 
+
+- [Exchange Rate Canister](https://github.com/dfinity/exchange-rate-canister) - Oracle service for cryptocurrency and fiat currency exchange rates.
+
+## DAO Frameworks
+
+- [Axon](https://github.com/icdevs/axon) - A multi-user, multi-neuron management canister.
+- [Service Nervous System](https://internetcomputer.org/sns) - Framework inspired by the Network Nervous System.
+
+## Game Development
+
+For Unity-compatible client libraries, see [C# agents](#C#).
+
+- [WebGL Sample](https://internetcomputer.org/docs/current/samples/host-a-webgame) - Example of how to host a WebGL game on the IC.
+
+## Wallets and Authentication
+
+- [AstroX Me](https://astrox.me/#/) - Canister-based mobile/web multi-chain wallet.
+- [Bitfinity](https://wallet.infinityswap.one/) - Chrome extension.
+- [Internet Identity](https://github.com/dfinity/internet-identity) - Pseudoymous authentication system for the Internet Computer.
+- [NFID](https://nfid.one/) - Digital identity for signing in to applications privately and securely.
+- [NNS Dapp](https://nns.ic0.app/) - Stake ICP in neurons, participate in governance and decentralization sales.
+- [Plug](https://plugwallet.ooo/) - Chrome extension and mobile wallet.
+- [Stoic](https://www.stoicwallet.com/) - Web wallet.
+
+### Libraries
+
+- [connect2ic](https://connect2ic.github.io/docs/) - A frontend auth library & toolkit for the Internet Computer.
+
+## Dashboards, Explorers and Registries
+
+- [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/) - Canister registry.
+- [Cyql](https://n7ib3-4qaaa-aaaai-qagnq-cai.raw.ic0.app/) - Curated project registry.
+- [ICLighthouse Explorer](https://637g5-siaaa-aaaaj-aasja-cai.raw.ic0.app/) - Explorer.
+- [ICSCAN](https://icscan.io/) - Explorer.
+- [Internet Computer Dashboard](https://dashboard.internetcomputer.org/) - Live stats and explorer.
+- [Internet Computer Ecosystem Showcase](https://internetcomputer.org/ecosystem) - Curated project registry.
+- [Kinic](https://74iy7-xqaaa-aaaaf-qagra-cai.ic0.app/) - Front-end search engine.
+
+## Crosschain Interoperability
+
+- [Bitcoin Integration](https://internetcomputer.org/bitcoin-integration) - Landing page of the direct integration with the Bitcoin network.
+- [Chain-key ECDSA](https://internetcomputer.org/how-it-works/threshold-ecdsa-signing/) - Tech that allows creating transactions targeting various chains from canisters on the Internet Computer.
+- [EVM Utility Canister](https://github.com/icopen/evm_utils_ic) - Utility canister to create and parse EVM-compliant transactions.
+- [ic-web3](https://github.com/rocklabs-io/ic-web3) - RPC client for canisters on the Internet Computer to access EVM networks.
+- [No key wallet](https://github.com/nikolas-con/ic-evm-sign-starter) - Example project of a canister-based Ethereum wallet.
+- [Omnic](https://github.com/rocklabs-io/omnic) - Cross-chain messaging protocol to connect EVM-compatible chains via the Internet Computer.
+- [Orally](https://github.com/orally-network/oracle) - Cross-chain oracle factory built on HTTPS Outcalls and Chain-key ECDSA.
+- [Terabethia](https://terabethia.ooo/) - Bridge and communication protocol between Ethereum and the Interner Computer.
+
+## Starters
+
+- [create-ic](https://github.com/peterpeterparker/create-ic) - A simple command line tool to quickly create projects for the IC.
+- [create-ic-app](https://github.com/MioQuispe/create-ic-app) - Modern, unopinionated templates for React, Vue & Svelte powered by [Vite](https://vitejs.dev/).
+- [ic-rust-starter](https://github.com/ocluf/ic-rust-starter) - Starter for a Rust backend-only canister project.
+- [vite-react-motoko](https://github.com/rvanasa/vite-react-motoko) - Full-Stack React/Motoko starter with live reload.
+
+## Blogs
+
+- [B.Lynnity](https://fxa77-fiaaa-aaaae-aaana-cai.raw.ic0.app/) - Ben Lynn's Blog about development on the IC using C.
+- [David dal Busco's blog](https://daviddalbusco.com/blog/) - Blog with many hands-on articles on IC development.
+- [ICP Analysis](https://kylelangham.substack.com/) - Kyle Langham's writings about data analysis on the IC ecosystem.
+- [Joachim Breitner's blog](https://www.joachim-breitner.de/blog/tag/Internet_Computer) - Articles on IC development and Candid.
+- [Kyle Peacocks's blog](https://kyle-peacock.com/blog/) - Notes on IC development and more.
+- [mmapped](https://mmapped.blog/) - Roman Kashitsyn's blog about IC internals and development.
+
+## How it works / Deep dives
+
+- [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
+- [Internet Computer Wiki](https://wiki.internetcomputer.org/wiki/Internet_Computer_wiki) - General knowledge resource about the Internet Computer.
+- [How it works](https://internetcomputer.org/how-it-works) - Learn how the IC realizes the vision of the World Computer.
+
+## Communities and Communication
+
+- [DFINITY Developer Forum](https://forum.dfinity.org/) - Main forum about the Internet Computer.
+- [IC Developer Community Discord](https://discord.gg/jnjVVQaE2C) - Developer-oriented community Discord.
+- [ICP Discord](https://discord.gg/FygMb5VyCQ) - Multi-language server for the broader community.
+- [ICP League](https://qbw7d-giaaa-aaaaj-aalta-cai.ic0.app/) - Fostering world-class community for Internet Computer Ecosystem.
+- [Internet Computer Academy](https://internetcomputer.academy/) - Open-source and community-driven knowledge base about the IC.
+
+## Bounties and Grants
+
+- [DFINITY Developer Grants and Bounties](http://dfinity.org/grants) / [Requests and Discussions](https://github.com/dfinity/grant-rfps/discussions) - Developer Grant and Bounty program provided by the DFINITY foundation.
+- [ICDevs Bounties](https://icdevs.org/bounties.html) - Code bounties by the ICDevs organization.
+- [Video: Overview of the Developer Grants Program](https://www.youtube.com/watch?v=hoYo-c9SMfQ) - A video that explains the objective and the process of the DFINITY Develoepr Grants program.
