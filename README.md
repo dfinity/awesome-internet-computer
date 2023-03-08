@@ -1,3 +1,4 @@
+<!-- omit in toc -->
 # Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <a align="center" href="https://internetcomputer.org/">
@@ -9,69 +10,30 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 ---
 
+<!-- omit in toc -->
 ## Contents
 
-- [Awesome Internet Computer ](#awesome-internet-computer-)
-  - [Contents](#contents)
-  - [Courses, Tutorials and Samples](#courses-tutorials-and-samples)
-    - [Courses](#courses)
-    - [Tutorials and Samples](#tutorials-and-samples)
-      - [Simple / Getting started](#simple--getting-started)
-      - [Advanced](#advanced)
-  - [Client Libraries (Agents)](#client-libraries-agents)
-    - [JavaScript/TypeScript](#javascripttypescript)
-    - [Rust](#rust)
-    - [Python](#python)
-    - [Dart/Flutter](#dartflutter)
-    - [Go](#go)
-    - [C#](#c)
-    - [Java](#java)
-  - [Canister Development Kits (CDKs)](#canister-development-kits-cdks)
-    - [Motoko](#motoko)
-    - [Rust](#rust-1)
-    - [JavaScript/TypeScript](#javascripttypescript-1)
-    - [Python](#python-1)
-    - [C/C++](#cc)
-    - [AssemblyScript](#assemblyscript)
-  - [Dapp Development Platforms and Frameworks](#dapp-development-platforms-and-frameworks)
-  - [Developer Tooling](#developer-tooling)
-    - [Testing](#testing)
-    - [CI/CD](#cicd)
-    - [Monitoring](#monitoring)
-  - [Motoko](#motoko-1)
-    - [Package Managers](#package-managers)
-  - [Candid](#candid)
-    - [Candid implementations](#candid-implementations)
-      - [AssemblyScript](#assemblyscript-1)
-      - [C#](#c-1)
-      - [Dart](#dart)
-      - [Elm](#elm)
-      - [Haskell](#haskell)
-      - [Java](#java-1)
-      - [JavaScript/TypeScript](#javascripttypescript-2)
-      - [Kotlin](#kotlin)
-      - [Motoko](#motoko-2)
-  - [Storage and Databases](#storage-and-databases)
-  - [Fungible and Non-fungible Tokens (NFTs)](#fungible-and-non-fungible-tokens-nfts)
-    - [Interface Standards](#interface-standards)
-      - [ICRC](#icrc)
-      - [Other Interface Standards](#other-interface-standards)
-  - [Messaging](#messaging)
-  - [Decentralized Finance](#decentralized-finance)
-    - [Exchanges](#exchanges)
-    - [Frameworks and Tools](#frameworks-and-tools)
-    - [Oracles](#oracles)
-  - [DAO Frameworks](#dao-frameworks)
-  - [Game Development](#game-development)
-  - [Wallets and Authentication](#wallets-and-authentication)
-    - [Libraries](#libraries)
-  - [Dashboards, Explorers and Registries](#dashboards-explorers-and-registries)
-  - [Crosschain Interoperability](#crosschain-interoperability)
-  - [Starters](#starters)
-  - [Blogs](#blogs)
-  - [How it works / Deep dives](#how-it-works--deep-dives)
-  - [Communities and Communication](#communities-and-communication)
-  - [Bounties and Grants](#bounties-and-grants)
+- [Courses, Tutorials and Samples](#courses-tutorials-and-samples)
+- [Client Libraries (Agents)](#client-libraries-agents)
+- [Canister Development Kits (CDKs)](#canister-development-kits-cdks)
+- [Dapp Development Platforms and Frameworks](#dapp-development-platforms-and-frameworks)
+- [Developer Tooling](#developer-tooling)
+- [Motoko](#motoko-1)
+- [Candid](#candid)
+- [Storage and Databases](#storage-and-databases)
+- [Fungible and Non-fungible Tokens (NFTs)](#fungible-and-non-fungible-tokens-nfts)
+- [Messaging](#messaging)
+- [Decentralized Finance](#decentralized-finance)
+- [DAO Frameworks](#dao-frameworks)
+- [Game Development](#game-development)
+- [Wallets and Authentication](#wallets-and-authentication)
+- [Dashboards, Explorers and Registries](#dashboards-explorers-and-registries)
+- [Crosschain Interoperability](#crosschain-interoperability)
+- [Starters](#starters)
+- [Blogs](#blogs)
+- [How it works / Deep dives](#how-it-works--deep-dives)
+- [Communities and Communication](#communities-and-communication)
+- [Bounties and Grants](#bounties-and-grants)
 
 ## Courses, Tutorials and Samples
 
@@ -84,6 +46,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 ### Tutorials and Samples
 
+- [DFINITY Examples Repo](https://github.com/dfinity/examples) - Code samples from DFINITY.
 - [Internet Computer Developer Hub](https://internetcomputer.org/docs/current/home) - The main entry point to documentation, guides and references.
 - [Internet Computer Sample Dapps](https://internetcomputer.org/samples) - DFINITY-maintained and community-contributed samples and tutorials.
   
