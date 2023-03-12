@@ -14,6 +14,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 ## Contents
 
 - [Courses, Tutorials and Samples](#courses-tutorials-and-samples)
+- [Starters](#starters)
 - [Client Libraries (Agents)](#client-libraries-agents)
 - [Canister Development Kits (CDKs)](#canister-development-kits-cdks)
 - [Dapp Development Platforms and Frameworks](#dapp-development-platforms-and-frameworks)
@@ -29,9 +30,8 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Wallets and Authentication](#wallets-and-authentication)
 - [Dashboards, Explorers and Registries](#dashboards-explorers-and-registries)
 - [Crosschain Interoperability](#crosschain-interoperability)
-- [Starters](#starters)
-- [Blogs](#blogs)
 - [How it works / Deep dives](#how-it-works--deep-dives)
+- [Blogs](#blogs)
 - [Communities and Communication](#communities-and-communication)
 - [Bounties and Grants](#bounties-and-grants)
 
@@ -71,6 +71,13 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Migration from Motoko to Rust](https://medium.com/dfinity/how-to-migrate-canister-smart-contracts-from-motoko-to-rust-3446a4b0c2ff) - How to Migrate Canister Smart Contracts from Motoko to Rust.
 - [Converting ICP into Cycles](https://medium.com/dfinity/converting-icp-into-cycles-javascript-9b0dba8d8e00) - How to programmatically convert ICP into Cycles in NodeJS.
 - [Social Platform Previews and SEO](https://medium.com/dfinity/how-to-configure-dapps-for-social-platform-previews-and-seo-62a55ee63d33) - Tutorial on how to configure dapps for social platform previews and SEO.
+
+## Starters
+
+- [create-ic](https://github.com/peterpeterparker/create-ic) - A simple command line tool to quickly create projects for the IC.
+- [create-ic-app](https://github.com/MioQuispe/create-ic-app) - Modern, unopinionated templates for React, Vue & Svelte powered by [Vite](https://vitejs.dev/).
+- [ic-rust-starter](https://github.com/ocluf/ic-rust-starter) - Starter for a Rust backend-only canister project.
+- [vite-react-motoko](https://github.com/rvanasa/vite-react-motoko) - Full-Stack React/Motoko starter with live reload.
 
 ## Client Libraries (Agents)
 
@@ -330,12 +337,11 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [Orally](https://github.com/orally-network/oracle) - Cross-chain oracle factory built on HTTPS Outcalls and Chain-key ECDSA.
 - [Terabethia](https://terabethia.ooo/) - Bridge and communication protocol between Ethereum and the Interner Computer.
 
-## Starters
+## How it works / Deep dives
 
-- [create-ic](https://github.com/peterpeterparker/create-ic) - A simple command line tool to quickly create projects for the IC.
-- [create-ic-app](https://github.com/MioQuispe/create-ic-app) - Modern, unopinionated templates for React, Vue & Svelte powered by [Vite](https://vitejs.dev/).
-- [ic-rust-starter](https://github.com/ocluf/ic-rust-starter) - Starter for a Rust backend-only canister project.
-- [vite-react-motoko](https://github.com/rvanasa/vite-react-motoko) - Full-Stack React/Motoko starter with live reload.
+- [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
+- [Internet Computer Wiki](https://wiki.internetcomputer.org/wiki/Internet_Computer_wiki) - General knowledge resource about the Internet Computer.
+- [How it works](https://internetcomputer.org/how-it-works) - Learn how the IC realizes the vision of the World Computer.
 
 ## Blogs
 
@@ -346,22 +352,17 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [Kyle Peacocks's blog](https://kyle-peacock.com/blog/) - Notes on IC development and more.
 - [mmapped](https://mmapped.blog/) - Roman Kashitsyn's blog about IC internals and development.
 
-## How it works / Deep dives
-
-- [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
-- [Internet Computer Wiki](https://wiki.internetcomputer.org/wiki/Internet_Computer_wiki) - General knowledge resource about the Internet Computer.
-- [How it works](https://internetcomputer.org/how-it-works) - Learn how the IC realizes the vision of the World Computer.
-
 ## Communities and Communication
 
 - [DFINITY Developer Forum](https://forum.dfinity.org/) - Main forum about the Internet Computer.
 - [IC Developer Community Discord](https://discord.gg/jnjVVQaE2C) - Developer-oriented community Discord.
 - [ICP Discord](https://discord.gg/FygMb5VyCQ) - Multi-language server for the broader community.
-- [ICP League](https://qbw7d-giaaa-aaaaj-aalta-cai.ic0.app/) - Fostering world-class community for Internet Computer Ecosystem.
+- [ICP League](https://qbw7d-giaaa-aaaaj-aalta-cai.ic0.app/) - Fostering a world-class community for Internet Computer Ecosystem.
 - [Internet Computer Academy](https://internetcomputer.academy/) - Open-source and community-driven knowledge base about the IC.
 
 ## Bounties and Grants
 
 - [DFINITY Developer Grants and Bounties](http://dfinity.org/grants) / [Requests and Discussions](https://github.com/dfinity/grant-rfps/discussions) - Developer Grant and Bounty program provided by the DFINITY foundation.
+- [Requests for Startups](https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md) - A list of ideas for startups to build on the Internet Computer.
 - [ICDevs Bounties](https://icdevs.org/bounties.html) - Code bounties by the ICDevs organization.
-- [Video: Overview of the Developer Grants Program](https://www.youtube.com/watch?v=hoYo-c9SMfQ) - A video that explains the objective and the process of the DFINITY Develoepr Grants program.
+- [Video: Overview of the Developer Grants Program](https://www.youtube.com/watch?v=hoYo-c9SMfQ) - A video that explains the objective and the process of the DFINITY Developer Grants program.
