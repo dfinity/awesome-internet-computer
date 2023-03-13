@@ -52,6 +52,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
   
 #### Simple / Getting started
 
+- [Candid for Rust Canisters](https://6zvwc-sqaaa-aaaal-aalma-cai.raw.icp0.io/d/automatically-generate-candid-from-rust-on-the-ic) - How to automatically generate Candid files for canisters implemented in Rust.
 - [Considerations for NFT Developers](https://internetcomputer.org/docs/current/developer-docs/best-practices/considerations-for-nft-devs) - Discussion of best practices for NFT developers.
 - [Deploy Your First dApp on the IC in 10 Minutes!](https://www.youtube.com/watch?v=r5s7nD_XO0M) - Getting started video tutorial.
 - [Frontends on the Internet Computer](https://www.youtube.com/watch?v=rjSDvTaEj3s) - Video tutorial on hosting frontends using the asset canister.
