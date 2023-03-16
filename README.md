@@ -296,6 +296,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [Axon](https://github.com/icdevs/axon) - A multi-user, multi-neuron management canister.
 - [Service Nervous System](https://internetcomputer.org/sns) - Framework inspired by the Network Nervous System.
+- [Threshold Canister](https://github.com/dfinity/threshold) - Threshold voting and execution for the IC.
 
 ## Game Development
 
