@@ -302,6 +302,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 For Unity-compatible client libraries, see [C# agents](#C#).
 
+- [Internet Computer GameKit](https://github.com/dfinity/ic-gamekit) - Toolkit for building games on the IC.
 - [WebGL Sample](https://internetcomputer.org/docs/current/samples/host-a-webgame) - Example of how to host a WebGL game on the IC.
 
 ## Wallets and Authentication
