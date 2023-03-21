@@ -125,7 +125,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 ### Motoko
 
-- [Motoko](#Motoko) - Simple high-level language for writing canisters.
+- [Motoko](https://github.com/dfinity/motoko) - Simple high-level language for writing canisters.
 
 ### Rust
 
