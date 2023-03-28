@@ -358,6 +358,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 ## Communities and Communication
 
 - [DFINITY Developer Forum](https://forum.dfinity.org/) - Main forum about the Internet Computer.
+- [IC Dev PR Handbook](https://dirt-jaguar-6a2.notion.site/Let-s-get-you-some-attention-c7eaabbc87d142f5baa92096cadc181f) - PR support for devs and projects in the IC ecosystem.
 - [IC Developer Community Discord](https://discord.gg/jnjVVQaE2C) - Developer-oriented community Discord.
 - [ICP Discord](https://discord.gg/FygMb5VyCQ) - Multi-language server for the broader community.
 - [ICP League](https://qbw7d-giaaa-aaaaj-aalta-cai.ic0.app/) - Fostering a world-class community for Internet Computer Ecosystem.
