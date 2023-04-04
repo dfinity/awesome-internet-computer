@@ -336,6 +336,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [Chain-key ECDSA](https://internetcomputer.org/how-it-works/threshold-ecdsa-signing/) - Tech that allows creating transactions targeting various chains from canisters on the Internet Computer.
 - [EVM Utility Canister](https://github.com/icopen/evm_utils_ic) - Utility canister to create and parse EVM-compliant transactions.
 - [ic-web3](https://github.com/rocklabs-io/ic-web3) - RPC client for canisters on the Internet Computer to access EVM networks.
+- [Internet Computer Bitcoin Library](https://github.com/Benjamin-Loison/Internet-Computer-Bitcoin-Library) - Utility libraries for Motoko/Rust to simplify building on the Bitcoin Integration.
 - [No key wallet](https://github.com/nikolas-con/ic-evm-sign-starter) - Example project of a canister-based Ethereum wallet.
 - [Omnic](https://github.com/rocklabs-io/omnic) - Cross-chain messaging protocol to connect EVM-compatible chains via the Internet Computer.
 - [Orally](https://github.com/orally-network/oracle) - Cross-chain oracle factory built on HTTPS Outcalls and Chain-key ECDSA.
