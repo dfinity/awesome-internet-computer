@@ -202,7 +202,8 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 Candid is an interface description language (IDL) for interacting with canisters (also known as services or actors) running on the Internet Computer. It provides a language-independent description of canister interfaces and the data they exchange, with type safety and extensibility.
 
 - [Candid GitHub Repo](https://github.com/dfinity/candid) - The home of Candid.
-- [Candid UI](https://github.com/dfinity/candid/blob/master/tools/ui) - Canister generates a front-end UI for any canister.
+- [Candid UI](https://github.com/dfinity/candid/blob/master/tools/ui) - Generates a front-end UI for any canister.
+- [Candid UI Web Component](https://github.com/dfinity/dfn-components/tree/main/packages/candid-ui) - Web component to easily embed Candid UI.
 - [didc](https://github.com/dfinity/candid/tree/master/tools/didc) - A multi-purpose tool for Candid.
 - [idl2json](https://github.com/dfinity/idl2json) - Command line tool for converting Candid to JSON.
 - [Intellij Candid Plugin](https://github.com/Alaanor/candid-intellij-plugin) - A Candid language plugin for editing .did files.
