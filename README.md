@@ -254,6 +254,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [ic-stable-memory](https://github.com/seniorjoinu/ic-stable-memory) - Stable memory collections for Rust.
 - [stable-structures](https://github.com/dfinity/stable-structures) - A collection of scalable and upgrade-safe data structures for Rust maintained by DFINITY.
 - [Sudograph](https://github.com/sudograph/sudograph) - A GraphQL database for the IC.
+- [Certified Blockchain](https://github.com/Factland/ic-certified-blockchain) - Certified blockchain log on on the IC.  This can be validated using only the NNS public key: [Validation](https://github.com/Factland/certified-blockchain-verification).
 
 ## Fungible and Non-fungible Tokens (NFTs)
 
