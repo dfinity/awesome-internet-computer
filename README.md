@@ -197,6 +197,10 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 - [MOPS](https://mops.one/) - Package manager for Motoko with fully on-chain package registry.
 - [Vessel](https://github.com/dfinity/vessel) - Package manager for the Motoko programming language.
 
+### Libraries / Frameworks
+- [IC Certification](https://github.com/nomeata/ic-certification) - Merkle Tree and support for certified variables and assets
+- [Server](https://github.com/krpeacock/server) - An Express-style http framework for serving certified http responses from canisters
+
 ## Candid
 
 Candid is an interface description language (IDL) for interacting with canisters (also known as services or actors) running on the Internet Computer. It provides a language-independent description of canister interfaces and the data they exchange, with type safety and extensibility.
