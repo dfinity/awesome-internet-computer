@@ -298,13 +298,13 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [ICTC](https://github.com/iclighthouse/ICTC) - Distributed transaction framework for DeFi applications.
 
-### Protocols
-
-- [BeamFi](https://developer.beamfi.app) - Autonomous Money Streaming Protocol for Micro Payments DeFi applications.
-
 ### Oracles 
 
 - [Exchange Rate Canister](https://github.com/dfinity/exchange-rate-canister) - Oracle service for cryptocurrency and fiat currency exchange rates.
+
+### Protocols
+
+- [BeamFi](https://developer.beamfi.app) - Autonomous Money Streaming Protocol for Micro Payments DeFi applications.
 
 ## DAO Frameworks
 
