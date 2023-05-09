@@ -80,6 +80,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [create-ic-app](https://github.com/MioQuispe/create-ic-app) - Modern, unopinionated templates for React, Vue & Svelte powered by [Vite](https://vitejs.dev/).
 - [ic-rust-starter](https://github.com/ocluf/ic-rust-starter) - Starter for a Rust backend-only canister project.
 - [vite-react-motoko](https://github.com/rvanasa/vite-react-motoko) - Full-Stack React/Motoko starter with live reload.
+- [nextjs-ic-starter](https://github.com/dappblock/nextjs-ic-starter) - Next.js Internet Computer Starter Template
 
 ## Client Libraries (Agents)
 
@@ -300,6 +301,10 @@ Candid is an interface description language (IDL) for interacting with canisters
 ### Oracles 
 
 - [Exchange Rate Canister](https://github.com/dfinity/exchange-rate-canister) - Oracle service for cryptocurrency and fiat currency exchange rates.
+
+### Protocols
+
+- [BeamFi](https://developer.beamfi.app) - Autonomous Money Streaming Protocol for Micro Payments DeFi applications.
 
 ## DAO Frameworks
 
