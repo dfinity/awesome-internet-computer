@@ -105,7 +105,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### Dart/Flutter
 
 - [agent_dart](https://github.com/AstroxNetwork/agent_dart) - Framework to build mobile applications.
-- [ic_tools](https://github.com/levifeldman/ic_tools) - IC Tools supporting Dart & Flutter on the web and linux.
+- [ic_tools](https://github.com/levifeldman/ic_tools) - IC Tools supporting Dart & Flutter on the Web and Linux.
 - [ic_tools_web](https://github.com/levifeldman/ic_tools_web) - Library with specific tools for Flutter on the Web.  
 
 ### Go
