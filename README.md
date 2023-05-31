@@ -102,10 +102,6 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 - [ic-py](https://github.com/rocklabs-io/ic-py) - Library for interfacing with the IC using Python.
 
-### Solidity
-
-- [bitfinity-evm](https://docs.bitfinity.network/) - Provides the ability to create EVM-based smart contracts.
-
 ### Dart/Flutter
 
 - [agent_dart](https://github.com/AstroxNetwork/agent_dart) - Framework to build mobile applications.
@@ -146,6 +142,10 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### Python
 
 - [Kybra](https://github.com/demergent-labs/kybra) - Python CDK.
+
+### Solidity
+
+- [bitfinity-evm](https://docs.bitfinity.network/) - Provides the ability to create EVM-based smart contracts.
 
 ### C/C++
 
