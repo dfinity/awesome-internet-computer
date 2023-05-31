@@ -163,6 +163,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [Developer Tooling Landing page](https://internetcomputer.org/tooling) - Overview of tooling in the Internet Computer ecosystem.
 - [IC Inspector](https://chrome.google.com/webstore/detail/ic-inspector/meaadkenfkhjakkkdapaallimhbdofck) - Chrome extension to decode IC requests and responses.
 - [ic-nix](https://github.com/ninegua/ic-nix) - Build IC projects with Nix.
+- [Internet Base](https://marketplace.visualstudio.com/items?itemName=InternetBase.internet-base) - VSCode extension to run Blast notebooks.
 
 ### Testing
 
@@ -258,7 +259,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 ## Storage and Databases
 
-- [CanDB](https://www.canscale.dev/) - Flexible, performant, and horizontally scalable non-relational multi-canister database built in Motoko.
+- [CanDB](https://github.com/ORIGYN-SA/CanDB) - Flexible, performant, and horizontally scalable non-relational multi-canister database built in Motoko.
 - [ic-sqlite](https://github.com/froghub-io/ic-sqlite) - SQLite on the IC.
 - [ic-stable-memory](https://github.com/seniorjoinu/ic-stable-memory) - Stable memory collections for Rust.
 - [stable-structures](https://github.com/dfinity/stable-structures) - A collection of scalable and upgrade-safe data structures for Rust maintained by DFINITY.
