@@ -81,6 +81,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [ic-rust-starter](https://github.com/ocluf/ic-rust-starter) - Starter for a Rust backend-only canister project.
 - [vite-react-motoko](https://github.com/rvanasa/vite-react-motoko) - Full-Stack React/Motoko starter with live reload.
 - [nextjs-ic-starter](https://github.com/dappblock/nextjs-ic-starter) - Next.js Internet Computer Starter Template
+- [IC in Dev Container](https://github.com/infu/internet-computer-start) - Run a local replica inside a Docker container with NNS in VS Code or GitHub Codespaces
 
 ## Client Libraries (Agents)
 
