@@ -143,6 +143,10 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 - [Kybra](https://github.com/demergent-labs/kybra) - Python CDK.
 
+### Solidity
+
+- [bitfinity-evm](https://docs.bitfinity.network/) - Provides the ability to create EVM-based smart contracts.
+
 ### C/C++
 
 - [Chico](https://github.com/ICPorts-labs/chico) - C/C++ CDK.
