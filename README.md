@@ -198,6 +198,7 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 - [Awesome Motoko](https://github.com/motoko-unofficial/awesome-motoko) - Awesome list focused on Motoko.
 - [Blocks](https://github.com/Blocks-Editor/blocks) - Online low-code editor for Motoko.
 - [Embed Motoko](https://embed.smartcontracts.org/) - Embed an interactive Motoko code snippet on your website.
+- [Motoko Dev Server](https://github.com/dfinity/motoko-dev-server) - A live reload development server for Motoko smart contracts.
 - [Motoko Formatter](https://github.com/dfinity/prettier-plugin-motoko) - A configurable Prettier plugin for Motoko.
 - [Motoko GitHub Repository](https://github.com/dfinity/motoko) - The home of the Motoko language.
 - [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/) - An online playground environment for Motoko.
