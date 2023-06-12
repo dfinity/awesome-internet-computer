@@ -373,6 +373,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [Terabethia](https://terabethia.ooo/) - Bridge and communication protocol between Ethereum and the Interner Computer.
 - [Bitfinity EVM](https://bitfinity.network) - An Ethereum Virtual Machine (EVM) implemented as a canister.
 - [IC-ETH-RPC](https://github.com/internet-computer-protocol/ic-eth-rpc) - A canister that offers the Ethereum JSON RPC API as an on-chain API. 
+- [ic-solidity-bindgen](https://github.com/horizonx-tech/ic-solidity-bindgen) - Generate Rust bindings for Solidity contracts from abis to use with the Internet Computer.
 
 ## How it works / Deep dives
 
