@@ -128,6 +128,10 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 - [ic4j-agent](https://github.com/ic4j/ic4j-agent) - Libraries for interfacing with the IC using Java (Android compatible).
 
+### Ruby
+
+- [ic_agent](https://github.com/tuminfei/ic_agent) - Basic modules to interact with the IC using Ruby.
+
 ## Canister Development Kits (CDKs)
 
 - [CDK Framework](https://github.com/demergent-labs/cdk_framework) - Framework to build CDKs which has been used for Azle and Kybra.
