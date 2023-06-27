@@ -30,11 +30,11 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Wallets and Authentication](#wallets-and-authentication)
 - [Dashboards, Explorers and Registries](#dashboards-explorers-and-registries)
 - [Crosschain Interoperability](#crosschain-interoperability)
+- [Internet of Things](#internet-of-things)
 - [How it works / Deep dives](#how-it-works--deep-dives)
 - [Blogs](#blogs)
 - [Communities and Communication](#communities-and-communication)
 - [Bounties and Grants](#bounties-and-grants)
-- [Internet of Things](#internet-of-things)
 
 ## Courses, Tutorials and Samples
 
@@ -381,6 +381,10 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [IC-ETH-RPC](https://github.com/internet-computer-protocol/ic-eth-rpc) - A canister that offers the Ethereum JSON RPC API as an on-chain API. 
 - [ic-solidity-bindgen](https://github.com/horizonx-tech/ic-solidity-bindgen) - Generate Rust bindings for Solidity contracts from abis to use with the Internet Computer.
 
+## Internet of Things
+
+- [Omnia Network](https://github.com/omnia-network) - A platform that enables canisters to access any IoT device through a uniform HTTP interface.
+
 ## How it works / Deep dives
 
 - [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
@@ -411,7 +415,3 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [Requests for Startups](https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md) - A list of ideas for startups to build on the Internet Computer.
 - [ICDevs Bounties](https://icdevs.org/bounties.html) - Code bounties by the ICDevs organization.
 - [Video: Overview of the Developer Grants Program](https://www.youtube.com/watch?v=hoYo-c9SMfQ) - A video that explains the objective and the process of the DFINITY Developer Grants program.
-
-## Internet of Things
-
-- [Omnia Network](https://github.com/omnia-network) - A platform that enables canisters to access any IoT device through a uniform HTTP interface.
