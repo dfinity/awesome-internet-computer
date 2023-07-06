@@ -88,7 +88,9 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 ## Client Libraries (Agents)
 
-Agents facilitate the interaction from clients with canisters on the Internet Computer. If you want to contribute an agent implementation checkout out this [Grant RFP](https://github.com/dfinity/grant-rfps/issues/4).
+Agents facilitate the interaction from clients with canisters on the Internet Computer. If you want to contribute an agent implementation checkout out this [Grant RFP](https://github.com/dfinity/grant-rfps/issues/4). 
+
+- [Interactive Tutorial on Agents](https://5n2bt-lqaaa-aaaae-aajfa-cai.raw.icp0.io/) - An low-level interactive tutorial on the inner workings of an Internet Computer agent.
 
 ### JavaScript/TypeScript
 
