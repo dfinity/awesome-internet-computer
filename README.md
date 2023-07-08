@@ -164,7 +164,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### C/C++
 
 - [Chico](https://github.com/ICPorts-labs/chico) - C/C++ CDK.
-- [icpp](https://github.com/icppWorld/icpp) - Modern C++ for the IC.
+- [icpp](https://github.com/icppWorld/icpp-free) - C++ CDK.
 
 ### AssemblyScript
 
@@ -246,6 +246,10 @@ Candid is an interface description language (IDL) for interacting with canisters
 #### C#
 
 - [ICP.NET candid](https://github.com/edjCase/ICP.NET/tree/main/src/Candid) - C# library of Candid.
+
+#### C++
+
+- [icpp-candid]((https://github.com/icppWorld/icpp-candid)) - C++ Candid Library.
 
 #### Dart
 
