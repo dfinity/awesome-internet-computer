@@ -1,3 +1,12 @@
+
+{
+  "name": "Joined Africa"
+  "url": "https://fo2ol-uqaaa-aaaap-abdna-cai.icp0.io/"
+  "description":"At Joined Africa, we are dedicated to providing a seamless online marketplace that connects sellers and buyers, locally and globally within Africa. Our platform empowers sellers to advertise their products, expand their reach, and effortlessly connect with potential buyers. Meanwhile, buyers can explore a wide range of categories, including properties, electronics, fashion, vehicles, and more. Communication between buyers and sellers is essential, and we've made it convenient through our built-in messaging application. When a seller lists a product on our site, interested buyers can contact them directly using our chat application."
+}
+
+
+
 <!-- omit in toc -->
 # Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
