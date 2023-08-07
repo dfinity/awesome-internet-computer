@@ -320,6 +320,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [DeSwap Orderbook](https://github.com/iclighthouse/DeSwap-Orderbook) - An Order Matching Engine Module for Dex in Motoko.
 - [Spinner](https://github.com/spinner-cash/spinner) - Private transactions using zkSNARKs.
+- [Sonic LBP](https://lbp.sonic.ooo) - Fair launch tokensales and raise funds using Liquidity Bootstraping Pool.
 
 ### Frameworks and Tools
 
