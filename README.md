@@ -64,6 +64,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Languages on the IC](https://medium.com/code-state/which-language-should-you-choose-to-build-on-the-internet-computer-%EF%B8%8F-851c31e9c28) - Guide on how to select the programming language for the IC.
 - [Make Oracles Obsolete in under 5 Minutes](https://www.youtube.com/watch?v=3e12N9mcWhw) - Short video tutorial on HTTPS Outcalls in Motoko.
 - [Rust + React (Typescript) + Internet Identity](https://medium.com/@ilbert/rust-react-typescript-internet-identity-on-the-internet-computer-35331ae2a4be) - Tutorial on setting up a project with Rust, React and Internet Identity.
+- [C++ ](https://docs.icpp.world/getting-started.html) - Introduction to developing canisters in C++
   
 #### Advanced
 
@@ -164,7 +165,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### C/C++
 
 - [Chico](https://github.com/ICPorts-labs/chico) - C/C++ CDK.
-- [icpp](https://github.com/icppWorld/icpp-free) - C++ CDK.
+- [icpp-pro](https://docs.icpp.world/) - C++ CDK.
 
 ### AssemblyScript
 
@@ -249,7 +250,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 #### C++
 
-- [icpp-candid]((https://github.com/icppWorld/icpp-candid)) - C++ Candid Library.
+- [icpp-candid](https://github.com/icppWorld/icpp-candid) - C++ Candid Library.
 
 #### Dart
 
@@ -392,6 +393,10 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 ## Internet of Things
 
 - [Omnia Network](https://github.com/omnia-network) - A platform that enables canisters to access any IoT device through a uniform HTTP interface.
+
+## AI
+
+- [icpp-llm](https://github.com/icppWorld/icpp-llm) - LLMs for the Internet Computer.
 
 ## How it works / Deep dives
 
