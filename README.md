@@ -250,7 +250,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 #### C++
 
-- [icpp-candid]((https://github.com/icppWorld/icpp-candid)) - C++ Candid Library.
+- [icpp-candid](https://github.com/icppWorld/icpp-candid) - C++ Candid Library.
 
 #### Dart
 
