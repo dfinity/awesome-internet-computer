@@ -394,6 +394,10 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 
 - [Omnia Network](https://github.com/omnia-network) - A platform that enables canisters to access any IoT device through a uniform HTTP interface.
 
+## AI
+
+- [icpp-llm](https://github.com/icppWorld/icpp-llm) - LLMs for the Internet Computer.
+
 ## How it works / Deep dives
 
 - [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
