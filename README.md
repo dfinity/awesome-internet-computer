@@ -165,7 +165,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### C/C++
 
 - [Chico](https://github.com/ICPorts-labs/chico) - C/C++ CDK.
-- [icpp](https://github.com/icppWorld/icpp-free) - C++ CDK.
+- [icpp-pro](https://docs.icpp.world/) - C++ CDK.
 
 ### AssemblyScript
 
