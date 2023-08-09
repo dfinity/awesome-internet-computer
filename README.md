@@ -31,6 +31,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Dashboards, Explorers and Registries](#dashboards-explorers-and-registries)
 - [Crosschain Interoperability](#crosschain-interoperability)
 - [Internet of Things](#internet-of-things)
+- [AI](#ai)
 - [How it works / Deep dives](#how-it-works--deep-dives)
 - [Blogs](#blogs)
 - [Communities and Communication](#communities-and-communication)
