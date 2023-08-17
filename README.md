@@ -184,6 +184,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [IC Inspector](https://chrome.google.com/webstore/detail/ic-inspector/meaadkenfkhjakkkdapaallimhbdofck) - Chrome extension to decode IC requests and responses.
 - [ic-nix](https://github.com/ninegua/ic-nix) - Build IC projects with Nix.
 - [Internet Base](https://marketplace.visualstudio.com/items?itemName=InternetBase.internet-base) - VSCode extension to run Blast notebooks.
+- [canister-tools](https://github.com/levifeldman/canister-tools) - Take snapshots of the canister-data and download/upload snapshots. Simple upgrades. Common tools for Rust canisters. 
 
 ### Testing
 
