@@ -400,6 +400,10 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 
 - [icpp-llm](https://github.com/icppWorld/icpp-llm) - LLMs for the Internet Computer.
 
+## Metaverse
+
+- [Open Internet Metaverse](https://github.com/Bebb-Protocol-and-Apps/PWS) - Easily create your personal virtual space and host it like a 3D Website ("Webspace") on the Internet Computer. [Try it here](https://vdfyi-uaaaa-aaaai-acptq-cai.ic0.app/)
+
 ## How it works / Deep dives
 
 - [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
