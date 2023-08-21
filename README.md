@@ -314,7 +314,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [Messity](https://www.messity.com/) - An open and nonproprietary decentralized messaging protocol.
 - [OpenChat](https://github.com/open-ic/open-chat) - An open chat app.
-- [W3NS](https://github.com/ArgonStudiosXYZ/w3ns) - An Interner Computer service for notifications.
+- [W3NS](https://github.com/miguelToscano/w3ns) - An Interner Computer service for notifications.
 
 
 ## Decentralized Finance
@@ -387,7 +387,6 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [No key wallet](https://github.com/nikolas-con/ic-evm-sign-starter) - Example project of a canister-based Ethereum wallet.
 - [Omnic](https://github.com/rocklabs-io/omnic) - Cross-chain messaging protocol to connect EVM-compatible chains via the Internet Computer.
 - [Orally](https://github.com/orally-network/oracle) - Cross-chain oracle factory built on HTTPS Outcalls and Chain-key ECDSA.
-- [Terabethia](https://terabethia.ooo/) - Bridge and communication protocol between Ethereum and the Interner Computer.
 - [Bitfinity EVM](https://bitfinity.network) - An Ethereum Virtual Machine (EVM) implemented as a canister.
 - [IC-ETH-RPC](https://github.com/internet-computer-protocol/ic-eth-rpc) - A canister that offers the Ethereum JSON RPC API as an on-chain API. 
 - [ic-solidity-bindgen](https://github.com/horizonx-tech/ic-solidity-bindgen) - Generate Rust bindings for Solidity contracts from abis to use with the Internet Computer.
@@ -419,7 +418,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 ## Communities and Communication
 
 - [DFINITY Developer Forum](https://forum.dfinity.org/) - Main forum about the Internet Computer.
-- [IC Dev PR Handbook](https://dirt-jaguar-6a2.notion.site/Let-s-get-you-some-attention-c7eaabbc87d142f5baa92096cadc181f) - PR support for devs and projects in the IC ecosystem.
+- [IC Dev PR Handbook](https://dfinityorg.notion.site/Let-s-get-you-some-attention-c7eaabbc87d142f5baa92096cadc181f?pvs=4) - PR support for devs and projects in the IC ecosystem.
 - [IC Developer Community Discord](https://discord.gg/jnjVVQaE2C) - Developer-oriented community Discord.
 - [ICP Discord](https://discord.gg/FygMb5VyCQ) - Multi-language server for the broader community.
 - [ICP League](https://qbw7d-giaaa-aaaaj-aalta-cai.ic0.app/) - Fostering a world-class community for Internet Computer Ecosystem.
