@@ -47,6 +47,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Web3, Blockchain and the Internet Computer](https://www.youtube.com/playlist?list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c) - Youtube series (excerpt from The Complete Web Development Bootcamp).
 - [AgorApp Motoko Course](https://agorapp.dev/editor/courses/motoko/learn-motoko/01-variables) - Interactive course for Motoko beginners.
 - [Dacade TypeScript Smart Contract 101](https://dacade.org/communities/icp/) - Learn to build Dapps on the IC using TypeScript.
+- [Web3 with TypeScript Bootcamp](https://github.com/Code-and-State/typescript-bootcamp) - Learn to build a DAO in 7 days, with TypeScript, on the Internet Computer.
 
 ### Tutorials and Samples
 
