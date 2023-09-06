@@ -187,7 +187,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [ic-nix](https://github.com/ninegua/ic-nix) - Build IC projects with Nix.
 - [Internet Base](https://marketplace.visualstudio.com/items?itemName=InternetBase.internet-base) - VSCode extension to run Blast notebooks.
 - [canister-tools](https://github.com/levifeldman/canister-tools) - Take snapshots of the canister-data and download/upload snapshots. Simple upgrades. Common tools for Rust canisters.
-- [wasi2ic](https://github.com/wasm-forge/wasi2ic) - The tool reference for converting WASI binaries into binaries runnable on the IC.
+- [wasi2ic](https://github.com/wasm-forge/wasi2ic) - Convert WASI binaries into binaries runnable on the IC.
 
 ### Testing
 
