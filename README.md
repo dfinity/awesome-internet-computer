@@ -205,6 +205,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [Canistergeek](https://cusyh-iyaaa-aaaah-qcpba-cai.raw.ic0.app/) - Open-source tool to track your project canisters cycles and memory status.
 - [Canister monitoring](https://github.com/domwoe/canister-monitoring) - Example of using Prometheus to collect metrics from a canister.
 - [CycleOps](https://cycleops.dev) - Proactive, automated, canister cycles management with email notifications and a no-code integration.
+- [Cycles Manager](https://github.com/CycleOperators/cycles-manager) - A library for index canisters that want to manage the cycles of their child canisters.
 - [Cycles.watch](https://cycles.watch) - Dashboard for canister cycles consumption overview with local notifications
 - [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Canister to publicly expose canister status information.
 - [Metrics encoder](https://lib.rs/crates/ic-metrics-encoder) - Library to encode metrics in Prometheus text exposition format.
