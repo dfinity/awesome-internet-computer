@@ -380,7 +380,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [Internet Computer Ecosystem Showcase](https://internetcomputer.org/ecosystem) - Curated project registry.
 - [Kinic](https://74iy7-xqaaa-aaaaf-qagra-cai.ic0.app/) - Front-end search engine.
 
-## Crosschain Interoperability
+## Cross-chain Infrastructure
 
 - [Bitcoin Integration](https://internetcomputer.org/bitcoin-integration) - Landing page of the direct integration with the Bitcoin network.
 - [Bitshop](https://github.com/lukasvozda/bitshop) - Example of a Shopify alternative running 100 % on-chain with Bitcoin as a native payment.
@@ -390,10 +390,11 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [EVM Utility Canister](https://github.com/icopen/evm_utils_ic) - Utility canister to create and parse EVM-compliant transactions.
 - [ic-web3](https://github.com/rocklabs-io/ic-web3) - RPC client for canisters on the Internet Computer to access EVM networks.
 - [Internet Computer Bitcoin Library](https://github.com/Benjamin-Loison/Internet-Computer-Bitcoin-Library) - Utility libraries for Motoko/Rust to simplify building on the Bitcoin Integration.
-- [Oisy](https://github.com/dfinity/oisy-wallet) - A novel Ethereum wallet that is hosted on the Internet Computer, is browser-based, fully on-chain and secured by chain-key cryptography and Internet Identity.
+- [Oisy](https://github.com/dfinity/oisy-wallet) - A novel Ethereum wallet that is hosted on the Internet Computer, is browser-based, fully on-chain, and secured by Chain-key cryptography and Internet Identity.
 - [No key wallet](https://github.com/nikolas-con/ic-evm-sign-starter) - Example project of a canister-based Ethereum wallet.
 - [Omnic](https://github.com/rocklabs-io/omnic) - Cross-chain messaging protocol to connect EVM-compatible chains via the Internet Computer.
 - [Orally](https://github.com/orally-network/oracle) - Cross-chain oracle factory built on HTTPS Outcalls and Chain-key ECDSA.
+- [ChainSight](https://docs.chainsight.network/chainsight-overview/introduction) - Composable cross-chain data oracles built on HTTPS Outcalls and Chain-key ECDSA.
 - [Bitfinity EVM](https://bitfinity.network) - An Ethereum Virtual Machine (EVM) implemented as a canister.
 - [IC-ETH-RPC](https://github.com/internet-computer-protocol/ic-eth-rpc) - A canister that offers the Ethereum JSON RPC API as an on-chain API. 
 - [ic-solidity-bindgen](https://github.com/horizonx-tech/ic-solidity-bindgen) - Generate Rust bindings for Solidity contracts from ABIs to use with the Internet Computer.
