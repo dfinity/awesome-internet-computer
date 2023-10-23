@@ -398,6 +398,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [Bitfinity EVM](https://bitfinity.network) - An Ethereum Virtual Machine (EVM) implemented as a canister.
 - [IC-ETH-RPC](https://github.com/internet-computer-protocol/ic-eth-rpc) - A canister that offers the Ethereum JSON RPC API as an on-chain API. 
 - [ic-solidity-bindgen](https://github.com/horizonx-tech/ic-solidity-bindgen) - Generate Rust bindings for Solidity contracts from ABIs to use with the Internet Computer.
+- [ccamp](https://github.com/usherlabs/ccamp) - General-purpose, modular, and custom data-driven Cross-chain Asset Management Protocol.
 
 
 ## Internet of Things
