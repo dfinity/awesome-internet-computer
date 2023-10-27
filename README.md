@@ -1,16 +1,17 @@
 <!-- omit in toc -->
-# Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+
+# Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <a align="center" href="https://internetcomputer.org/">
   <img src="assets/awesome-cover.png">
 </a>
-
 
 The [Internet Computer](https://internetcomputer.org/) is a public blockchain that hosts smart contracts that run at web speed, can serve web from cyberspace, run efficiently, and can scale within an environment that has unbounded capacity. Smart contracts are a profoundly new and superior form of tamperproof and unstoppable software. They can imbue systems and services with new properties, enabling the reimagination of websites, systems, internet services and finance.
 
 ---
 
 <!-- omit in toc -->
+
 ## Contents
 
 - [Courses, Tutorials and Samples](#courses-tutorials-and-samples)
@@ -51,11 +52,10 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 ### Tutorials and Samples
 
-- [Cross-Chain ETH Payment and E-Commerce](https://github.com/b3hr4d/eth_payment_tutorial) - A step-by-step guide to building a cross-chain payment and e-commerce platform on the Internet Computer using Ethereum.
 - [DFINITY Examples Repo](https://github.com/dfinity/examples) - Code samples from DFINITY.
 - [Internet Computer Developer Hub](https://internetcomputer.org/docs/current/home) - The main entry point to documentation, guides and references.
 - [Internet Computer Sample Dapps](https://internetcomputer.org/samples) - DFINITY-maintained and community-contributed samples and tutorials.
-  
+
 #### Simple / Getting started
 
 - [Candid for Rust Canisters](https://6zvwc-sqaaa-aaaal-aalma-cai.raw.icp0.io/d/automatically-generate-candid-from-rust-on-the-ic) - How to automatically generate Candid files for canisters implemented in Rust.
@@ -68,13 +68,14 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Make Oracles Obsolete in under 5 Minutes](https://www.youtube.com/watch?v=3e12N9mcWhw) - Short video tutorial on HTTPS Outcalls in Motoko.
 - [Rust + React (Typescript) + Internet Identity](https://medium.com/@ilbert/rust-react-typescript-internet-identity-on-the-internet-computer-35331ae2a4be) - Tutorial on setting up a project with Rust, React and Internet Identity.
 - [C++ ](https://docs.icpp.world/getting-started.html) - Introduction to developing canisters in C++
-  
+
 #### Advanced
 
 - [Access control](https://github.com/domwoe/access_control) - Demonstrator for access control patterns on the IC.
 - [Backup and Restore](https://github.com/Factland/ic-factland/blob/main/backup/backup_restore.md) - Tutorial with code on backup and restore of canister state.
 - [Canister guard in Rust](https://medium.com/@daviddalbusco/canister-guard-in-rust-on-the-internet-computer-c896f75e0cef) - Tutorial on the guard pattern for access control.
 - [Code native Bitcoin](https://www.youtube.com/watch?v=LGegOFqP5x0) [(2nd part)](https://www.youtube.com/watch?v=H6Wu9n9Qwa8) - Video tutorials on how to use the native Bitcoin integration.
+- [Cross-Chain ETH Payment and E-Commerce](https://github.com/b3hr4d/eth_payment_tutorial) - A step-by-step guide to building a cross-chain payment and e-commerce platform on the Internet Computer using Ethereum.
 - [Environments](https://medium.com/@Catalyze.One/working-with-environments-on-the-internet-computer-59ed3d2a5763) - How to work with different environments (dev/staging/prod).
 - [Hosting ERC 721 metadata](https://github.com/domwoe/erc-721-ic-assets) - Tutorial on hosting metadata and assets for ERC-721 NFTs on the IC.
 - [Migration from Motoko to Rust](https://medium.com/dfinity/how-to-migrate-canister-smart-contracts-from-motoko-to-rust-3446a4b0c2ff) - How to Migrate Canister Smart Contracts from Motoko to Rust.
@@ -94,7 +95,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 ## Client Libraries (Agents)
 
-Agents facilitate the interaction from clients with canisters on the Internet Computer. If you want to contribute an agent implementation check out this [Grant RFP](https://github.com/dfinity/grant-rfps/issues/4). 
+Agents facilitate the interaction from clients with canisters on the Internet Computer. If you want to contribute an agent implementation check out this [Grant RFP](https://github.com/dfinity/grant-rfps/issues/4).
 
 - [Interactive Tutorial on Agents](https://5n2bt-lqaaa-aaaae-aajfa-cai.raw.icp0.io/) - A low-level interactive tutorial on the inner workings of an Internet Computer agent.
 
@@ -118,7 +119,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 - [agent_dart](https://github.com/AstroxNetwork/agent_dart) - Framework to build mobile applications.
 - [ic_tools](https://github.com/levifeldman/ic_tools) - IC Tools supporting Dart & Flutter on the Web and Linux.
-- [ic_tools_web](https://github.com/levifeldman/ic_tools_web) - Library with specific tools for Flutter on the Web.  
+- [ic_tools_web](https://github.com/levifeldman/ic_tools_web) - Library with specific tools for Flutter on the Web.
 
 ### Go
 
@@ -132,7 +133,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 ### C++
 
-- [icp-client-cpp](https://github.com/Zondax/icp-client-cpp) - C/C++ wrapper for agent-rs. 
+- [icp-client-cpp](https://github.com/Zondax/icp-client-cpp) - C/C++ wrapper for agent-rs.
 
 ### Java
 
@@ -175,7 +176,6 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### AssemblyScript
 
 - [cdk-as](https://github.com/rckprtr/cdk-as) - AssemblyScript CDK.
-
 
 ## Dapp Development Platforms and Frameworks
 
@@ -232,6 +232,7 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 - [Vessel](https://github.com/dfinity/vessel) - Package manager for the Motoko programming language.
 
 ### Libraries / Frameworks
+
 - [IC Certification](https://github.com/nomeata/ic-certification) - Merkle Tree and support for certified variables and assets
 - [Server](https://github.com/krpeacock/server) - An Express-style http framework for serving certified http responses from canisters
 
@@ -297,7 +298,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [ic-stable-memory](https://github.com/seniorjoinu/ic-stable-memory) - Stable memory collections for Rust.
 - [stable-structures](https://github.com/dfinity/stable-structures) - A collection of scalable and upgrade-safe data structures for Rust maintained by DFINITY.
 - [Sudograph](https://github.com/sudograph/sudograph) - A GraphQL database for the IC.
-- [Certified Blockchain](https://github.com/Factland/ic-certified-blockchain) - Certified blockchain log on on the IC.  This can be validated using only the NNS public key: [Validation](https://github.com/Factland/certified-blockchain-verification).
+- [Certified Blockchain](https://github.com/Factland/ic-certified-blockchain) - Certified blockchain log on on the IC. This can be validated using only the NNS public key: [Validation](https://github.com/Factland/certified-blockchain-verification).
 
 ## Fungible and Non-fungible Tokens (NFTs)
 
@@ -315,13 +316,11 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [EXT](https://github.com/Toniq-Labs/extendable-token) - The extendable token standard inspired by ERC1155.
 - [Origyn NFT](https://github.com/origyn-sa/origyn_nft) - Origyn NFT standard.
 
-
 ## Messaging
 
 - [Messity](https://www.messity.com/) - An open and nonproprietary decentralized messaging protocol.
 - [OpenChat](https://github.com/open-ic/open-chat) - An open chat app.
 - [W3NS](https://github.com/miguelToscano/w3ns) - An Interner Computer service for notifications.
-
 
 ## Decentralized Finance
 
@@ -335,7 +334,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [ICTC](https://github.com/iclighthouse/ICTC) - Distributed transaction framework for DeFi applications.
 
-### Oracles 
+### Oracles
 
 - [Exchange Rate Canister](https://github.com/dfinity/exchange-rate-canister) - Oracle service for cryptocurrency and fiat currency exchange rates.
 
@@ -399,10 +398,9 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [Orally](https://github.com/orally-network/oracle) - Cross-chain oracle factory built on HTTPS Outcalls and Chain-key ECDSA.
 - [ChainSight](https://docs.chainsight.network/chainsight-overview/introduction) - Composable cross-chain data oracles built on HTTPS Outcalls and Chain-key ECDSA.
 - [Bitfinity EVM](https://bitfinity.network) - An Ethereum Virtual Machine (EVM) implemented as a canister.
-- [IC-ETH-RPC](https://github.com/internet-computer-protocol/ic-eth-rpc) - A canister that offers the Ethereum JSON RPC API as an on-chain API. 
+- [IC-ETH-RPC](https://github.com/internet-computer-protocol/ic-eth-rpc) - A canister that offers the Ethereum JSON RPC API as an on-chain API.
 - [ic-solidity-bindgen](https://github.com/horizonx-tech/ic-solidity-bindgen) - Generate Rust bindings for Solidity contracts from ABIs to use with the Internet Computer.
 - [ccamp](https://github.com/usherlabs/ccamp) - General-purpose, modular, and custom data-driven Cross-chain Asset Management Protocol.
-
 
 ## Internet of Things
 
