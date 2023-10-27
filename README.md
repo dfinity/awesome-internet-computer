@@ -51,6 +51,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 ### Tutorials and Samples
 
+- [Cross-Chain ETH Payment and E-Commerce](https://github.com/b3hr4d/eth_payment_tutorial) - A step-by-step guide to building a cross-chain payment and e-commerce platform on the Internet Computer using Ethereum.
 - [DFINITY Examples Repo](https://github.com/dfinity/examples) - Code samples from DFINITY.
 - [Internet Computer Developer Hub](https://internetcomputer.org/docs/current/home) - The main entry point to documentation, guides and references.
 - [Internet Computer Sample Dapps](https://internetcomputer.org/samples) - DFINITY-maintained and community-contributed samples and tutorials.
