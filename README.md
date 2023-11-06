@@ -48,6 +48,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [AgorApp Motoko Course](https://agorapp.dev/editor/courses/motoko/learn-motoko/01-variables) - Interactive course for Motoko beginners.
 - [Dacade TypeScript Smart Contract 101](https://dacade.org/communities/icp/) - Learn to build Dapps on the IC using TypeScript.
 - [Web3 with TypeScript Bootcamp](https://github.com/Code-and-State/typescript-bootcamp) - Learn to build a DAO in 7 days, with TypeScript, on the Internet Computer.
+- [Master Deployments of Static Websites on the Internet Computer](https://vspc.veriable.at/6513c18b1f66192cab8beb29.html) - Learn to host a static website on the Internet Computer using Astro.
 
 ### Tutorials and Samples
 
