@@ -92,6 +92,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [IC in Dev Container](https://github.com/infu/internet-computer-start) - Run a local replica inside a Docker container with NNS in VS Code or GitHub Codespaces.
 - [ic-eth-starter](https://github.com/dfinity/ic-eth-starter) - An advanced starter project for interacting with Ethereum on the Internet Computer (Beta).
 - [IC Rust NextJS Starter](https://github.com/b3hr4d/ic-rust-nextjs) - A starter kit for building applications with Rust and Next.js on the Internet Computer.
+- [Azle + NextJS Starter](https://github.com/mzurs/ic_template-Azle-NextJS) - Build Full-stack Dapp on IC with Typescript CDK and NextJS
 
 ## Client Libraries (Agents)
 
