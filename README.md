@@ -417,7 +417,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 ## AI
 
 - [DeVinci](https://github.com/patnorris/DecentralizedAIonIC) - AI chatbot running in user's browser based on open-source LLM and served from the Internet Computer. [Try it here](https://x6occ-biaaa-aaaai-acqzq-cai.icp0.io/)
-- [icpp-llm](https://github.com/icppWorld/icpp-llm) - LLMs for the Internet Computer.
+- [ICGPT](https://github.com/icppWorld/icgpt) - dApp with React front-end & C/C++ back-ends running LLMs fully on chain.  [Try it here](https://icgpt.icpp.world/)
 
 ## How it works / Deep dives
 
