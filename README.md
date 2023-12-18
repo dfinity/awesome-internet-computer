@@ -312,6 +312,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [ICRC-1](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-1/README.md) - Base fungible token standard.
 - [ICRC-2](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-2/README.md) - Extension to support `approve` and `transfer_from`.
+- [ICRC-7](https://github.com/dfinity/ICRC/tree/main/ICRCs/ICRC-7) – The ICRC-7 is a standard for the base implementaion of Non-Fungible Tokens (NFTs) on the Internet Computer.
 
 #### Other Interface Standards
 
@@ -372,6 +373,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [NNS Dapp](https://nns.ic0.app/) - Stake ICP in neurons, participate in governance and decentralization sales.
 - [Plug](https://plugwallet.ooo/) - Chrome extension and mobile wallet.
 - [Stoic](https://www.stoicwallet.com/) - Web wallet.
+- [ICRC-1 Wallet](https://github.com/research-ag/wallet) - This project allows users to manage their digital assets and perform transactions with major ICRC1 cryptocurrencies.
 
 ### Libraries
 
