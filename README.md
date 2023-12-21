@@ -325,10 +325,10 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [Messity](https://www.messity.com/) - An open and nonproprietary decentralized messaging protocol.
 - [OpenChat](https://github.com/open-ic/open-chat) - An open chat app.
-- [W3NS](https://github.com/miguelToscano/w3ns) - An Interner Computer service for notifications.
+- [W3NS](https://github.com/miguelToscano/w3ns) - An Internet Computer service for notifications.
 
 
-## Decentralized Finance
+## Decentralized Finance (DeFi)
 
 ### Exchanges
 
@@ -347,6 +347,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 ### Protocols
 
 - [BeamFi](https://developer.beamfi.app) - Autonomous Money Streaming Protocol for Micro Payments DeFi applications.
+- [Elliptic](https://github.com/Elliptic-DAO/elliptic-v0) - Bitcoin-backed Stablecoin inspired by Liquity protocol.
 
 ## DAO Frameworks
 
