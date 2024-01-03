@@ -41,8 +41,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 ### Courses
 
-- [Motoko Bootcamp #1](https://github.com/motoko-bootcamp/bootcamp-2022) - Lectures and materials for the first Motoko Bootcamp in 2022.
-- [Motoko Bootcamp #2](https://github.com/motoko-bootcamp/motokobootcamp-2023) - Lectures and materials for the second Motoko Bootcamp in 2023.
+- [Motoko Bootcamp - The DAO Adventure](https://github.com/motoko-bootcamp/dao-adventure) - Discover the Motoko language in this 7 day adventure and learn to build a DAO , on the Internet Computer.
 - [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Udemy course with a complete section on web3 development using the Internet Computer.
 - [Web3, Blockchain and the Internet Computer](https://www.youtube.com/playlist?list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c) - Youtube series (excerpt from The Complete Web Development Bootcamp).
 - [AgorApp Motoko Course](https://agorapp.dev/editor/courses/motoko/learn-motoko/01-variables) - Interactive course for Motoko beginners.
