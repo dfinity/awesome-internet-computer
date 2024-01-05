@@ -191,7 +191,6 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [Internet Base](https://marketplace.visualstudio.com/items?itemName=InternetBase.internet-base) - VSCode extension to run Blast notebooks.
 - [canister-tools](https://github.com/levifeldman/canister-tools) - Take snapshots of the canister-data and download/upload snapshots. Simple upgrades. Common tools for Rust canisters.
 - [wasi2ic](https://github.com/wasm-forge/wasi2ic) - Convert WASI binaries into binaries runnable on the IC.
-- [Cycle.Express](https://cycle.express) - Buy cycles at a steep discount by paying fiat money (credit cards, etc).
 
 ### Testing
 
@@ -212,6 +211,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [Canistergeek](https://cusyh-iyaaa-aaaah-qcpba-cai.raw.ic0.app/) - Open-source tool to track your project canisters cycles and memory status.
 - [Canister monitoring](https://github.com/domwoe/canister-monitoring) - Example of using Prometheus to collect metrics from a canister.
 - [CycleOps](https://cycleops.dev) - Proactive, automated, canister cycles management with email notifications and a no-code integration.
+- [Cycle.Express](https://cycle.express) - Buy cycles at a steep discount by paying fiat money (credit cards, etc).
 - [Cycles Manager](https://github.com/CycleOperators/cycles-manager) - A library for index canisters that want to manage the cycles of their child canisters.
 - [Cycles.watch](https://cycles.watch) - Dashboard for canister cycles consumption overview with local notifications
 - [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Canister to publicly expose canister status information.
@@ -312,6 +312,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [ICRC-1](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-1/README.md) - Base fungible token standard.
 - [ICRC-2](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-2/README.md) - Extension to support `approve` and `transfer_from`.
+- [ICRC-7](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-7/ICRC-7.md) - Base Non-Fungible Token (NFT) Standard.
 
 #### Other Interface Standards
 
