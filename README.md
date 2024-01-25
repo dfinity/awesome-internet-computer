@@ -143,6 +143,10 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 - [ic_agent](https://github.com/tuminfei/ic_agent) - Basic modules to interact with the IC using Ruby.
 
+### Swift
+
+- [IcpKit](https://github.com/kosta-bity/IcpKit) - Native Swift library for interacting with IC on iOS/MacOS. Provides implementation for Ledger canister. 
+
 ## Canister Development Kits (CDKs)
 
 - [CDK Framework](https://github.com/demergent-labs/cdk_framework) - Framework to build CDKs which has been used for Azle and Kybra.
