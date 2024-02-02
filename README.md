@@ -104,6 +104,9 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 - [agent-js](https://github.com/dfinity/agent-js) - Collection of libraries to interact with the IC using JavaScript.
 - [ic-js](https://github.com/dfinity/ic-js) - Collection of libraries for interfacing with core canisters on the Network Nervous System (NNS).
+- [ic-use-actor](https://github.com/kristoferlund/ic-use-actor) - React hook to make interacting with Internet Computer canisters more fun!
+- [ic-use-siwe-identity](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic-use-siwe-identity) - React hook for easy frontend integration with SIWE (Sign in with Ethereum) enabled canisters.
+- [ic-use-internet-identity](https://github.com/kristoferlund/ic-use-internet-identity) - React hook that makes it easy to integrate IC Internet Identity into React applications.
 - [icblast](https://github.com/infu/icblast) - Communicate with IC directly using NodeJS. Automatic service discovery.
 - [node-ic0](https://github.com/dfinity/node-ic0) - The ic0 package is a simple, straightforward way to interact with canisters running on the IC.
 
@@ -388,6 +391,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 ### Libraries
 
 - [connect2ic](https://connect2ic.github.io/docs/) - A frontend auth library & toolkit for the Internet Computer.
+- [ic-siwe](https://github.com/kristoferlund/ic-siwe) - Authentication library to enable SIWE (Sign in with Eteherum) functionaliy for ICP applications.
 
 ## Dashboards, Explorers and Registries
 
