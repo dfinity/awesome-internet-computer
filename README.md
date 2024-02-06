@@ -417,6 +417,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 - [ic-web3-rs](https://github.com/horizonx-tech/ic-web3-rs) - Utility library to interact with EVM networks.
 - [Internet Computer Bitcoin Library](https://github.com/Benjamin-Loison/Internet-Computer-Bitcoin-Library) - Utility libraries for Motoko/Rust to simplify building on the Bitcoin Integration.
 - [Oisy](https://github.com/dfinity/oisy-wallet) - A novel Ethereum wallet that is hosted on the Internet Computer, is browser-based, fully on-chain, and secured by Chain-key cryptography and Internet Identity.
+- [Ordinals canister](https://github.com/sardariuss/ordinals_canister) - A canister that enables the retrieval of BTC ordinals and their corresponding inscriptions.
 - [No key wallet](https://github.com/nikolas-con/ic-evm-sign-starter) - Example project of a canister-based Ethereum wallet.
 - [Omnic](https://github.com/rocklabs-io/omnic) - Cross-chain messaging protocol to connect EVM-compatible chains via the Internet Computer.
 - [Orally](https://github.com/orally-network/oracle) - Cross-chain oracle factory built on HTTPS Outcalls and Chain-key ECDSA.
