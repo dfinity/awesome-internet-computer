@@ -22,6 +22,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Motoko](#motoko-1)
 - [Candid](#candid)
 - [Storage and Databases](#storage-and-databases)
+- [Infrastructure](#infrastructure)
 - [Fungible and Non-fungible Tokens (NFTs)](#fungible-and-non-fungible-tokens-nfts)
 - [Messaging](#messaging)
 - [Decentralized Finance](#decentralized-finance)
@@ -66,7 +67,8 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Languages on the IC](https://medium.com/code-state/which-language-should-you-choose-to-build-on-the-internet-computer-%EF%B8%8F-851c31e9c28) - Guide on how to select the programming language for the IC.
 - [Make Oracles Obsolete in under 5 Minutes](https://www.youtube.com/watch?v=3e12N9mcWhw) - Short video tutorial on HTTPS Outcalls in Motoko.
 - [Rust + React (Typescript) + Internet Identity](https://medium.com/@ilbert/rust-react-typescript-internet-identity-on-the-internet-computer-35331ae2a4be) - Tutorial on setting up a project with Rust, React and Internet Identity.
-- [C++ ](https://docs.icpp.world/getting-started.html) - Introduction to developing canisters in C++
+- [C++ ](https://docs.icpp.world/getting-started.html) - Introduction to developing canisters in C++.
+- [WebSockets on the Internet Computer: Getting Started](https://medium.com/@ilbert/websockets-on-the-ic-getting-started-5f8bcdfaabdc) - Tutorial on setting up a WebSocket connection from a frontend client to a canister.
   
 #### Advanced
 
@@ -109,6 +111,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [ic-use-internet-identity](https://github.com/kristoferlund/ic-use-internet-identity) - React hook that makes it easy to integrate IC Internet Identity into React applications.
 - [icblast](https://github.com/infu/icblast) - Communicate with IC directly using NodeJS. Automatic service discovery.
 - [node-ic0](https://github.com/dfinity/node-ic0) - The ic0 package is a simple, straightforward way to interact with canisters running on the IC.
+- [ic-websocket-sdk](https://github.com/omnia-network/ic-websocket-sdk-js) - Library for interfacing with the IC via WebSocket using JavaScript.
 
 ### Rust
 
@@ -142,6 +145,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### Java
 
 - [ic4j-agent](https://github.com/ic4j/ic4j-agent) - Libraries for interfacing with the IC using Java (Android compatible).
+- [ic4j-websocket](https://github.com/ic4j/ic4j-websocket) - Library for for interfacing with the IC via WebSocket using Java (Android compatible).
 
 ### Ruby
 
@@ -162,7 +166,8 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### Rust
 
 - [canister-sdk](https://github.com/infinity-swap/canister-sdk) - SDK for writing and testing canisters for the Internet Computer in Rust.
-- [ic-cdk](https://crates.io/crates/ic-cdk) - Rust CDK maintained by DFINITY
+- [ic-cdk](https://crates.io/crates/ic-cdk) - Rust CDK maintained by DFINITY.
+- [ic-websocket-cdk](https://crates.io/crates/ic-websocket-cdk) - IC WebSocket CDK for canisters written in Rust.
 
 ### JavaScript/TypeScript
 
@@ -246,8 +251,9 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 - [Vessel](https://github.com/dfinity/vessel) - Package manager for the Motoko programming language.
 
 ### Libraries / Frameworks
-- [IC Certification](https://github.com/nomeata/ic-certification) - Merkle Tree and support for certified variables and assets
-- [Server](https://github.com/krpeacock/server) - An Express-style http framework for serving certified http responses from canisters
+- [IC Certification](https://github.com/nomeata/ic-certification) - Merkle Tree and support for certified variables and assets.
+- [Server](https://github.com/krpeacock/server) - An Express-style http framework for serving certified http responses from canisters.
+- [ic-websocket-cdk](https://mops.one/ic-websocket-cdk) - IC WebSocket CDK for canisters written in Motoko.
 
 ## Candid
 
@@ -312,6 +318,10 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [stable-structures](https://github.com/dfinity/stable-structures) - A collection of scalable and upgrade-safe data structures for Rust maintained by DFINITY.
 - [Sudograph](https://github.com/sudograph/sudograph) - A GraphQL database for the IC.
 - [Certified Blockchain](https://github.com/Factland/ic-certified-blockchain) - Certified blockchain log on on the IC.  This can be validated using only the NNS public key: [Validation](https://github.com/Factland/certified-blockchain-verification).
+
+## Infrastructure
+
+- [IC WebSocket Gateway](https://github.com/omnia-network/ic-websocket-gateway) - Gateway that enables clients to open WebSocket connections with canisters. This is the [HTTP Gateway](https://internetcomputer.org/docs/current/references/http-gateway-protocol-spec/) counterpart for WebSockets.
 
 ## Fungible and Non-fungible Tokens (NFTs)
 
