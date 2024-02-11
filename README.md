@@ -445,6 +445,7 @@ For Unity-compatible client libraries, see [C# agents](#C#).
 
 ## AI
 
+- [ArcMind AI](https://arcmindai.app) - LLM-powered autonomous agent that uses Chain of thoughts for reasoning, taking actions and completing goal
 - [DeVinci](https://github.com/patnorris/DecentralizedAIonIC) - AI chatbot running in user's browser based on open-source LLM and served from the Internet Computer. [Try it here](https://x6occ-biaaa-aaaai-acqzq-cai.icp0.io/)
 - [ICGPT](https://github.com/icppWorld/icgpt) - dApp with React front-end & C/C++ back-ends running LLMs fully on chain.  [Try it here](https://icgpt.icpp.world/)
 - [ic-mnist](https://github.com/smallstepman/ic-mnist) - MNIST (considered to be `hello world` of machine learning) running on IC using [burn](https://github.com/tracel-ai/burn) crate. [Try it here](https://jsi2g-jyaaa-aaaam-abnia-cai.icp0.io/) 
