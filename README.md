@@ -199,6 +199,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ## Developer Tooling
 
 - [Developer Tooling Landing page](https://internetcomputer.org/tooling) - Overview of tooling in the Internet Computer ecosystem.
+- [dfxvm](https://github.com/dfinity/dfxvm) - The dfx version manager that lets you easily switch between dfx versions.
 - [IC Inspector](https://chrome.google.com/webstore/detail/ic-inspector/meaadkenfkhjakkkdapaallimhbdofck) - Chrome extension to decode IC requests and responses.
 - [ic-nix](https://github.com/ninegua/ic-nix) - Build IC projects with Nix.
 - [Internet Base](https://marketplace.visualstudio.com/items?itemName=InternetBase.internet-base) - VSCode extension to run Blast notebooks.
