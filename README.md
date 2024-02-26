@@ -461,7 +461,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ## AI
 
-- [ArcMind AI](https://arcmindai.app) - LLM-powered autonomous agent that uses Chain of thoughts for reasoning, taking actions, and completing goals.
+- [ArcMind AI](https://github.com/arcmindai/arcmindai) - LLM-powered autonomous agent that uses Chain of thoughts for reasoning, taking actions, and completing goals. [Try the app here](https://arcmindai.app)
 - [ArcMind Vector DB](https://github.com/arcmindai/arcmindvector) - A Vector DB with similarity search supporting text, image, and audio embeddings, based on k-d tree, useful for AI applications like recommendation and Retrieval-Augmented Generation.
 - [DeVinci](https://github.com/patnorris/DecentralizedAIonIC) - AI chatbot running in user's browser based on open-source LLM and served from the Internet Computer. [Try it here](https://x6occ-biaaa-aaaai-acqzq-cai.icp0.io/).
 - [ICGPT](https://github.com/icppWorld/icgpt) - dApp with React front-end & C/C++ back-ends running LLMs fully on chain.  [Try it here](https://icgpt.icpp.world/).
