@@ -95,6 +95,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [ic-eth-starter](https://github.com/dfinity/ic-eth-starter) - An advanced starter project for interacting with Ethereum on the Internet Computer (Beta).
 - [IC Rust NextJS Starter](https://github.com/b3hr4d/ic-rust-nextjs) - A starter kit for building applications with Rust and Next.js on the Internet Computer.
 - [Azle + NextJS Starter](https://github.com/mzurs/ic_template-Azle-NextJS) - Build Full-stack Dapp on IC with Typescript CDK and NextJS
+- [Rust Modular Canister Template](https://github.com/SaorsaLabs/Template_Canister) - An example canister with stable storage, HTTP outcalls, timers and more.
 
 ## Client Libraries (Agents)
 
