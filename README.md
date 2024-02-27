@@ -216,6 +216,9 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [ic-repl](https://github.com/chenyan2002/ic-repl) - A REPL environment to communicate with canisters. Allows to write E2E integration tests.
 - [lightic](https://github.com/icopen/lightic) - Write & Run tests for any canister in JS/TS. Canisters will be run inside nodejs environment, no DFX.
 
+### Benchmarking
+- [canbench](https://github.com/dfinity/canbench/) - A benchmarking framework for canisters, allowing you to analyze your code's use of instructions and memory.
+
 ### CI/CD
 
 - [ICPipeline](https://www.icpipeline.com/) - CI/CD framework to simply IC release management.
