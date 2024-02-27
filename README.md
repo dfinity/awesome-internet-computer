@@ -94,7 +94,8 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [IC in Dev Container](https://github.com/infu/internet-computer-start) - Run a local replica inside a Docker container with NNS in VS Code or GitHub Codespaces.
 - [ic-eth-starter](https://github.com/dfinity/ic-eth-starter) - An advanced starter project for interacting with Ethereum on the Internet Computer (Beta).
 - [IC Rust NextJS Starter](https://github.com/b3hr4d/ic-rust-nextjs) - A starter kit for building applications with Rust and Next.js on the Internet Computer.
-- [Azle + NextJS Starter](https://github.com/mzurs/ic_template-Azle-NextJS) - Build Full-stack Dapp on IC with Typescript CDK and NextJS
+- [Azle + NextJS Starter](https://github.com/mzurs/ic_template-Azle-NextJS) - Build Full-stack Dapp on IC with Typescript CDK and NextJS.
+- [Proton DApp](https://github.com/NeutronStarDAO/Proton) - A DApp totally based on the Actor model.
 
 ## Client Libraries (Agents)
 
@@ -475,6 +476,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
 - [Internet Computer Wiki](https://wiki.internetcomputer.org/wiki/Internet_Computer_wiki) - General knowledge resource about the Internet Computer.
 - [How it works](https://internetcomputer.org/how-it-works) - Learn how the IC realizes the vision of the World Computer.
+- [Constellation Book](https://neutronstardao.github.io/constellation.github.io/about.html) - Unlock the Depths of IC Technology Through a Book.
 
 ## Blogs
 
