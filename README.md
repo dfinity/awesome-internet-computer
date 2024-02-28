@@ -109,6 +109,8 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [ic-use-actor](https://github.com/kristoferlund/ic-use-actor) - React hook to make interacting with Internet Computer canisters more fun!
 - [ic-use-siwe-identity](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic-use-siwe-identity) - React hook for easy frontend integration with SIWE (Sign in with Ethereum) enabled canisters.
 - [ic-use-internet-identity](https://github.com/kristoferlund/ic-use-internet-identity) - React hook that makes it easy to integrate IC Internet Identity into React applications.
+- [ic-reactor/core](https://b3pay.github.io/ic-reactor/modules/core.html) - Streamline agent and actor management, ensuring type-safe communication with canisters, and simplifies the interaction through a user-friendly API. Ideal for building efficient, scalable decentralized applications (dApps) with minimized boilerplate code.
+- [ic-reactor/react](https://b3pay.github.io/ic-reactor/modules/react.html) - Tailored specifically for React developers working on Internet Computer projects, this library integrates seamlessly with React's ecosystem to provide custom hooks and utilities for state management, authentication, and type-safe interactions with IC actors.
 - [icblast](https://github.com/infu/icblast) - Communicate with IC directly using NodeJS. Automatic service discovery.
 - [node-ic0](https://github.com/dfinity/node-ic0) - The ic0 package is a simple, straightforward way to interact with canisters running on the IC.
 - [ic-websocket-sdk](https://github.com/omnia-network/ic-websocket-sdk-js) - Library for interfacing with the IC via WebSocket using JavaScript.
