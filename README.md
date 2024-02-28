@@ -380,6 +380,10 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [BeamFi](https://developer.beamfi.app) - Autonomous Money Streaming Protocol for Micro Payments DeFi applications.
 - [Elliptic](https://github.com/Elliptic-DAO/elliptic-v0) - Bitcoin-backed Stablecoin inspired by Liquity protocol.
 
+## Social Applications
+
+- [Proton DApp](https://github.com/NeutronStarDAO/Proton) - A social DApp totally based on the Actor model.
+
 ## DAO Frameworks
 
 - [Axon](https://github.com/icdevs/axon) - A multi-user, multi-neuron management canister.
@@ -478,6 +482,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
 - [Internet Computer Wiki](https://wiki.internetcomputer.org/wiki/Internet_Computer_wiki) - General knowledge resource about the Internet Computer.
 - [How it works](https://internetcomputer.org/how-it-works) - Learn how the IC realizes the vision of the World Computer.
+- [Constellation Book](https://neutronstardao.github.io/constellation.github.io/about.html) - Explains the underlying principles of IC in a simple and easy-to-understand manner.
 
 ## Blogs
 
