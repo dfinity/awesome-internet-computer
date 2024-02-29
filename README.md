@@ -307,6 +307,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 #### JavaScript/TypeScript
 
 - [@dfinity/candid](https://github.com/dfinity/agent-js/tree/main/packages/candid) - JavaScript and TypeScript library for Candid.
+- [candid-parser-wasm](https://github.com/justblender/candid-parser-wasm) - JavaScript/TypeScript bindings for "candid_parser", compiled to WebAssembly.
 
 #### Kotlin
 
