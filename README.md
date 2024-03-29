@@ -242,7 +242,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 Motoko is a safe, simple, actor-based programming language for authoring Internet Computer (IC) canister smart contracts.
 
-- [Awesome Motoko](https://github.com/motoko-unofficial/awesome-motoko) - Awesome list focused on Motoko.
+- [Awesome Motoko](https://github.com/ic123-xyz/awesome-motoko) - Awesome list focused on Motoko.
 - [Blocks](https://github.com/Blocks-Editor/blocks) - Online low-code editor for Motoko.
 - [Embed Motoko](https://embed.smartcontracts.org/) - Embed an interactive Motoko code snippet on your website.
 - [Motoko Dev Server](https://github.com/dfinity/motoko-dev-server) - A live reload development server for Motoko smart contracts.
