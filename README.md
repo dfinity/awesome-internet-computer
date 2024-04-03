@@ -500,6 +500,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Joachim Breitner's blog](https://www.joachim-breitner.de/blog/tag/Internet_Computer) - Articles on IC development and Candid.
 - [Kyle Peacocks's blog](https://kyle-peacock.com/blog/) - Notes on IC development and more.
 - [mmapped](https://mmapped.blog/) - Roman Kashitsyn's blog about IC internals and development.
+- [icAcademy](https://blog.icacademy.at/) - Roland Bole's blog on Mastering Your Transition from Web 2.0 to Web 3.0.
 
 ## Communities and Communication
 
