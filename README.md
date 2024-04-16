@@ -172,6 +172,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [canister-sdk](https://github.com/infinity-swap/canister-sdk) - SDK for writing and testing canisters for the Internet Computer in Rust.
 - [ic-cdk](https://crates.io/crates/ic-cdk) - Rust CDK maintained by DFINITY.
 - [ic-websocket-cdk](https://crates.io/crates/ic-websocket-cdk) - IC WebSocket CDK for canisters written in Rust.
+- [Rustic](https://github.com/internet-computer-protocol/rustic) - Extension to ic-cdk, providing primitives familiar to Solidity developers.
 
 ### JavaScript/TypeScript
 
