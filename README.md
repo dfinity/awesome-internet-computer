@@ -33,7 +33,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Multi-chain Infrastructure and Applications](#multi-chain-infrastructure-and-applications)
 - [Internet of Things](#internet-of-things)
 - [AI](#ai)
-- [Zero Knowledge Proof](zero-knowledge-proof)
+- [Zero Knowledge Proof](#zero-knowledge-proof)
 - [How it works / Deep dives](#how-it-works--deep-dives)
 - [Blogs](#blogs)
 - [Communities and Communication](#communities-and-communication)
