@@ -490,6 +490,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [MotokoLearn](https://github.com/ildefons/motokolearn) - A Motoko package meant to facilitate on-chain training and inference of machine learning models where having a large GPU is not a requirement.
 - [Tract-IC-AI](https://github.com/jeshli/tract-ic-ai) - An ICP version of Tract, a tiny, no-nonsense, self-contained, Tensorflow and ONNX inference toolkit.
 - [Rust-Connect-Py-AI-to-IC](https://github.com/jeshli/rust-connect-py-ai-to-ic) - A streamlined open-source tool for deploying Python AI models on ICP.
+- [Vectune](https://github.com/ClankPan/Vectune) - A lightweight vector database with incremental indexing based on FreshVamana for retrieval-augmented generation (RAG).
 
 ## Zero Knowledge Proof
 - [icp-zk-maze](https://github.com/zCloak-Network/icp-zk-maze) - ZK Maze is a ZK coprocessor developed by zCloak. ZK coprocessor offloads intensive Zero-Knowledge (ZK) computations from traditional blockchains, enabling the creation and verification of Zero-Knowledge Proofs (ZKPs) without revealing private information.
