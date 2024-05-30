@@ -422,8 +422,10 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ### Libraries
 
-- [connect2ic](https://connect2ic.github.io/docs/) - A frontend auth library & toolkit for the Internet Computer.
+- [artemis](https://github.com/sonicdex/artemis) – Wallet adapter for connecting different wallets on the Internet Computer.
 - [ic-siwe](https://github.com/kristoferlund/ic-siwe) - Authentication library to enable SIWE (Sign in with Ethereum) functionality for ICP applications.
+- [ic-siws](https://github.com/kristoferlund/ic-siws) – Authentication library to enable SIWS (Sign in with Solana) functionality for ICP applications.
+- [connect2ic](https://connect2ic.github.io/docs/) - A frontend auth library & toolkit for the Internet Computer.
 
 ## Dashboards, Explorers and Registries
 
