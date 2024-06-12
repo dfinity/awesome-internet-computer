@@ -93,6 +93,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [ic-rust-starter](https://github.com/ocluf/ic-rust-starter) - Starter for a Rust backend-only canister project.
 - [vite-react-motoko](https://github.com/rvanasa/vite-react-motoko) - Full-Stack React/Motoko starter with live reload.
 - [vite-sveltekit-motoko-ii](https://github.com/letmejustputthishere/vite-sveltekit-motoko-ii) – Full-Stack SvelteKit/Motoko start with Internet Identity Integration and live reload.
+- [icp-dev-env](https://github.com/dfinity/icp-dev-env/tree/main) – A Docker image for a canister smart contract developer environment for ICP.
 - [nextjs-ic-starter](https://github.com/dappblock/nextjs-ic-starter) - Next.js Internet Computer Starter Template.
 - [IC in Dev Container](https://github.com/infu/internet-computer-start) - Run a local replica inside a Docker container with NNS in VS Code or GitHub Codespaces.
 - [ic-eth-starter](https://github.com/dfinity/ic-eth-starter) - An advanced starter project for interacting with Ethereum on the Internet Computer (Beta).
