@@ -445,6 +445,8 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ### General
 - [Chain Fusion Starter](https://github.com/letmejustputthishere/chain-fusion-starter) – starter template leveraging chain fusion technology to build EVM coprocessors on the Internet Computer Protocol
+- [ic-evm-utils](https://crates.io/crates/ic-evm-utils) – Utils for interacting with Ethereum from ICP canisters.
+- [evm-rpc-canister-types](https://crates.io/crates/evm-rpc-canister-types) – Types for interacting with the EVM RPC canister.
 - [Chain-key ECDSA](https://internetcomputer.org/how-it-works/threshold-ecdsa-signing/) - Tech that allows creating transactions targeting various chains from canisters on the Internet Computer.
 - [B3Wallet](https://github.com/B3Pay/b3-wallet) - A decentralized wallet supporting multiple blockchains, including Ethereum, Bitcoin, and ICP.
 
