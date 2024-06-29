@@ -378,6 +378,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 ### Frameworks and Tools
 
 - [ICTC](https://github.com/iclighthouse/ICTC) - Distributed transaction framework for DeFi applications.
+- [ICSI](https://github.com/garudaidr/icp-subaccount-indexer) - Simplify ICRC token tracking and management within sub-accounts using the ICP Sub-Account Indexer.
 
 ### Oracles 
 
