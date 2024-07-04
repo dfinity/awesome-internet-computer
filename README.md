@@ -489,6 +489,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 ## Internet of Things
 
 - [Omnia Network](https://github.com/omnia-network) - A platform that enables canisters to access any IoT device through a uniform HTTP interface.
+- [Staex VTS](https://github.com/staex-io/vts) - Staex Vehicle Tracking System (VTS) - infrastructure to track and invoice vehicles.
 
 ## Decentralized AI
 
