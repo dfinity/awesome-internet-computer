@@ -393,6 +393,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [Formyfi](https://github.com/Talentum-id/formify) - Decentralized & fully on-chain Q&A Forms.
 - [Proton DApp](https://github.com/NeutronStarDAO/Proton) - A social DApp totally based on the Actor model.
+- [RatersApp](https://ratersapp.com) - A blockchain-based SocialFi platform for movie lovers, using ICP for transparent and secure movie reviews. Built with React.js, Next.js, TypeScript, PHP (Laravel), and Node.js, with smart contracts in Azle.
 
 ## DAO Frameworks
 
