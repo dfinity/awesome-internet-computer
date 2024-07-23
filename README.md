@@ -354,6 +354,15 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [EXT](https://github.com/Toniq-Labs/extendable-token) - The extendable token standard inspired by ERC1155.
 - [Origyn NFT](https://github.com/origyn-sa/origyn_nft) - Origyn NFT standard.
 
+### Implementations
+- [ICRC-7 Motoko implementation](https://github.com/PanIndustrial-Org/icrc7.mo)
+- [ICRC-7 Rust Launchpad implementation](https://github.com/tuminfei/icrc7_launchpad)
+- [ICRC-7 Motoko Launchpad implementation](https://github.com/letmejustputthishere/icrc7_launchpad)
+- [ICRC-7 Rust implementation](https://github.com/UncensoredGreats/NFT/)
+- [ICRC-7 Rust implementation](https://github.com/pramitgaha21/icrc7)
+- [ICRC-7 Rust implementation](https://github.com/tuminfei/yuku_icrc7)
+- [EXT Motoko implementation](https://github.com/flowerpowerdao/power-equalizer)
+
 ### Analytical Methodologies 
 
 - [OutRank-Rarity](https://github.com/OutRankNFT/OutRank-Rarity) - implementation of  mathematical code to calculate rarity within NFT collections in Python and Rust
