@@ -383,6 +383,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [Spinner](https://github.com/spinner-cash/spinner) - Private transactions using zkSNARKs.
 - [Sonic LBP](https://lbp.sonic.ooo) - Fair launch token sales and raise funds using Liquidity Bootstraping Pool.
 - [BrownFi](https://github.com/BrownFi/BrownFi-AMM-ICP) - Simple AMM with high Capital Effifiency
+- [Fomowell](https://github.com/fomowell) - FomoWell is an innovative fair launch platform tailored for Web3 projects. 
 
 ### Frameworks and Tools
 
