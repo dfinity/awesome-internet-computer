@@ -378,7 +378,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 ## Decentralized Finance (DeFi)
 
 ### Exchanges
-
+- [ICPEx Adapter](https://github.com/ICPExchange/adapters-doc) - Used for quick access to the ICPEx, enabling fast execution of swap, create token, create pool, and other functions.
 - [DeSwap Orderbook](https://github.com/iclighthouse/DeSwap-Orderbook) - An Order Matching Engine Module for Dex in Motoko.
 - [Spinner](https://github.com/spinner-cash/spinner) - Private transactions using zkSNARKs.
 - [Sonic LBP](https://lbp.sonic.ooo) - Fair launch token sales and raise funds using Liquidity Bootstraping Pool.
