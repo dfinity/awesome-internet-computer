@@ -440,6 +440,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [ic-siwe](https://github.com/kristoferlund/ic-siwe) - Authentication library to enable SIWE (Sign in with Ethereum) functionality for ICP applications.
 - [ic-siws](https://github.com/kristoferlund/ic-siws) – Authentication library to enable SIWS (Sign in with Solana) functionality for ICP applications.
 - [connect2ic](https://connect2ic.github.io/docs/) - A frontend auth library & toolkit for the Internet Computer.
+- [IC-PayPortal](https://github.com/Expeera/IC-PayPortal/tree/phase-3) - The IC-PayPortal Motoko is a library that provides developers with a set of functions for managing Expeeras on the Internet Computer Protocol (ICP). This module enables seamless integration of popular Expeera gateways such as `Stripe` and `Paypal` into Motoko applications.
 
 ## Dashboards, Explorers and Registries
 
