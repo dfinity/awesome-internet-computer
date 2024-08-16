@@ -490,7 +490,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Omnic](https://github.com/rocklabs-io/omnic) - Cross-chain messaging protocol to connect EVM-compatible chains via the Internet Computer.
 - [Orally](https://github.com/orally-network/oracle) - Cross-chain oracle factory built on HTTPS Outcalls and Chain-key ECDSA.
 - [Gitcoin Passport Client](https://github.com/vporton/passport-client-dfinity) - a sample app for securely retrieving Gitcoin Passport scores and store them into a DB.
-
+- [Evm Rust Bridge](https://github.com/Stephen-Kimoi/icp-evm-rust-bridge) - A seamless Rust-based starter template for integrating ICP canisters with EVM-based smart contracts.
 
 ### Solana
 
