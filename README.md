@@ -505,6 +505,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 - [ArcMind AI](https://github.com/arcmindai/arcmindai) - LLM-powered autonomous agent that uses Chain of thoughts for reasoning, taking actions, and completing goals. [Try the app here](https://arcmindai.app)
 - [ArcMind Vector DB](https://github.com/arcmindai/arcmindvector) - A Vector DB with similarity search supporting text, image, and audio embeddings, based on k-d tree, useful for AI applications like recommendation and Retrieval-Augmented Generation.
+- [Cipher AI Vault](https://github.com/supaIC/Cipher-AI-Vault) - Azle-based PoC with in-memory VectorDB & LLM, secure asset & data storage, cycles topup, and multi-wallet authentication, showcasing fully-sandboxed AI on the Internet Computer. [Try it here](https://qehbq-rqaaa-aaaan-ql2iq-cai.icp0.io/)
 - [DataPond.ai integration with ICP](https://github.com/ReCheck-io/icp-datapond-integration) - ICP-enabled Retrieval Augmented Generation (RAG) tool for transparent AI data feeding and data tracing on the ICP network [Try it here](https://icp-prod.datapond.ai).
 - [DeAI Technical Working Group](https://github.com/DeAIWorkingGroupInternetComputer/DeAIWorkingGroupInternetComputer) - Repo of the ICP DeAI WG with weekly call summaries and additional resources.
 - [DeVinci](https://github.com/patnorris/DecentralizedAIonIC) - AI chatbot running in user's browser based on open-source LLM and served from the Internet Computer. [Try it here](https://x6occ-biaaa-aaaai-acqzq-cai.icp0.io/).
