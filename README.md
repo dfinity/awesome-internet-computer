@@ -150,7 +150,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### Java
 
 - [ic4j-agent](https://github.com/ic4j/ic4j-agent) - Libraries for interfacing with the IC using Java (Android compatible).
-- [ic4j-websocket](https://github.com/ic4j/ic4j-websocket) - Library for for interfacing with the IC via WebSocket using Java (Android compatible).
+- [ic4j-websocket](https://github.com/ic4j/ic4j-websocket) - Library for interfacing with the IC via WebSocket using Java (Android compatible).
 
 ### Ruby
 
