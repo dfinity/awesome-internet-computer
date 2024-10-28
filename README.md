@@ -366,6 +366,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [ICRC-7 Rust implementation](https://github.com/pramitgaha21/icrc7)
 - [ICRC-7 Rust implementation](https://github.com/tuminfei/yuku_icrc7)
 - [EXT Motoko implementation](https://github.com/flowerpowerdao/power-equalizer)
+- [ICRC-1 Rust implementation](https://github.com/dfinity/ic/tree/master/rs/ledger_suite/icrc1)
 
 ### Analytical Methodologies
 
