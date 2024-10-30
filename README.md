@@ -522,6 +522,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [DeAI Technical Working Group](https://github.com/DeAIWorkingGroupInternetComputer/DeAIWorkingGroupInternetComputer) - Repo of the ICP DeAI WG with weekly call summaries and additional resources.
 - [DeVinci](https://github.com/patnorris/DecentralizedAIonIC) - AI chatbot running in user's browser based on open-source LLM and served from the Internet Computer. [Try it here](https://x6occ-biaaa-aaaai-acqzq-cai.icp0.io/).
 - [ICGPT](https://github.com/icppWorld/icgpt) - dApp with React front-end & C/C++ back-ends running LLMs fully on chain. [Try it here](https://icgpt.icpp.world/).
+- [llama_cpp_canister](https://github.com/onicai/llama_cpp_canister) - llama.cpp for the Internet Computer. (Note: used as a backend for [ICGPT](https://icgpt.icpp.world/))
 - [ic-mnist](https://github.com/smallstepman/ic-mnist) - MNIST (considered to be `hello world` of machine learning) running on IC using [burn](https://github.com/tracel-ai/burn) crate. [Try it here](https://jsi2g-jyaaa-aaaam-abnia-cai.icp0.io/).
 - [ELNA AI](https://github.com/elna-ai) - Fully on-chain Al agent creation platform & marketplace, supporting on- and off-chain LLMs, vector DB and tools. [Try it here](https://dapp.elna.ai/)
 - [Tensorflow on ICP](https://github.com/carlosarturoceron/decentAI) - An example that loads and uses a pre-trained model for predictions within a canister running on ICP using Azle.
