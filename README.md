@@ -531,6 +531,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Rust-Connect-Py-AI-to-IC](https://github.com/jeshli/rust-connect-py-ai-to-ic) - A streamlined open-source tool for deploying Python AI models on ICP.
 - [Vectune](https://github.com/ClankPan/Vectune) - A lightweight vector database with incremental indexing based on FreshVamana for retrieval-augmented generation (RAG).
 - [yllama](https://github.com/gip/yllama.oc) - An on-chain Llama 3 inference engine optimized for real-world workloads using non-quantized 8b parameters Llama models.
+- [ICSoccerWorld Trainer](https://github.com/ktimam/SoccerTrainer) - Flashlight multilayer perceptron deep learning used for training soccer agents on ICP.
 
 ## ZK
 
