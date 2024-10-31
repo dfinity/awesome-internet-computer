@@ -479,7 +479,6 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Multi-Subnet Bitcoin Wallet](https://github.com/sardariuss/ic_btc_multisig) - Proof-of-Concept of multi-subnet Bitcoin custody for increased secruty.
 - [Loka](https://github.com/lokaverse/loka_canister) - Trustless Non-Custodial Bitcoin Mining Platform built on ICP.
 - [Ordinals Canister](https://github.com/sardariuss/ordinals_canister) - A canister that enables the retrieval of BTC ordinals and their corresponding inscriptions.
-- [Schnorr Canister](https://github.com/domwoe/schnorr_canister) - A canister to create Schnorr signatures compatible with Taproot.
 - [Inscription Canister](https://github.com/domwoe/inscription_canister) - A canister to create Ordinal inscriptions.
 
 ### Ethereum
