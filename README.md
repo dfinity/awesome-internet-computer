@@ -334,6 +334,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [Sudograph](https://github.com/sudograph/sudograph) - A GraphQL database for the IC.
 - [Certified Blockchain](https://github.com/Factland/ic-certified-blockchain) - Certified blockchain log on on the IC. This can be validated using only the NNS public key: [Validation](https://github.com/Factland/certified-blockchain-verification).
 - [ic-oss](https://github.com/ldclabs/ic-oss) - A decentralized Object Storage Service on the IC.
+- [ic-cose](https://github.com/ldclabs/ic-cose) - A decentralized COnfiguration service with Signing and Encryption on the IC.
 
 ## Infrastructure
 
