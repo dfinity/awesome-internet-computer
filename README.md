@@ -267,6 +267,7 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 - [IC Certification](https://github.com/nomeata/ic-certification) - Merkle Tree and support for certified variables and assets.
 - [Server](https://github.com/krpeacock/server) - An Express-style http framework for serving certified http responses from canisters.
 - [ic-websocket-cdk](https://mops.one/ic-websocket-cdk) - IC WebSocket CDK for canisters written in Motoko.
+- [IC-TEE](https://github.com/ldclabs/ic-tee) - A framework to make Trusted Execution Environments (TEEs) work with the Internet Computer.
 
 ## Candid
 
@@ -334,6 +335,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [Sudograph](https://github.com/sudograph/sudograph) - A GraphQL database for the IC.
 - [Certified Blockchain](https://github.com/Factland/ic-certified-blockchain) - Certified blockchain log on on the IC. This can be validated using only the NNS public key: [Validation](https://github.com/Factland/certified-blockchain-verification).
 - [ic-oss](https://github.com/ldclabs/ic-oss) - A decentralized Object Storage Service on the IC.
+- [ic-cose](https://github.com/ldclabs/ic-cose) - A decentralized COnfiguration service with Signing and Encryption on the IC.
 
 ## Infrastructure
 
@@ -377,6 +379,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [Messity](https://www.messity.com/) - An open and nonproprietary decentralized messaging protocol.
 - [OpenChat](https://github.com/open-ic/open-chat) - An open chat app.
 - [W3NS](https://github.com/miguelToscano/w3ns) - An Internet Computer service for notifications.
+- [dMsg](https://dmsg.net/) - A decentralized end-to-end encrypted messaging app.
 
 ## Decentralized Finance (DeFi)
 
