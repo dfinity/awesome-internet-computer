@@ -554,7 +554,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [David dal Busco's blog](https://daviddalbusco.com/blog/) - Blog with many hands-on articles on IC development.
 - [ICP Analysis](https://kylelangham.substack.com/) - Kyle Langham's writings about data analysis on the IC ecosystem.
 - [Joachim Breitner's blog](https://www.joachim-breitner.de/blog/tag/Internet_Computer) - Articles on IC development and Candid.
-- [Kyle Peacocks's blog](https://kyle-peacock.com/blog/) - Notes on IC development and more.
+- [Kaia Peacocks's blog](https://kaipeacock.com/tags/dfinity/) - Notes on IC development and more.
 - [mmapped](https://mmapped.blog/) - Roman Kashitsyn's blog about IC internals and development.
 - [icAcademy](https://blog.icacademy.at/) - Roland Bole's blog on Mastering Your Transition from Web 2.0 to Web 3.0.
 
