@@ -425,10 +425,10 @@ Candid is an interface description language (IDL) for interacting with canisters
 For Unity-compatible client libraries, see [C# agents](#C#).
 For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
+- [ICPGameKit by Morgan Page](https://github.com/morganpage/ic-gamekit) - A drop-in solution for adding achievements, and game and user data saves on-chain using ICP.
 - [BoomDAO World Protocol](https://github.com/BoomDAO/world-protocol) - An on-chain game server protocol weaving together ICP games into one universally accessible database.
 - [BoomDAO Unity template](https://github.com/BoomDAO/unity-template) - Unity template with wallet integration and NFT fetching.
 - [Internet Computer GameKit](https://github.com/dfinity/ic-gamekit) - Toolkit for building games on the IC.
-- [ICPGameKit by Morgan Page](https://github.com/morganpage/ic-gamekit) - A drop-in solution for adding achievements, and game and user data saves on-chain using ICP.
 - [Unity Play To Earn Sample](https://github.com/therealbryanho/IC-Code-Sample-Unity-Play-to-Earn-Game) - Example of how to deploy a Unity play to earn game on the IC.
 - [WebGL Sample](https://internetcomputer.org/docs/current/samples/host-a-webgame) - Example of how to host a WebGL game on the IC.
 - [Wheel of Fortune](https://github.com/temokoki/IC_Wheel_of_Fortune) - Example of II authentication, self-controlling canister (waits for players and chooses winner randomly) and ICP coin transferring (sub-account creation for participants and withdrawal functionality)
