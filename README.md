@@ -530,7 +530,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Tensorflow on ICP](https://github.com/carlosarturoceron/decentAI) - An example that loads and uses a pre-trained model for predictions within a canister running on ICP using Azle.
 - [MotokoLearn](https://github.com/ildefons/motokolearn) - A Motoko package meant to facilitate on-chain training and inference of machine learning models where having a large GPU is not a requirement.
 - [Tract-IC-AI](https://github.com/jeshli/tract-ic-ai) - An ICP version of Tract, a tiny, no-nonsense, self-contained, Tensorflow and ONNX inference toolkit.
-- [Rust-Connect-Py-AI-to-IC](https://github.com/jeshli/rust-connect-py-ai-to-ic) - A streamlined open-source tool for deploying Python AI models on ICP.
+- [Rust-Connect-Py-AI-to-IC](https://github.com/modclub-app/rust-connect-py-ai-to-ic) - A streamlined open-source tool for deploying Python AI models on ICP.
 - [Vectune](https://github.com/ClankPan/Vectune) - A lightweight vector database with incremental indexing based on FreshVamana for retrieval-augmented generation (RAG).
 - [yllama](https://github.com/gip/yllama.oc) - An on-chain Llama 3 inference engine optimized for real-world workloads using non-quantized 8b parameters Llama models.
 - [ICSoccerWorld Trainer](https://github.com/ktimam/SoccerTrainer) - Flashlight multilayer perceptron deep learning used for training soccer agents on ICP.
