@@ -509,6 +509,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 ### Solana
 
 - [Galactic Bridge](https://github.com/weichain/galactic-bridge-icp) - Canister-controlled SOL bridge using Chain Fusion tech.
+- [Solana RPC Canister](https://github.com/mfactory-lab/ic-solana) - Interact with Solana blockchain from the Internet Computer.
 
 ## Internet of Things
 
