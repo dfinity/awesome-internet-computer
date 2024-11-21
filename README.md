@@ -149,10 +149,11 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 - [icp-client-cpp](https://github.com/Zondax/icp-client-cpp) - C/C++ wrapper for agent-rs.
 
-### Java
+### Java/Kotlin
 
+- [Icp Kotlin Kit](https://github.com/ThomasConstantinBity/ICP-Kotlin-Kit) - kotlin library to interact with IC. Provides a candid file parser to parse candid files to kotlin and interact with canisters.
 - [ic4j-agent](https://github.com/ic4j/ic4j-agent) - Libraries for interfacing with the IC using Java (Android compatible).
-- [ic4j-websocket](https://github.com/ic4j/ic4j-websocket) - Library for for interfacing with the IC via WebSocket using Java (Android compatible).
+- [ic4j-websocket](https://github.com/ic4j/ic4j-websocket) - Library for interfacing with the IC via WebSocket using Java (Android compatible).
 
 ### Ruby
 
