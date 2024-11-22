@@ -474,6 +474,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [evm-rpc-canister-types](https://crates.io/crates/evm-rpc-canister-types) – Types for interacting with the EVM RPC canister.
 - [Chain-key ECDSA](https://internetcomputer.org/how-it-works/threshold-ecdsa-signing/) - Tech that allows creating transactions targeting various chains from canisters on the Internet Computer.
 - [B3Wallet](https://github.com/B3Pay/b3-wallet) - A decentralized wallet supporting multiple blockchains, including Ethereum, Bitcoin, and ICP.
+- [Medblock](https://github.com/baliola/Medblock) - Medblock is a secure mobile app that puts medical records in patients' hands while helping hospitals manage healthcare data efficiently through blockchain technology.
 
 ### Bitcoin
 
