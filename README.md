@@ -214,6 +214,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [canister-tools](https://github.com/levifeldman/canister-tools) - Take snapshots of the canister-data and download/upload snapshots. Simple upgrades. Common tools for Rust canisters.
 - [wasi2ic](https://github.com/wasm-forge/wasi2ic) - Convert WASI binaries into binaries runnable on the IC.
 - [setup-dfx](https://github.com/dfinity/setup-dfx) – GitHub Action to set up dfx
+- [ICP Support](https://marketplace.visualstudio.com/items?itemName=blockydevs.vscode-motoko-helper) - VS Code extension for deploying and interacting with canisters directly from within the editor.
 
 ### Testing
 
