@@ -159,6 +159,10 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 - [ic_agent](https://github.com/tuminfei/ic_agent) - Basic modules to interact with the IC using Ruby.
 
+### Elixir
+
+- [icp_agent](https://github.com/diodechain/icp_agent) - Agent for making ICP queries and calls from elixir.
+
 ### Swift
 
 - [IcpKit](https://github.com/kosta-bity/IcpKit) - Native Swift library for interacting with IC on iOS/MacOS. Provides implementation for Ledger canister.
@@ -305,6 +309,10 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [ic-elm](https://github.com/chenyan2002/ic-elm/) - A template for using Elm to develop frontend user interface for the Internet Computer.
 
+#### Elixir
+
+- [candid](https://github.com/diodechain/candid) - Elixir library for encoding/decoding Candid.
+
 #### Haskell
 
 - [haskell-candid](https://github.com/nomeata/haskell-candid) - Haskell library for Candid to Haskell.
@@ -382,6 +390,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [OpenChat](https://github.com/open-ic/open-chat) - An open chat app.
 - [W3NS](https://github.com/miguelToscano/w3ns) - An Internet Computer service for notifications.
 - [dMsg](https://dmsg.net/) - A decentralized end-to-end encrypted messaging app.
+- [Diode](https://diode.io/) - Decentralized team collaboration app for mobile & desktop
 
 ## Decentralized Finance (DeFi)
 
