@@ -125,6 +125,10 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [agent-rs](https://github.com/dfinity/agent-rs) - Collection of libraries and tools for interfacing with the IC using Rust.
 - [dfx](https://github.com/dfinity/sdk) - Commandline tool to interact with the IC written in Rust.
 
+### Python
+
+- ⚠️ UNMAINTAINED ⚠️ [ic-py](https://github.com/rocklabs-io/ic-py) - Library for interfacing with the IC using Python.
+
 ### Dart/Flutter
 
 - [agent_dart](https://github.com/AstroxNetwork/agent_dart) - Framework to build mobile applications.
@@ -132,6 +136,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### Go
 
 - [agent-go](https://github.com/aviate-labs/agent-go) - Libraries for interfacing with the IC using Go.
+- ⚠️ UNMAINTAINED ⚠️ [ic-go](https://github.com/mix-labs/IC-Go) - Libraries for interfacing with the IC using Go.
 
 ### C
 
@@ -147,6 +152,10 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [Icp Kotlin Kit](https://github.com/ThomasConstantinBity/ICP-Kotlin-Kit) - kotlin library to interact with IC. Provides a candid file parser to parse candid files to kotlin and interact with canisters.
 - [ic4j-agent](https://github.com/ic4j/ic4j-agent) - Libraries for interfacing with the IC using Java (Android compatible).
 - [ic4j-websocket](https://github.com/ic4j/ic4j-websocket) - Library for interfacing with the IC via WebSocket using Java (Android compatible).
+
+### Ruby
+
+- ⚠️ UNMAINTAINED ⚠️ [ic_agent](https://github.com/tuminfei/ic_agent) - Basic modules to interact with the IC using Ruby.
 
 ### Elixir
 
