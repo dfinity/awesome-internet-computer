@@ -292,7 +292,6 @@ Candid is an interface description language (IDL) for interacting with canisters
 #### Dart
 
 - [candid_dart](https://github.com/AstroxNetwork/candid_dart) - Dart library of Candid.
-- [ic_tools_dart](https://github.com/levifeldman/ic_tools_dart) - Dart library of Candid.
 
 #### Elm
 
