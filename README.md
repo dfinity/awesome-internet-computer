@@ -401,6 +401,8 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [Sonic LBP](https://lbp.sonic.ooo) - Fair launch token sales and raise funds using Liquidity Bootstraping Pool.
 - [BrownFi](https://github.com/BrownFi/BrownFi-AMM-ICP) - Simple AMM with high Capital Effifiency
 - [Fomowell](https://github.com/fomowell) - FomoWell is an innovative fair launch platform tailored for Web3 projects.
+- [ICP-ChainVault](https://github.com/samarabdelhameed/icp-chainvault) - A secure and decentralized vault system for managing digital assets on the Internet Computer.
+
 
 ### Frameworks and Tools
 
