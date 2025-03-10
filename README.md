@@ -491,6 +491,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Internet Computer Bitcoin Library](https://github.com/Benjamin-Loison/Internet-Computer-Bitcoin-Library) - Utility libraries for Motoko/Rust to simplify building on the Bitcoin Integration.
 - [Multi-Subnet Bitcoin Wallet](https://github.com/sardariuss/ic_btc_multisig) - Proof-of-Concept of multi-subnet Bitcoin custody for increased secruty.
 - [Loka](https://github.com/lokaverse/loka_canister) - Trustless Non-Custodial Bitcoin Mining Platform built on ICP.
+- [runes-indexer](https://github.com/octopus-network/runes-indexer) – An onchain runes indexer on the Internet Computer.
 - [Ordinals Canister](https://github.com/sardariuss/ordinals_canister) - A canister that enables the retrieval of BTC ordinals and their corresponding inscriptions.
 - [Inscription Canister](https://github.com/domwoe/inscription_canister) - A canister to create Ordinal inscriptions.
 
