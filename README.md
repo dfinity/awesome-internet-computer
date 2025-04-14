@@ -201,6 +201,9 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 - [cdk-as](https://github.com/rckprtr/cdk-as) - AssemblyScript CDK.
 
+### Moonbit
+- [moonbit-ic-cdk](https://github.com/eliezhao/moonbit-ic-cdk) - A lightweight, WebAssembly-native Canister Development Kit (CDK) for building smart contracts on the Internet Computer (ICP) with the MoonBit language.
+
 ## Dapp Development Platforms and Frameworks
 
 - [Ego](https://github.com/EgoDevs/ego) - Framework to build wallet apps, i.e. user-controlled canisters.
