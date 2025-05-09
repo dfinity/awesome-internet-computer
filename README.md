@@ -333,6 +333,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 #### Motoko
 
 - [motoko_candid](https://github.com/edjcase/motoko_candid) - Library that enables encoding/decoding of bytes to candid values.
+- [motoko_regex](https://github.com/demali-876/motoko_regex_engine) Library for native pattern matching on the Internet Computer.
 
 ## Storage and Databases
 
