@@ -423,6 +423,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [Formyfi](https://github.com/Talentum-id/formify) - Decentralized & fully on-chain Q&A Forms.
 - [Proton DApp](https://github.com/NeutronStarDAO/Proton) - A social DApp totally based on the Actor model.
 - [RatersApp](https://ratersapp.com) - A blockchain-powered SocialFi platform for movie lovers enhanced with ICP for transparent and secure movie reviews. Developed with React.js, Next.js, TypeScript, PHP (Laravel), Node.js, and Azle for canister building.
+- [PartyBoard](https://tsoel-7yaaa-aaaai-alcva-cai.icp0.io) - PartyBoard is an AI-driven full-chain social tool. It is an AI Agent platform built on DFINITY and is dedicated to enhancing people's social skills and improving social efficiency. In PartyBoard, you can customize the personality of your own AI Agent, interact manually or automatically with other users' AI Agents, inspire more social inspiration, and explore new possibilities for the fan economy.
 
 ## DAO Frameworks
 
