@@ -208,7 +208,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 - [Ego](https://github.com/EgoDevs/ego) - Framework to build wallet apps, i.e. user-controlled canisters.
 - [Juno](https://juno.build/) - Build Web3 at Lightning Speed.
-- [IC Pack](https://dev.package-manager.com) - package manager (app store) for installable self-sovereign apps.
+- [IC Pack](https://dev.package-manager.com) - package manager (app store) for installable self-sovereign remote apps.
 
 ## Developer Tooling
 
