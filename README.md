@@ -286,6 +286,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [didc](https://github.com/dfinity/candid/tree/master/tools/didc) - A multi-purpose tool for Candid.
 - [idl2json](https://github.com/dfinity/idl2json) - Command line tool for converting Candid to JSON.
 - [Intellij Candid Plugin](https://github.com/Alaanor/candid-intellij-plugin) - A Candid language plugin for editing .did files.
+- [generate-did](https://crates.io/crates/generate-did) - A tool to generate Candid (.did) files for Internet Computer Rust canisters. 
 
 ### Candid implementations
 
