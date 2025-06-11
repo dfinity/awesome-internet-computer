@@ -506,6 +506,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ### Ethereum
 
+- [BOLD Autonmous Interest Rate Manager for Liquity v2 Troves](https://github.com/liquity/bold-ir-management)
 - [Bitfinity EVM](https://bitfinity.network) - An Ethereum Virtual Machine (EVM) on ICP.
 - [CCAMP](https://github.com/usherlabs/ccamp) - General-purpose, modular, and custom data-driven Cross-chain Asset Management Protocol.
 - [ChainSight](https://docs.chainsight.network/chainsight-overview/introduction) - Composable cross-chain data oracles built on HTTPS Outcalls and Chain-key ECDSA.
