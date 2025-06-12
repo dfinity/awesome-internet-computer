@@ -468,6 +468,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [ic-siwb](https://github.com/AstroxNetwork/ic-siwb) – Authentication library to enable SIWB (Sign in with Bitcoin) functionality for ICP applications.
 - [ic-sis](https://github.com/Talentum-id/ic_sis) – Authentication library to enable SIS (Sign in with SUI) functionality for ICP applications.
 - [connect2ic](https://connect2ic.github.io/docs/) - A frontend auth library & toolkit for the Internet Computer.
+- [IC-PayPortal](https://github.com/Expeera/IC-PayPortal/tree/phase-3) - Module for Motoko is a library that provides developers with a set of functions for managing fiat payments (Stripe, PayPal) on the Internet Computer Protocol (ICP).
 
 ## Dashboards, Explorers and Registries
 
