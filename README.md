@@ -26,7 +26,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Infrastructure](#infrastructure)
 - [Fungible and Non-fungible Tokens (NFTs)](#fungible-and-non-fungible-tokens-nfts)
 - [Messaging](#messaging)
-- [Decentralized Finance](#decentralized-finance)
+- [Decentralized Finance (DeFi)](#decentralized-finance-defi)
 - [DAO Frameworks](#dao-frameworks)
 - [Game Development](#game-development)
 - [Wallets and Authentication](#wallets-and-authentication)
@@ -363,7 +363,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [ICRC-1](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-1/README.md) - Base fungible token standard.
 - [ICRC-2](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-2/README.md) - Extension to support `approve` and `transfer_from`.
-- [ICRC-7](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-7/ICRC-7.md) - Base Non-Fungible Token (NFT) Standard.
+- [ICRC-7](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-7/ICRC-7.md) - Base NFT Standard.
 
 #### Other Interface Standards
 
@@ -374,19 +374,20 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 ### Implementations
 
-- [ICRC-7 Rust implementation](https://github.com/ORIGYN-SA/nft)
-- [ICRC-7 Motoko implementation](https://github.com/PanIndustrial-Org/icrc7.mo)
-- [ICRC-7 Rust Launchpad implementation](https://github.com/tuminfei/icrc7_launchpad)
-- [ICRC-7 Motoko Launchpad implementation](https://github.com/letmejustputthishere/icrc7_launchpad)
-- [ICRC-7 Rust implementation](https://github.com/UncensoredGreats/NFT/)
-- [ICRC-7 Rust implementation](https://github.com/pramitgaha21/icrc7)
-- [ICRC-7 Rust implementation](https://github.com/tuminfei/yuku_icrc7)
-- [EXT Motoko implementation](https://github.com/flowerpowerdao/power-equalizer)
-- [ICRC-1 Rust implementation](https://github.com/dfinity/ic/tree/master/rs/ledger_suite/icrc1)
+- [ICRC-1/2/3 Rust](https://github.com/dfinity/ic/tree/master/rs/ledger_suite/icrc1) - Fungible token reference implementation by DFINITY.
+- [ICRC-1/2/3 Motoko](https://github.com/PanIndustrial-Org/ICRC_fungible) - Fungible token reference implementation by Pan Industrial.
+- [ICRC-7 Rust](https://github.com/ORIGYN-SA/nft) - NFT reference implementation by ORIGYN.
+- ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust](https://github.com/UncensoredGreats/NFT/) - NFT launchpad example implementation by `UncensoredGreats`.
+- ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust](https://github.com/pramitgaha21/icrc7) - NFT launchpad example implementation by `pramitgaha21`.
+- ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust](https://github.com/tuminfei/yuku_icrc7) - NFT launchpad example implementation by `tuminfei`.
+- ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust Launchpad](https://github.com/tuminfei/icrc7_launchpad) - NFT launchpad example implementation by `tuminfei`.
+- [ICRC-7 Motoko](https://github.com/PanIndustrial-Org/icrc7.mo) - NFT reference implementation by Pan Industrial.
+- [ICRC-7 Motoko Launchpad](https://github.com/letmejustputthishere/icrc7_launchpad) - NFT launchpad example implementation by `letmejustputthishere`.
+- [EXT Motoko](https://github.com/flowerpowerdao/power-equalizer) - NFT implementation for the EXT standard by `flowerpowerdao`.
 
 ### Analytical Methodologies
 
-- [OutRank-Rarity](https://github.com/OutRankNFT/OutRank-Rarity) - implementation of mathematical code to calculate rarity within NFT collections in Python and Rust
+- [OutRank-Rarity](https://github.com/OutRankNFT/OutRank-Rarity) - Implementation of mathematical code to calculate rarity within NFT collections in Python and Rust
 
 ## Messaging
 
@@ -567,9 +568,9 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ## How it works / Deep dives
 
+- [Internet Computer Learn Hub](https://learn.internetcomputer.org) - Learn how the IC realizes the vision of the World Computer.
 - [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
 - [Internet Computer Wiki](https://wiki.internetcomputer.org/wiki/Internet_Computer_wiki) - General knowledge resource about the Internet Computer.
-- [How it works](https://internetcomputer.org/how-it-works) - Learn how the IC realizes the vision of the World Computer.
 - [Constellation Book](https://neutronstardao.github.io/constellation.github.io/about.html) - Explains the underlying principles of IC in a simple and easy-to-understand manner.
 
 ## Blogs
@@ -585,11 +586,8 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 ## Communities and Communication
 
 - [DFINITY Developer Forum](https://forum.dfinity.org/) - Main forum about the Internet Computer.
+- [ICP Discord](https://discord.internetcomputer.org) - Developer-oriented community Discord where DFINITY hosts office hours for technical Q&A.
 - [IC Dev PR Handbook](https://dfinityorg.notion.site/Let-s-get-you-some-attention-c7eaabbc87d142f5baa92096cadc181f?pvs=4) - PR support for devs and projects in the IC ecosystem.
-- [IC Developer Community Discord](https://discord.gg/jnjVVQaE2C) - Developer-oriented community Discord.
-- [ICP Discord](https://discord.gg/FygMb5VyCQ) - Multi-language server for the broader community.
-- [ICP League](https://qbw7d-giaaa-aaaaj-aalta-cai.ic0.app/) - Fostering a world-class community for Internet Computer Ecosystem.
-- [Internet Computer Academy](https://internetcomputer.academy/) - Open-source and community-driven knowledge base about the IC.
 
 ## Bounties and Grants
 
