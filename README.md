@@ -221,6 +221,10 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [setup-dfx](https://github.com/dfinity/setup-dfx) – GitHub Action to set up dfx
 - [ICP Support](https://marketplace.visualstudio.com/items?itemName=blockydevs.vscode-motoko-helper) - VS Code extension for deploying and interacting with canisters directly from within the editor.
 - [Canister DNS](https://canisterdns.stevekimoi.me) - A tool to easily connect your custom domain to your canister URL, supporting both main domains and subdomains.
+- [pluto](https://github.com/Forge-3/pluto) – Rust framework for serving HTTP from a canister
+- [liminal](https://github.com/edjCase/liminal) – A Motoko, middleware-based framework for serving HTTP from a canister.
+
+
 
 ### Testing
 
