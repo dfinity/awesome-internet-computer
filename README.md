@@ -229,7 +229,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [pic-js](https://github.com/hadronous/pic-js) - A TypeScript/JavaScript library for testing canisters with support for PocketIC.
 - [canister-profiling](https://github.com/dfinity/canister-profiling) - Code & scripts for collecting performance data for canisters.
 - [ic-repl](https://github.com/chenyan2002/ic-repl) - A REPL environment to communicate with canisters. Allows to write E2E integration tests.
-- [ic-test](https://github.com/wasm-forge/ic-test) - Automatically generate Rust canister test project and canister bindings for end-to-end testing.
+- [ic-test](https://github.com/wasm-forge/ic-test) - Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.
 - [lightic](https://github.com/icopen/lightic) - Write & Run tests for any canister in JS/TS. Canisters will be run inside nodejs environment, no DFX.
 
 ### Benchmarking
@@ -508,6 +508,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 ### Ethereum
 
 - [BOLD Autonomous Interest Rate Manager for Liquity v2 Troves](https://github.com/liquity/bold-ir-management)
+- [ic-test](https://github.com/wasm-forge/ic-test) - Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.
 - [Bitfinity EVM](https://bitfinity.network) - An Ethereum Virtual Machine (EVM) on ICP.
 - [CCAMP](https://github.com/usherlabs/ccamp) - General-purpose, modular, and custom data-driven Cross-chain Asset Management Protocol.
 - [ChainSight](https://docs.chainsight.network/chainsight-overview/introduction) - Composable cross-chain data oracles built on HTTPS Outcalls and Chain-key ECDSA.
