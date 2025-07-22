@@ -461,6 +461,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Internet Identity](https://github.com/dfinity/internet-identity) - Pseudoymous authentication system for the Internet Computer.
 - [NFID](https://nfid.one/) - Digital identity for signing in to applications privately and securely.
 - [NNS Dapp](https://nns.ic0.app/) - Stake ICP in neurons, participate in governance and decentralization sales.
+- [Payments Wallet](https://docs.package-manager.com/payments-wallet-the-wallet-of-ic-pack-ecosystem/) - A Wallet installed into user's canister for maximum security. Supports payment thresholds. Will support in-app payments.
 - [Plug](https://plugwallet.ooo/) - Chrome extension and mobile wallet.
 - [Stoic](https://www.stoicwallet.com/) - Web wallet.
 
