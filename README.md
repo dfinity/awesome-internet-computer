@@ -400,6 +400,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [W3NS](https://github.com/miguelToscano/w3ns) - An Internet Computer service for notifications.
 - [dMsg](https://dmsg.net/) - A decentralized end-to-end encrypted messaging app.
 - [Diode](https://diode.io/) - Decentralized team collaboration app for mobile & desktop
+- [ic-telegram-bot](https://github.com/nomeata/ic-telegram-bot) - A telegram bot on the Internet Computer
 
 ## Decentralized Finance (DeFi)
 
