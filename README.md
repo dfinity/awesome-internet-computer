@@ -508,6 +508,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Multi-Subnet Bitcoin Wallet](https://github.com/sardariuss/ic_btc_multisig) - Proof-of-Concept of multi-subnet Bitcoin custody for increased secruty.
 - [Loka](https://github.com/lokaverse/loka_canister) - Trustless Non-Custodial Bitcoin Mining Platform built on ICP.
 - [runes-indexer](https://github.com/octopus-network/runes-indexer) – An onchain runes indexer on the Internet Computer.
+- [Bitcoin Metaprotocols Canister](https://github.com/maestro-org/maestro-bitcoin-metaprotocols-canister) – An onchain Bitcoin metaprotocol indexer on the Internet Computer.
 - [Ordinals Canister](https://github.com/sardariuss/ordinals_canister) - A canister that enables the retrieval of BTC ordinals and their corresponding inscriptions.
 - [Inscription Canister](https://github.com/domwoe/inscription_canister) - A canister to create Ordinal inscriptions.
 
