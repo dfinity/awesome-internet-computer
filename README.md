@@ -600,7 +600,6 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ## Bounties and Grants
 
-- [DFINITY Developer Grants and Bounties](http://dfinity.org/grants) / [Requests and Discussions](https://github.com/dfinity/grant-rfps/discussions) - Developer Grant and Bounty program provided by the DFINITY foundation.
+- [DFINITY Developer Grants](http://dfinity.org/grants) - Developer Grant program provided by the DFINITY foundation.
 - [Requests for Startups](https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md) - A list of ideas for startups to build on the Internet Computer.
 - [ICDevs Bounties](https://icdevs.org/bounties.html) - Code bounties by the ICDevs organization.
-- [Video: Overview of the Developer Grants Program](https://www.youtube.com/watch?v=hoYo-c9SMfQ) - A video that explains the objective and the process of the DFINITY Developer Grants program.
