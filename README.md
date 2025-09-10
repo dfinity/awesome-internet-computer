@@ -541,6 +541,9 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Galactic Bridge](https://github.com/weichain/galactic-bridge-icp) - Canister-controlled SOL bridge using Chain Fusion tech.
 - [Solana RPC Canister](https://github.com/mfactory-lab/ic-solana) - Interact with Solana blockchain from the Internet Computer.
 
+### Cosmos
+- [ic-cosmos](https://github.com/poroburu/ic-cosmos) – Interact with Cosmos from the Internet Computer.
+
 ## Internet of Things
 
 - [Omnia Network](https://github.com/omnia-network) - A platform that enables canisters to access any IoT device through a uniform HTTP interface.
