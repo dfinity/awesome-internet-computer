@@ -357,7 +357,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 ## Infrastructure
 
 - [IC WebSocket Gateway](https://github.com/omnia-network/ic-websocket-gateway) - Gateway that enables clients to open WebSocket connections with canisters. This is the [HTTP Gateway](https://internetcomputer.org/docs/current/references/http-gateway-protocol-spec/) counterpart for WebSockets.
-- [Idempotent Proxy](https://github.com/ldclabs/idempotent-proxy) - Reverse proxy server with build-in idempotency support written in Rust.
+- [Idempotent Proxy](https://github.com/ldclabs/idempotent-proxy) - Reverse proxy server with built-in idempotency support written in Rust.
 
 ## Fungible and Non-fungible Tokens (NFTs)
 
