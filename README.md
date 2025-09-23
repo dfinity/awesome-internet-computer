@@ -553,6 +553,9 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 ### Cosmos
 - [ic-cosmos](https://github.com/poroburu/ic-cosmos) – Interact with Cosmos from the Internet Computer.
 
+### TON
+- [TON transaction in the Telegram mini app](https://github.com/4iDPS/peymate_ii) - A Telegram mini app for TON transaction, Threshold Schnorr signatures verification, and RPC submission.
+
 ## Internet of Things
 
 - [Omnia Network](https://github.com/omnia-network) - A platform that enables canisters to access any IoT device through a uniform HTTP interface.
