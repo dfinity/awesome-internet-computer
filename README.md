@@ -496,7 +496,6 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Internet Computer Ecosystem Showcase](https://internetcomputer.org/ecosystem) - Curated project registry.
 - [Kinic](https://74iy7-xqaaa-aaaaf-qagra-cai.ic0.app/) - Front-end search engine.
 - [ICP Explorer](https://icp.footprint.network/) - Explorer.
-- [TON transaction in the Telegram mini app](https://github.com/4iDPS/peymate_ii) - A telegram mini app for TON transaction, Threshold Schnorr signatures verification, and RPC submission.
 
 ## Chain Fusion
 
@@ -553,6 +552,9 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ### Cosmos
 - [ic-cosmos](https://github.com/poroburu/ic-cosmos) – Interact with Cosmos from the Internet Computer.
+
+### TON
+- [TON transaction in the Telegram mini app](https://github.com/4iDPS/peymate_ii) - A Telegram mini app for TON transaction, Threshold Schnorr signatures verification, and RPC submission.
 
 ## Internet of Things
 
