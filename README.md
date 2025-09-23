@@ -422,6 +422,11 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [ICTC](https://github.com/iclighthouse/ICTC) - Distributed transaction framework for DeFi applications.
 - [ICSI](https://github.com/garudaidr/icp-subaccount-indexer) - Simplify ICRC token tracking and management within sub-accounts using the ICP Sub-Account Indexer.
 - [ICSpore DCA](https://github.com/ICSpore/dca-v1) - Payment solution for automated DCA purchases
+- [ic-ledger-types](https://crates.io/crates/ic-ledger-types) – A library of types to communicate with the ICP ledger canister.
+- [icrc-ledger-types](https://crates.io/crates/icrc-ledger-types) – This package defines types for interacting with a ledger that is compliant with the ICRC-1 fungible token standard.
+- [icrc-ledger-agent](https://crates.io/crates/icrc-ledger-agent) – This package provides functions for interacting with a ledger that is compliant with the ICRC-1 fungible token standard.
+- [icrc-ledger-client](https://crates.io/crates/icrc-ledger-client) – This package defines functions for interacting from canister code with a ledger that is compliant with the ICRC-1 fungible token standard.
+- [icrc-ledger-client-cdk](https://crates.io/crates/icrc-ledger-client-cdk) – This package defines runtime meant to be used together with the icrc-ledger-client library.
 
 ### Oracles
 
