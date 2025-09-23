@@ -389,6 +389,10 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [ICRC-7 Motoko Launchpad](https://github.com/letmejustputthishere/icrc7_launchpad) - NFT launchpad example implementation by `letmejustputthishere`.
 - [EXT Motoko](https://github.com/flowerpowerdao/power-equalizer) - NFT implementation for the EXT standard by `flowerpowerdao`.
 
+### Faucets
+
+- [TESTICP & TESTICRC1](https://github.com/dfinity/ledger-faucet) - Minter implementation of the [official faucet](https://faucet.internetcomputer.org) for testing purposes on ICP mainnet. It enables devs and users to claim tokens on the [TESTICP](https://dashboard.internetcomputer.org/canister/xafvr-biaaa-aaaai-aql5q-cai) and [TESTICRC1](https://dashboard.internetcomputer.org/canister/3jkp5-oyaaa-aaaaj-azwqa-cai) ledgers.
+
 ### Analytical Methodologies
 
 - [OutRank-Rarity](https://github.com/OutRankNFT/OutRank-Rarity) - Implementation of mathematical code to calculate rarity within NFT collections in Python and Rust
