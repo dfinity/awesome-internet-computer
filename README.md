@@ -56,7 +56,6 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 - [DFINITY Examples Repo](https://github.com/dfinity/examples) - Code samples from DFINITY.
 - [Internet Computer Developer Hub](https://internetcomputer.org/docs/current/home) - The main entry point to documentation, guides and references.
-- [Internet Computer Sample Dapps](https://internetcomputer.org/samples) - DFINITY-maintained and community-contributed samples and tutorials.
 
 #### Simple / Getting started
 
