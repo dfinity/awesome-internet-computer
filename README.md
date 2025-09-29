@@ -56,7 +56,6 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 - [DFINITY Examples Repo](https://github.com/dfinity/examples) - Code samples from DFINITY.
 - [Internet Computer Developer Hub](https://internetcomputer.org/docs/current/home) - The main entry point to documentation, guides and references.
-- [Internet Computer Sample Dapps](https://internetcomputer.org/samples) - DFINITY-maintained and community-contributed samples and tutorials.
 
 #### Simple / Getting started
 
@@ -224,13 +223,15 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [pluto](https://github.com/Forge-3/pluto) – Rust framework for serving HTTP from a canister
 - [liminal](https://github.com/edjCase/liminal) – A Motoko, middleware-based framework for serving HTTP from a canister.
 
+### IDEs
 
+- [ICP Ninja](https://icp.ninja) - A browser IDE for creating Internet Computer (ICP) smart contracts. Write and deploy entire applications directly onchain from the browser.
 
 ### Testing
 
 - [pocket-ic](https://github.com/dfinity/ic/tree/master/packages/pocket-ic) - A canister testing library that supports deterministic, programmatic canister testing in Rust.
 - [pocketic-py](https://github.com/dfinity/pocketic-py) - A canister testing library that supports deterministic, programmatic canister testing in Python.
-- [pic-js](https://github.com/hadronous/pic-js) - A TypeScript/JavaScript library for testing canisters with support for PocketIC.
+- [pic-js](https://github.com/dfinity/pic-js) - A TypeScript/JavaScript library for testing canisters with support for PocketIC.
 - [canister-profiling](https://github.com/dfinity/canister-profiling) - Code & scripts for collecting performance data for canisters.
 - [ic-repl](https://github.com/chenyan2002/ic-repl) - A REPL environment to communicate with canisters. Allows to write E2E integration tests.
 - [ic-test](https://github.com/wasm-forge/ic-test) - Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.
@@ -266,7 +267,6 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 - [Motoko Dev Server](https://github.com/dfinity/motoko-dev-server) - A live reload development server for Motoko smart contracts.
 - [Motoko Formatter](https://github.com/dfinity/prettier-plugin-motoko) - A configurable Prettier plugin for Motoko.
 - [Motoko GitHub Repository](https://github.com/dfinity/motoko) - The home of the Motoko language.
-- [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/) - An online playground environment for Motoko.
 - [Motoko VS Code extension](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) - Motoko language support for Visual Studio Code.
 - [Motoko.js](https://www.npmjs.com/package/motoko) - Compile and run Motoko in Node.js and the browser.
 
@@ -391,7 +391,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 ### Faucets
 
-- [TESTICP & TESTICRC1](https://github.com/dfinity/ledger-faucet) - Minter implementation of the [official faucet](https://faucet.internetcomputer.org) for testing purposes on ICP mainnet. It enables devs and users to claim tokens on the [TESTICP](https://dashboard.internetcomputer.org/canister/xafvr-biaaa-aaaai-aql5q-cai) and [TESTICRC1](https://dashboard.internetcomputer.org/canister/3jkp5-oyaaa-aaaaj-azwqa-cai) ledgers.
+- [ledger-faucet](https://github.com/dfinity/ledger-faucet) - Minter implementation of the [official faucet](https://faucet.internetcomputer.org) for testing purposes on ICP mainnet. It enables devs and users to claim tokens on the [TESTICP](https://dashboard.internetcomputer.org/canister/xafvr-biaaa-aaaai-aql5q-cai) and [TESTICRC1](https://dashboard.internetcomputer.org/canister/3jkp5-oyaaa-aaaaj-azwqa-cai) ledgers.
 
 ### Analytical Methodologies
 
@@ -508,6 +508,8 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [evm-rpc-canister-types](https://crates.io/crates/evm-rpc-canister-types) – Types for interacting with the EVM RPC canister.
 - [Chain-key ECDSA](https://internetcomputer.org/how-it-works/threshold-ecdsa-signing/) - Tech that allows creating transactions targeting various chains from canisters on the Internet Computer.
 - [B3Wallet](https://github.com/B3Pay/b3-wallet) - A decentralized wallet supporting multiple blockchains, including Ethereum, Bitcoin, and ICP.
+- [Chain Fusion Signer](https://github.com/dfinity/chain-fusion-signer) - A canister that does nothing but sign transactions for use on other blockchains.
+- [ic-pub-key](https://github.com/dfinity/ic-pub-key) - A TypeScript library for client-side key derivation on ICP.
 
 ### Bitcoin
 
