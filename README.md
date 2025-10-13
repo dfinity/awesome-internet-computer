@@ -565,6 +565,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ## Decentralized AI
 
+- [anda](https://github.com/ldclabs/anda) – An AI agent framework built with Rust, powered by ICP and TEEs.
 - [ArcMind AI](https://github.com/arcmindai/arcmindai) - LLM-powered autonomous agent that uses Chain of thoughts for reasoning, taking actions, and completing goals. [Try the app here](https://arcmindai.app)
 - [ArcMind Vector DB](https://github.com/arcmindai/arcmindvector) - A Vector DB with similarity search supporting text, image, and audio embeddings, based on k-d tree, useful for AI applications like recommendation and Retrieval-Augmented Generation.
 - [Blueband](https://github.com/acgodson/blueband-db)- An on-chain vector DB for semantic search and document retrieval, optimized for static datasets.
