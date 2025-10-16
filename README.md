@@ -510,6 +510,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [B3Wallet](https://github.com/B3Pay/b3-wallet) - A decentralized wallet supporting multiple blockchains, including Ethereum, Bitcoin, and ICP.
 - [Chain Fusion Signer](https://github.com/dfinity/chain-fusion-signer) - A canister that does nothing but sign transactions for use on other blockchains.
 - [ic-pub-key](https://github.com/dfinity/ic-pub-key) - A TypeScript library for client-side key derivation on ICP.
+- [ic-pub-key](https://crates.io/crates/ic-pub-key) - A Rust library for client-side key derivation on ICP.
 
 ### Bitcoin
 
