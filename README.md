@@ -26,7 +26,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Infrastructure](#infrastructure)
 - [Fungible and Non-fungible Tokens (NFTs)](#fungible-and-non-fungible-tokens-nfts)
 - [Messaging](#messaging)
-- [Decentralized Finance](#decentralized-finance)
+- [Decentralized Finance (DeFi)](#decentralized-finance-defi)
 - [DAO Frameworks](#dao-frameworks)
 - [Game Development](#game-development)
 - [Wallets and Authentication](#wallets-and-authentication)
@@ -56,7 +56,6 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 
 - [DFINITY Examples Repo](https://github.com/dfinity/examples) - Code samples from DFINITY.
 - [Internet Computer Developer Hub](https://internetcomputer.org/docs/current/home) - The main entry point to documentation, guides and references.
-- [Internet Computer Sample Dapps](https://internetcomputer.org/samples) - DFINITY-maintained and community-contributed samples and tutorials.
 
 #### Simple / Getting started
 
@@ -220,14 +219,22 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [wasi2ic](https://github.com/wasm-forge/wasi2ic) - Convert WASI binaries into binaries runnable on the IC.
 - [setup-dfx](https://github.com/dfinity/setup-dfx) – GitHub Action to set up dfx
 - [ICP Support](https://marketplace.visualstudio.com/items?itemName=blockydevs.vscode-motoko-helper) - VS Code extension for deploying and interacting with canisters directly from within the editor.
+- [Canister DNS](https://canisterdns.stevekimoi.me) - A tool to easily connect your custom domain to your canister URL, supporting both main domains and subdomains.
+- [pluto](https://github.com/Forge-3/pluto) – Rust framework for serving HTTP from a canister
+- [liminal](https://github.com/edjCase/liminal) – A Motoko, middleware-based framework for serving HTTP from a canister.
+
+### IDEs
+
+- [ICP Ninja](https://icp.ninja) - A browser IDE for creating Internet Computer (ICP) smart contracts. Write and deploy entire applications directly onchain from the browser.
 
 ### Testing
 
 - [pocket-ic](https://github.com/dfinity/ic/tree/master/packages/pocket-ic) - A canister testing library that supports deterministic, programmatic canister testing in Rust.
 - [pocketic-py](https://github.com/dfinity/pocketic-py) - A canister testing library that supports deterministic, programmatic canister testing in Python.
-- [pic-js](https://github.com/hadronous/pic-js) - A TypeScript/JavaScript library for testing canisters with support for PocketIC.
+- [pic-js](https://github.com/dfinity/pic-js) - A TypeScript/JavaScript library for testing canisters with support for PocketIC.
 - [canister-profiling](https://github.com/dfinity/canister-profiling) - Code & scripts for collecting performance data for canisters.
 - [ic-repl](https://github.com/chenyan2002/ic-repl) - A REPL environment to communicate with canisters. Allows to write E2E integration tests.
+- [ic-test](https://github.com/wasm-forge/ic-test) - Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.
 - [lightic](https://github.com/icopen/lightic) - Write & Run tests for any canister in JS/TS. Canisters will be run inside nodejs environment, no DFX.
 
 ### Benchmarking
@@ -260,7 +267,6 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 - [Motoko Dev Server](https://github.com/dfinity/motoko-dev-server) - A live reload development server for Motoko smart contracts.
 - [Motoko Formatter](https://github.com/dfinity/prettier-plugin-motoko) - A configurable Prettier plugin for Motoko.
 - [Motoko GitHub Repository](https://github.com/dfinity/motoko) - The home of the Motoko language.
-- [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/) - An online playground environment for Motoko.
 - [Motoko VS Code extension](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) - Motoko language support for Visual Studio Code.
 - [Motoko.js](https://www.npmjs.com/package/motoko) - Compile and run Motoko in Node.js and the browser.
 
@@ -286,6 +292,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [didc](https://github.com/dfinity/candid/tree/master/tools/didc) - A multi-purpose tool for Candid.
 - [idl2json](https://github.com/dfinity/idl2json) - Command line tool for converting Candid to JSON.
 - [Intellij Candid Plugin](https://github.com/Alaanor/candid-intellij-plugin) - A Candid language plugin for editing .did files.
+- [generate-did](https://crates.io/crates/generate-did) - A tool to generate Candid (.did) files for Internet Computer Rust canisters. 
 
 ### Candid implementations
 
@@ -350,7 +357,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 ## Infrastructure
 
 - [IC WebSocket Gateway](https://github.com/omnia-network/ic-websocket-gateway) - Gateway that enables clients to open WebSocket connections with canisters. This is the [HTTP Gateway](https://internetcomputer.org/docs/current/references/http-gateway-protocol-spec/) counterpart for WebSockets.
-- [Idempotent Proxy](https://github.com/ldclabs/idempotent-proxy) - Reverse proxy server with build-in idempotency support written in Rust.
+- [Idempotent Proxy](https://github.com/ldclabs/idempotent-proxy) - Reverse proxy server with built-in idempotency support written in Rust.
 
 ## Fungible and Non-fungible Tokens (NFTs)
 
@@ -360,7 +367,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [ICRC-1](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-1/README.md) - Base fungible token standard.
 - [ICRC-2](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-2/README.md) - Extension to support `approve` and `transfer_from`.
-- [ICRC-7](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-7/ICRC-7.md) - Base Non-Fungible Token (NFT) Standard.
+- [ICRC-7](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-7/ICRC-7.md) - Base NFT Standard.
 
 #### Other Interface Standards
 
@@ -371,18 +378,24 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 ### Implementations
 
-- [ICRC-7 Motoko implementation](https://github.com/PanIndustrial-Org/icrc7.mo)
-- [ICRC-7 Rust Launchpad implementation](https://github.com/tuminfei/icrc7_launchpad)
-- [ICRC-7 Motoko Launchpad implementation](https://github.com/letmejustputthishere/icrc7_launchpad)
-- [ICRC-7 Rust implementation](https://github.com/UncensoredGreats/NFT/)
-- [ICRC-7 Rust implementation](https://github.com/pramitgaha21/icrc7)
-- [ICRC-7 Rust implementation](https://github.com/tuminfei/yuku_icrc7)
-- [EXT Motoko implementation](https://github.com/flowerpowerdao/power-equalizer)
-- [ICRC-1 Rust implementation](https://github.com/dfinity/ic/tree/master/rs/ledger_suite/icrc1)
+- [ICRC-1/2/3 Rust](https://github.com/dfinity/ic/tree/master/rs/ledger_suite/icrc1) - Fungible token reference implementation by DFINITY.
+- [ICRC-1/2/3 Motoko](https://github.com/PanIndustrial-Org/ICRC_fungible) - Fungible token reference implementation by Pan Industrial.
+- [ICRC-7 Rust](https://github.com/ORIGYN-SA/nft) - NFT reference implementation by ORIGYN.
+- ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust](https://github.com/UncensoredGreats/NFT/) - NFT launchpad example implementation by `UncensoredGreats`.
+- ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust](https://github.com/pramitgaha21/icrc7) - NFT launchpad example implementation by `pramitgaha21`.
+- ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust](https://github.com/tuminfei/yuku_icrc7) - NFT launchpad example implementation by `tuminfei`.
+- ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust Launchpad](https://github.com/tuminfei/icrc7_launchpad) - NFT launchpad example implementation by `tuminfei`.
+- [ICRC-7 Motoko](https://github.com/PanIndustrial-Org/icrc7.mo) - NFT reference implementation by Pan Industrial.
+- [ICRC-7 Motoko Launchpad](https://github.com/letmejustputthishere/icrc7_launchpad) - NFT launchpad example implementation by `letmejustputthishere`.
+- [EXT Motoko](https://github.com/flowerpowerdao/power-equalizer) - NFT implementation for the EXT standard by `flowerpowerdao`.
+
+### Faucets
+
+- [ledger-faucet](https://github.com/dfinity/ledger-faucet) - Minter implementation of the [official faucet](https://faucet.internetcomputer.org) for testing purposes on ICP mainnet. It enables devs and users to claim tokens on the [TESTICP](https://dashboard.internetcomputer.org/canister/xafvr-biaaa-aaaai-aql5q-cai) and [TESTICRC1](https://dashboard.internetcomputer.org/canister/3jkp5-oyaaa-aaaaj-azwqa-cai) ledgers.
 
 ### Analytical Methodologies
 
-- [OutRank-Rarity](https://github.com/OutRankNFT/OutRank-Rarity) - implementation of mathematical code to calculate rarity within NFT collections in Python and Rust
+- [OutRank-Rarity](https://github.com/OutRankNFT/OutRank-Rarity) - Implementation of mathematical code to calculate rarity within NFT collections in Python and Rust
 
 ## Messaging
 
@@ -391,6 +404,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [W3NS](https://github.com/miguelToscano/w3ns) - An Internet Computer service for notifications.
 - [dMsg](https://dmsg.net/) - A decentralized end-to-end encrypted messaging app.
 - [Diode](https://diode.io/) - Decentralized team collaboration app for mobile & desktop
+- [ic-telegram-bot](https://github.com/nomeata/ic-telegram-bot) - A telegram bot on the Internet Computer
 
 ## Decentralized Finance (DeFi)
 
@@ -408,6 +422,11 @@ Candid is an interface description language (IDL) for interacting with canisters
 - [ICTC](https://github.com/iclighthouse/ICTC) - Distributed transaction framework for DeFi applications.
 - [ICSI](https://github.com/garudaidr/icp-subaccount-indexer) - Simplify ICRC token tracking and management within sub-accounts using the ICP Sub-Account Indexer.
 - [ICSpore DCA](https://github.com/ICSpore/dca-v1) - Payment solution for automated DCA purchases
+- [ic-ledger-types](https://crates.io/crates/ic-ledger-types) – A library of types to communicate with the ICP ledger canister.
+- [icrc-ledger-types](https://crates.io/crates/icrc-ledger-types) – This package defines types for interacting with a ledger that is compliant with the ICRC-1 fungible token standard.
+- [icrc-ledger-agent](https://crates.io/crates/icrc-ledger-agent) – This package provides functions for interacting with a ledger that is compliant with the ICRC-1 fungible token standard.
+- [icrc-ledger-client](https://crates.io/crates/icrc-ledger-client) – This package defines functions for interacting from canister code with a ledger that is compliant with the ICRC-1 fungible token standard.
+- [icrc-ledger-client-cdk](https://crates.io/crates/icrc-ledger-client-cdk) – This package defines runtime meant to be used together with the icrc-ledger-client library.
 
 ### Oracles
 
@@ -452,6 +471,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Internet Identity](https://github.com/dfinity/internet-identity) - Pseudoymous authentication system for the Internet Computer.
 - [NFID](https://nfid.one/) - Digital identity for signing in to applications privately and securely.
 - [NNS Dapp](https://nns.ic0.app/) - Stake ICP in neurons, participate in governance and decentralization sales.
+- [Payments Wallet](https://docs.package-manager.com/payments-wallet-the-wallet-of-ic-pack-ecosystem/) - A Wallet installed into user's canister for maximum security. Supports payment thresholds. Will support in-app payments.
 - [Plug](https://plugwallet.ooo/) - Chrome extension and mobile wallet.
 - [Stoic](https://www.stoicwallet.com/) - Web wallet.
 
@@ -461,6 +481,8 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [artemis](https://github.com/sonicdex/artemis) – Wallet adapter for connecting different wallets on the Internet Computer.
 - [ic-siwe](https://github.com/kristoferlund/ic-siwe) - Authentication library to enable SIWE (Sign in with Ethereum) functionality for ICP applications.
 - [ic-siws](https://github.com/kristoferlund/ic-siws) – Authentication library to enable SIWS (Sign in with Solana) functionality for ICP applications.
+- [ic-siwb](https://github.com/AstroxNetwork/ic-siwb) – Authentication library to enable SIWB (Sign in with Bitcoin) functionality for ICP applications.
+- [ic-sis](https://github.com/Talentum-id/ic_sis) – Authentication library to enable SIS (Sign in with SUI) functionality for ICP applications.
 - [connect2ic](https://connect2ic.github.io/docs/) - A frontend auth library & toolkit for the Internet Computer.
 
 ## Dashboards, Explorers and Registries
@@ -486,6 +508,9 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [evm-rpc-canister-types](https://crates.io/crates/evm-rpc-canister-types) – Types for interacting with the EVM RPC canister.
 - [Chain-key ECDSA](https://internetcomputer.org/how-it-works/threshold-ecdsa-signing/) - Tech that allows creating transactions targeting various chains from canisters on the Internet Computer.
 - [B3Wallet](https://github.com/B3Pay/b3-wallet) - A decentralized wallet supporting multiple blockchains, including Ethereum, Bitcoin, and ICP.
+- [Chain Fusion Signer](https://github.com/dfinity/chain-fusion-signer) - A canister that does nothing but sign transactions for use on other blockchains.
+- [ic-pub-key](https://github.com/dfinity/ic-pub-key) - A TypeScript library for client-side key derivation on ICP.
+- [ic-pub-key](https://crates.io/crates/ic-pub-key) - A Rust library for client-side key derivation on ICP.
 
 ### Bitcoin
 
@@ -495,11 +520,15 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Multi-Subnet Bitcoin Wallet](https://github.com/sardariuss/ic_btc_multisig) - Proof-of-Concept of multi-subnet Bitcoin custody for increased secruty.
 - [Loka](https://github.com/lokaverse/loka_canister) - Trustless Non-Custodial Bitcoin Mining Platform built on ICP.
 - [runes-indexer](https://github.com/octopus-network/runes-indexer) – An onchain runes indexer on the Internet Computer.
+- [Bitcoin Metaprotocols Canister](https://github.com/maestro-org/maestro-bitcoin-metaprotocols-canister) – An onchain Bitcoin metaprotocol indexer on the Internet Computer.
 - [Ordinals Canister](https://github.com/sardariuss/ordinals_canister) - A canister that enables the retrieval of BTC ordinals and their corresponding inscriptions.
 - [Inscription Canister](https://github.com/domwoe/inscription_canister) - A canister to create Ordinal inscriptions.
+- [ordinals-indexer](https://github.com/octopus-network/ordinals-indexer) - An onchain ordinals indexer for querying stats and inscriptions.
 
 ### Ethereum
 
+- [BOLD Autonomous Interest Rate Manager for Liquity v2 Troves](https://github.com/liquity/bold-ir-management)
+- [ic-test](https://github.com/wasm-forge/ic-test) - Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.
 - [Bitfinity EVM](https://bitfinity.network) - An Ethereum Virtual Machine (EVM) on ICP.
 - [CCAMP](https://github.com/usherlabs/ccamp) - General-purpose, modular, and custom data-driven Cross-chain Asset Management Protocol.
 - [ChainSight](https://docs.chainsight.network/chainsight-overview/introduction) - Composable cross-chain data oracles built on HTTPS Outcalls and Chain-key ECDSA.
@@ -525,6 +554,12 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Galactic Bridge](https://github.com/weichain/galactic-bridge-icp) - Canister-controlled SOL bridge using Chain Fusion tech.
 - [Solana RPC Canister](https://github.com/mfactory-lab/ic-solana) - Interact with Solana blockchain from the Internet Computer.
 
+### Cosmos
+- [ic-cosmos](https://github.com/poroburu/ic-cosmos) – Interact with Cosmos from the Internet Computer.
+
+### TON
+- [TON transaction in the Telegram mini app](https://github.com/4iDPS/peymate_ii) - A Telegram mini app for TON transaction, Threshold Schnorr signatures verification, and RPC submission.
+
 ## Internet of Things
 
 - [Omnia Network](https://github.com/omnia-network) - A platform that enables canisters to access any IoT device through a uniform HTTP interface.
@@ -532,8 +567,10 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ## Decentralized AI
 
+- [anda](https://github.com/ldclabs/anda) – An AI agent framework built with Rust, powered by ICP and TEEs.
 - [ArcMind AI](https://github.com/arcmindai/arcmindai) - LLM-powered autonomous agent that uses Chain of thoughts for reasoning, taking actions, and completing goals. [Try the app here](https://arcmindai.app)
 - [ArcMind Vector DB](https://github.com/arcmindai/arcmindvector) - A Vector DB with similarity search supporting text, image, and audio embeddings, based on k-d tree, useful for AI applications like recommendation and Retrieval-Augmented Generation.
+- [Blueband](https://github.com/acgodson/blueband-db)- An on-chain vector DB for semantic search and document retrieval, optimized for static datasets.
 - [Cipher AI Vault](https://github.com/supaIC/Cipher-AI-Vault) - Azle-based PoC with in-memory VectorDB & LLM, secure asset & data storage, cycles topup, and multi-wallet authentication, showcasing fully-sandboxed AI on the Internet Computer. [Try it here](https://qehbq-rqaaa-aaaan-ql2iq-cai.icp0.io/)
 - [DataPond.ai integration with ICP](https://github.com/ReCheck-io/icp-datapond-integration) - ICP-enabled Retrieval Augmented Generation (RAG) tool for transparent AI data feeding and data tracing on the ICP network [Try it here](https://icp-prod.datapond.ai).
 - [DeAI Technical Working Group](https://github.com/DeAIWorkingGroupInternetComputer/DeAIWorkingGroupInternetComputer) - Repo of the ICP DeAI WG with weekly call summaries and additional resources.
@@ -549,18 +586,20 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Vectune](https://github.com/ClankPan/Vectune) - A lightweight vector database with incremental indexing based on FreshVamana for retrieval-augmented generation (RAG).
 - [yllama](https://github.com/gip/yllama.oc) - An on-chain Llama 3 inference engine optimized for real-world workloads using non-quantized 8b parameters Llama models.
 - [ICSoccerWorld Trainer](https://github.com/ktimam/SoccerTrainer) - Flashlight multilayer perceptron deep learning used for training soccer agents on ICP.
+- [ICP Agent Kit](https://github.com/justmert/icp-agent-kit) - ICP Agent Kit is a comprehensive TypeScript SDK that brings natural language processing (via LangChain) to Internet Computer blockchain operations.
 
 ## ZK
 
 - [icp-zk-maze](https://github.com/zCloak-Network/icp-zk-maze) - ZK Maze is a ZK coprocessor developed by zCloak. ZK coprocessor offloads intensive Zero-Knowledge (ZK) computations from traditional blockchains, enabling the creation and verification of Zero-Knowledge Proofs (ZKPs) without revealing private information.
 - [Jolt Verifier Canister](https://github.com/flyq/jolt_verifier_canister) - A Canister which can verify the proof generated by [Jolt](https://github.com/a16z/jolt) zkVM.
 - [Pado zkAttestations](https://github.com/pado-labs/pado-icp) - A The main functionalities provided by zkAttestations are creating attestations from the PADO extension, and recording attestations on the IC network. In addition, the basic attestation framework created in this project supports developers in creating their attestation-based dApps.
+- [Gnark Plonk Verifer](https://github.com/lightec-xyz/plonk_verifier_on_icp) - A Canister that can verify proofs generated by [gnark](https://github.com/Consensys/gnark) on the BN254 curve.
 
 ## How it works / Deep dives
 
+- [Internet Computer Learn Hub](https://learn.internetcomputer.org) - Learn how the IC realizes the vision of the World Computer.
 - [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
 - [Internet Computer Wiki](https://wiki.internetcomputer.org/wiki/Internet_Computer_wiki) - General knowledge resource about the Internet Computer.
-- [How it works](https://internetcomputer.org/how-it-works) - Learn how the IC realizes the vision of the World Computer.
 - [Constellation Book](https://neutronstardao.github.io/constellation.github.io/about.html) - Explains the underlying principles of IC in a simple and easy-to-understand manner.
 
 ## Blogs
@@ -576,15 +615,11 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 ## Communities and Communication
 
 - [DFINITY Developer Forum](https://forum.dfinity.org/) - Main forum about the Internet Computer.
+- [ICP Discord](https://discord.internetcomputer.org) - Developer-oriented community Discord where DFINITY hosts office hours for technical Q&A.
 - [IC Dev PR Handbook](https://dfinityorg.notion.site/Let-s-get-you-some-attention-c7eaabbc87d142f5baa92096cadc181f?pvs=4) - PR support for devs and projects in the IC ecosystem.
-- [IC Developer Community Discord](https://discord.gg/jnjVVQaE2C) - Developer-oriented community Discord.
-- [ICP Discord](https://discord.gg/FygMb5VyCQ) - Multi-language server for the broader community.
-- [ICP League](https://qbw7d-giaaa-aaaaj-aalta-cai.ic0.app/) - Fostering a world-class community for Internet Computer Ecosystem.
-- [Internet Computer Academy](https://internetcomputer.academy/) - Open-source and community-driven knowledge base about the IC.
 
 ## Bounties and Grants
 
-- [DFINITY Developer Grants and Bounties](http://dfinity.org/grants) / [Requests and Discussions](https://github.com/dfinity/grant-rfps/discussions) - Developer Grant and Bounty program provided by the DFINITY foundation.
+- [DFINITY Developer Grants](http://dfinity.org/grants) - Developer Grant program provided by the DFINITY foundation.
 - [Requests for Startups](https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md) - A list of ideas for startups to build on the Internet Computer.
 - [ICDevs Bounties](https://icdevs.org/bounties.html) - Code bounties by the ICDevs organization.
-- [Video: Overview of the Developer Grants Program](https://www.youtube.com/watch?v=hoYo-c9SMfQ) - A video that explains the objective and the process of the DFINITY Developer Grants program.
