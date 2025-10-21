@@ -126,7 +126,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 ### Python
 
-- ⚠️ UNMAINTAINED ⚠️ [ic-py](https://github.com/rocklabs-io/ic-py) - Library for interfacing with the IC using Python.
+- [icp-py-core](https://github.com/eliezhao/icp-py-core) - Library for interfacing with the IC using Python.
 
 ### Dart/Flutter
 
