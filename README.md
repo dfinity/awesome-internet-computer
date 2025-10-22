@@ -504,8 +504,9 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Alloy Toolkit](https://github.com/kristoferlund/ic-alloy-toolkit) - Examples of interacting with Ethereum from a Rust canister using the Alloy EVM support libraries
 - [SIWE starter](https://github.com/kristoferlund/ic-siwe-react-demo-rust) - Login in to ICP using Metamask and other Ethereum wallets.
 - [Chain Fusion Starter](https://github.com/letmejustputthishere/chain-fusion-starter) – starter template leveraging chain fusion technology to build EVM coprocessors on the Internet Computer Protocol
-- [ic-evm-utils](https://crates.io/crates/ic-evm-utils) – Utils for interacting with Ethereum from ICP canisters.
-- [evm-rpc-canister-types](https://crates.io/crates/evm-rpc-canister-types) – Types for interacting with the EVM RPC canister.
+- [ic-evm-utils](https://crates.io/crates/ic-evm-utils) – Rust utils for interacting with Ethereum from ICP canisters.
+- [evm-rpc-canister-types](https://crates.io/crates/evm-rpc-canister-types) – Rust types for interacting with the EVM RPC canister.
+- [evm-rpc-client](https://crates.io/crates/evm_rpc_client) - A Rust client for interacting with the EVM RPC canister.
 - [Chain-key ECDSA](https://internetcomputer.org/how-it-works/threshold-ecdsa-signing/) - Tech that allows creating transactions targeting various chains from canisters on the Internet Computer.
 - [B3Wallet](https://github.com/B3Pay/b3-wallet) - A decentralized wallet supporting multiple blockchains, including Ethereum, Bitcoin, and ICP.
 - [Chain Fusion Signer](https://github.com/dfinity/chain-fusion-signer) - A canister that does nothing but sign transactions for use on other blockchains.
