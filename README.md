@@ -34,6 +34,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Chain Fusion](#chain-fusion)
 - [Internet of Things](#internet-of-things)
 - [Decentralized AI](#decentralized-ai)
+- [Model context protocol](#mcp)
 - [ZK](#zk)
 - [How it works / Deep dives](#how-it-works--deep-dives)
 - [Blogs](#blogs)
@@ -589,7 +590,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [ICSoccerWorld Trainer](https://github.com/ktimam/SoccerTrainer) - Flashlight multilayer perceptron deep learning used for training soccer agents on ICP.
 - [ICP Agent Kit](https://github.com/justmert/icp-agent-kit) - ICP Agent Kit is a comprehensive TypeScript SDK that brings natural language processing (via LangChain) to Internet Computer blockchain operations.
 
-## MCP
+## MCP - Model context protocol
 - [Rust SDK](https://github.com/ByteSmithLabs/ic-rmcp)
 - [Motoko SDK](https://github.com/prometheus-protocol/motoko-sdk)
 - [Prometheus protocol - MCP marketplace](https://github.com/prometheus-protocol/prometheus-protocol)
