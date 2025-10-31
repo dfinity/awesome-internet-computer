@@ -34,6 +34,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Chain Fusion](#chain-fusion)
 - [Internet of Things](#internet-of-things)
 - [Decentralized AI](#decentralized-ai)
+- [Model Context Protocol](#mcp---model-context-protocol)
 - [ZK](#zk)
 - [How it works / Deep dives](#how-it-works--deep-dives)
 - [Blogs](#blogs)
@@ -588,6 +589,11 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [yllama](https://github.com/gip/yllama.oc) - An on-chain Llama 3 inference engine optimized for real-world workloads using non-quantized 8b parameters Llama models.
 - [ICSoccerWorld Trainer](https://github.com/ktimam/SoccerTrainer) - Flashlight multilayer perceptron deep learning used for training soccer agents on ICP.
 - [ICP Agent Kit](https://github.com/justmert/icp-agent-kit) - ICP Agent Kit is a comprehensive TypeScript SDK that brings natural language processing (via LangChain) to Internet Computer blockchain operations.
+
+## MCP - Model Context Protocol
+- [ic-rmcp](https://github.com/ByteSmithLabs/ic-rmcp) - A lightweight Rust SDK for implementing MCP servers on the Internet Computer.
+- [motoko-sdk](https://github.com/prometheus-protocol/motoko-sdk) - A comprehensive, robust, and developer-friendly Motoko SDK for building MCP compliant servers on the Internet Computer.
+- [prometheus-protocol](https://github.com/prometheus-protocol/prometheus-protocol) - A decentralized app store for community-verified MCP servers on the Internet Computer.
 
 ## ZK
 
