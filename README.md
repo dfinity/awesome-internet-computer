@@ -589,6 +589,11 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [ICSoccerWorld Trainer](https://github.com/ktimam/SoccerTrainer) - Flashlight multilayer perceptron deep learning used for training soccer agents on ICP.
 - [ICP Agent Kit](https://github.com/justmert/icp-agent-kit) - ICP Agent Kit is a comprehensive TypeScript SDK that brings natural language processing (via LangChain) to Internet Computer blockchain operations.
 
+## MCP
+- [Rust SDK](https://github.com/ByteSmithLabs/ic-rmcp)
+- [Motoko SDK](https://github.com/prometheus-protocol/motoko-sdk)
+- [Prometheus protocol - MCP marketplace](https://github.com/prometheus-protocol/prometheus-protocol)
+
 ## ZK
 
 - [icp-zk-maze](https://github.com/zCloak-Network/icp-zk-maze) - ZK Maze is a ZK coprocessor developed by zCloak. ZK coprocessor offloads intensive Zero-Knowledge (ZK) computations from traditional blockchains, enabling the creation and verification of Zero-Knowledge Proofs (ZKPs) without revealing private information.
