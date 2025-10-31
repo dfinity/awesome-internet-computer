@@ -591,9 +591,9 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [ICP Agent Kit](https://github.com/justmert/icp-agent-kit) - ICP Agent Kit is a comprehensive TypeScript SDK that brings natural language processing (via LangChain) to Internet Computer blockchain operations.
 
 ## MCP - Model Context Protocol
-- [Rust SDK](https://github.com/ByteSmithLabs/ic-rmcp)
-- [Motoko SDK](https://github.com/prometheus-protocol/motoko-sdk)
-- [Prometheus protocol - MCP marketplace](https://github.com/prometheus-protocol/prometheus-protocol)
+- [ic-rmcp](https://github.com/ByteSmithLabs/ic-rmcp) - A lightweight Rust SDK for implementing MCP servers on the Internet Computer.
+- [motoko-sdk](https://github.com/prometheus-protocol/motoko-sdk) - A comprehensive, robust, and developer-friendly Motoko SDK for building MCP compliant servers on the Internet Computer.
+- [prometheus-protocol](https://github.com/prometheus-protocol/prometheus-protocol) - A decentralized app store for community-verified MCP servers on the Internet Computer.
 
 ## ZK
 
