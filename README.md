@@ -34,7 +34,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Chain Fusion](#chain-fusion)
 - [Internet of Things](#internet-of-things)
 - [Decentralized AI](#decentralized-ai)
-- [Model context protocol](#mcp---model-context-protocol)
+- [Model Context Protocol](#mcp---model-context-protocol)
 - [ZK](#zk)
 - [How it works / Deep dives](#how-it-works--deep-dives)
 - [Blogs](#blogs)
