@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dfinity-awesome-internet-computer-badge.png)](https://mseep.ai/app/dfinity-awesome-internet-computer)
+
 <!-- omit in toc -->
 
 # Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
