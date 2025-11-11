@@ -282,6 +282,7 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 - [Server](https://github.com/krpeacock/server) - An Express-style http framework for serving certified http responses from canisters.
 - [ic-websocket-cdk](https://mops.one/ic-websocket-cdk) - IC WebSocket CDK for canisters written in Motoko.
 - [IC-TEE](https://github.com/ldclabs/ic-tee) - A framework to make Trusted Execution Environments (TEEs) work with the Internet Computer.
+- [motoko_regex](https://github.com/demali-876/motoko_regex_engine) Library for native pattern matching on the Internet Computer.
 
 ## Candid
 
