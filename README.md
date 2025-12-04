@@ -270,6 +270,7 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 - [Motoko Formatter](https://github.com/dfinity/prettier-plugin-motoko) - A configurable Prettier plugin for Motoko.
 - [Motoko GitHub Repository](https://github.com/dfinity/motoko) - The home of the Motoko language.
 - [Motoko VS Code extension](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) - Motoko language support for Visual Studio Code.
+- [Motoko Zed extension](https://zed.dev/extensions/motoko) - Motoko language support for Zed.
 - [Motoko.js](https://www.npmjs.com/package/motoko) - Compile and run Motoko in Node.js and the browser.
 
 ### Package Managers
