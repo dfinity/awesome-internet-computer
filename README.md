@@ -259,6 +259,10 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Canister to publicly expose canister status information.
 - [Metrics encoder](https://lib.rs/crates/ic-metrics-encoder) - Library to encode metrics in Prometheus text exposition format.
 
+### Orchestrating
+
+- [Canic](https://github.com/dragginzgame/canic) - A Rust toolkit for orchestrating Internet Computer (IC) canisters at scale.
+
 ## Motoko
 
 Motoko is a safe, simple, actor-based programming language for authoring Internet Computer (IC) canister smart contracts.
@@ -280,7 +284,6 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 
 ### Libraries / Frameworks
 
-- [Canic](https://github.com/dragginzgame/canic) - A Rust toolkit for orchestrating Internet Computer (IC) canisters at scale.
 - [IC Certification](https://github.com/nomeata/ic-certification) - Merkle Tree and support for certified variables and assets.
 - [Server](https://github.com/krpeacock/server) - An Express-style http framework for serving certified http responses from canisters.
 - [ic-websocket-cdk](https://mops.one/ic-websocket-cdk) - IC WebSocket CDK for canisters written in Motoko.
