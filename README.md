@@ -354,6 +354,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [IcyDB](https://github.com/dragginzgame/icydb) - Scalable DB/ORM written in Rust, battle tested and constantly updated.
 - [CanDB](https://github.com/ORIGYN-SA/CanDB) - Flexible, performant, and horizontally scalable non-relational multi-canister database built in Motoko.
+- [ic-dbms](https://github.com/veeso/ic-dbms) - An Internet Computer framework which provides an easy way to implement a database canister by just providing the database schema
 - [ic-oxigraph](https://github.com/omnia-network/ic-oxigraph) - An RDF database for the IC, that enables on-chain knowledge graphs.
 - [rusqlite](https://github.com/wasm-forge/examples/tree/main/ic-rusqlite) – SQLite database implementation in Rust using `wasi2ic`
 - [ic-sqlite](https://github.com/froghub-io/ic-sqlite) - SQLite on the IC.
