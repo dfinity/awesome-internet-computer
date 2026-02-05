@@ -195,6 +195,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### C/C++
 
 - [Chico](https://github.com/ICPorts-labs/chico) - C/C++ CDK.
+- [Lucid (cdk-c)](https://github.com/q2333gh/Lucid) - Pure C canister development kit for the Internet Computer (no C++ runtime).
 - [icpp-pro](https://docs.icpp.world/) - C++ CDK.
 
 ### AssemblyScript
