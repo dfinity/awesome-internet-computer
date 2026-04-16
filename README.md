@@ -1,6 +1,7 @@
 <!-- omit in toc -->
 
 # Awesome Internet Computer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 <a align="center" href="https://internetcomputer.org/">
   <img src="assets/awesome-cover.png">
