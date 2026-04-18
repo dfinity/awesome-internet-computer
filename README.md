@@ -646,3 +646,5 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [DFINITY Developer Grants](http://dfinity.org/grants) - Developer Grant program provided by the DFINITY foundation.
 - [Requests for Startups](https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md) - A list of ideas for startups to build on the Internet Computer.
 - [ICDevs Bounties](https://icdevs.org/bounties.html) - Code bounties by the ICDevs organization.
+
+- [7/Seven Chain Node](https://github.com/umairkhan2582/seven-chain-node) - Validator node for 7/Seven Chain (Chain ID: 70007), an EVM-compatible blockchain (BSC/Parlia fork) powering [TheSeven.meme](https://theseven.meme) — perpetual futures exchange with 100+ pairs, up to 2001× leverage, zero fees.
