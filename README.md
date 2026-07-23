@@ -484,6 +484,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 - [AstroX Me](https://astrox.me/#/) - Canister-based mobile/web multi-chain wallet.
 - [Bitfinity](https://wallet.infinityswap.one/) - Chrome extension.
+- [computr](https://codeberg.org/bradyinfinity/computr) - Airgap compatible wallet interface.
 - [ICRC-1 Wallet](https://github.com/research-ag/wallet) - Canister-based wallet for ICRC-1 compliant tokens.
 - [Internet Identity](https://github.com/dfinity/internet-identity) - Pseudoymous authentication system for the Internet Computer.
 - [NFID](https://nfid.one/) - Digital identity for signing in to applications privately and securely.
